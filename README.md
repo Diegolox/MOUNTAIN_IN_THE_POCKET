@@ -1,2 +1,2 @@
-# MOUNTAIN_IN_THE_POCKET
+# MOUNTAIN IN THE POCKET
 Un dispositivo que va  ayudar a muchos montañeros en sus expediciones.
