@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=3362P-1-103LF
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=3
+Version=1.4
+Released=2017-06-02 15:36:37
+Downloaded=2026-09-25 18:36:16
+3D=Y

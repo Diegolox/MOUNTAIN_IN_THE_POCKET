@@ -1,0 +1,16 @@
+.AS1115-BSST :1 ;AS1115 LED Driver IC 64LED matrix driver with 16keys
+SOP64P600X175-24N
+*STM IC
+*NGS
+*PLB 1="SDA" 2="DIG0" 3="DIG1" 4="DIG2" 5="DIG3" 6="GND" 7="DIG4" 8="DIG5" 9="DIG6" 10="DIG7" 11="KEYA" 12="KEYB" 13="ISET" 14="SCL" 15="SEGA" 16="SEGF" 17="SEGB" 18="SEGG" 19="VDD" 20="SEGC" 21="SEG E" 22="SEGDP" 23="SEGD" 24="IRQ"
+*MXP 24
+*DFN AS1115-BSST
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (ams OSRAM)
+~!Manufacturer_Part_Number (AS1115-BSST)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10002655.pdf)
+~!Height (1.75mm)
+~!3D_Model (AS1115-BSST)
+AS1115-BSST
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

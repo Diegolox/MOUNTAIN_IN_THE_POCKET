@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS1115-BSST
+D AS1115 LED Driver IC 64LED matrix driver with 16keys
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10002655.pdf
+$ENDCMP
+#
+#End Doc Library

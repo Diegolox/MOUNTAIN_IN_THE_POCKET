@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AS1115_BSST'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "AS1115-BSST" (!) = "", "SOP64P600X175-24N", "Small Outline Packages", "", "", "AS1115 LED Driver IC 64LED matrix driver with 16keys", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10002655.pdf", "1.75 mm"
+END_PART
+
+END.

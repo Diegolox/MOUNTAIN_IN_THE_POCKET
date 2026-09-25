@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3362P_1_103LF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Bourns", "3362P-1-103LF" (!) = "", "3362P_1", "Other", "", "", "10k, Through Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3362", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000139931.pdf"
+END_PART
+
+END.

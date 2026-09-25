@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "COMPONENTES_SCH") (type "KiCad") (uri "${KIPRJMOD}/COMPONENTES_SCH.kicad_sym") (options "") (descr ""))
+	(lib (name "COMPS") (type "KiCad") (uri "${KIPRJMOD}/COMPS.kicad_sym") (options "") (descr ""))
+)

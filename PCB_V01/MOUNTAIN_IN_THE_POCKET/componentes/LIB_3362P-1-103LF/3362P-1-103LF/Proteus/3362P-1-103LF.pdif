@@ -1,0 +1,100 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "3362P-1-103LF"
+   (description "10k, Through Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3362")
+   (family "ANA")
+   (package "3362P_1")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000139931.pdf")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "Bourns")
+   (attribute "Manufacturer_Part_Number" "3362P-1-103LF")
+   (gate
+    (symbol "3362P-1-103LF")
+    (pin "CCW" 1 PS)
+    (pin "WIPER" 2 PS)
+    (pin "CW" 3 PS)
+   )
+  )
+  (symbol "3362P-1-103LF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "3362P_1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.3 6.99)
+      (pt 3.3 6.99)
+      (pt 3.3 0)
+      (pt -3.3 0)
+      (pt -3.3 6.99))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.3 6.99)
+      (pt -3.3 0)
+      (pt 3.3 0)
+      (pt 3.3 6.99)
+      (pt -3.3 6.99))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -3.779 3.532) (pt -3.665 3.532)
+     )
+    )
+   )
+   (leg 1 (pt -2.54 3.53) (padstack 0))
+   (leg 2 (pt 0 6.07) (padstack 0))
+   (leg 3 (pt 2.54 3.53) (padstack 0))
+   (padstack 0
+    (hole 0.69)
+    (plated true)
+    (pad (layer TCOP) (round 1.12))
+    (pad (layer INNER) (round 1.12))
+    (pad (layer BCOP) (round 1.12))
+   )
+   (model "3362P-1-103LF.stp"
+    (euler 0 0 180)
+    (offset 0 3.8499999046325684 2.299999952316284)
+   )
+  )
+ )
+)
