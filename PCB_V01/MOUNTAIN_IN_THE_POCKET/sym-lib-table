@@ -1,4 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "LIBRERIA_MOUNTAIN_IN_THE_POCKET") (type "KiCad") (uri "${KIPRJMOD}/LIBRERIA_MOUNTAIN_IN_THE_POCKET.kicad_sym") (options "") (descr ""))
-)
