@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_976551"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-20-12:46:56)
+    (utime 2025-01-22-16:53:39)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 3) (portType INOUT))
+        (port "3" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "2N7002")
+)
+
+
+(pinAssign "ECS_976551"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-20-12:46:56)
+    (utime 2025-01-22-16:53:39)
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 2) (portName "D") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_976551")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "2N7002")
+)
+
+
+(part "2N7002"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-20-12:46:56)
+    (utime 2025-01-22-16:53:39)
+    (packageRef "2N7002")
+    (pinAssignRef "ECS_976551")
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 2) (portName "D") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability.")
+    (property "Farnell_Part_Number" "")
+    (property "Farnell_Price/Stock" "")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "2N7002")
+    (property "Datasheet_Link" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF")
+    (property "compAreaTopHeight" 1.2)
+)
+
+

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CEM-1205-IC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-10-21-12:30:24)
+    (mountForm default
+        (footprintRef "CEM1205IC")
+        (spec "System")
+    )
+)

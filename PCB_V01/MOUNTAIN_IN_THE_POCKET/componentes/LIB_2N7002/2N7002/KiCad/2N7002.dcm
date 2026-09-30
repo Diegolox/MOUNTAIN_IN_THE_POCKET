@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability.
+K
+F https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+$ENDCMP
+#
+#End Doc Library

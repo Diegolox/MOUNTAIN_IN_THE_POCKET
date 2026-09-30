@@ -1,0 +1,16 @@
+.2N7002 :1 ;Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability.
+SOT96P240X120-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN 2N7002
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (2N7002)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF)
+~!Height (1.2mm)
+~!3D_Model (2N7002)
+"2N7002"
+1.1!U 2.1!U 3.1!U 

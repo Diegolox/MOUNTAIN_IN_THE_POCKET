@@ -470,7 +470,8 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
-      "COMPONENTES_SCH"
+      "COMPONENTES_SCH",
+      "ESP32_TOOLS_DIEGO"
     ]
   },
   "meta": {
@@ -634,7 +635,7 @@
         "uuid": "e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
       }
     ],
-    "used_designators": "U1-2,#PWR1-2,D1-4,S1-3,R1,VR1",
+    "used_designators": "UC1,VR1-2,LS1,#PWR3-19,D2-9,S1-3,Q1,R2-9,SW1-2,C1,J1",
     "variants": []
   },
   "sheets": [

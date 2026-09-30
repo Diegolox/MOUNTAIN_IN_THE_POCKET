@@ -1,0 +1,16 @@
+.CEM-1205-IC :1 ;12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer
+CEM1205IC
+*STM LS
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CEM-1205-IC
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Same Sky)
+~!Manufacturer_Part_Number (CEM-1205-IC)
+~!Link Datasheet (https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf)
+~!Height (10mm)
+~!3D_Model (CEM-1205-IC)
+CEM-1205-IC
+1.1!U 2.1!U 

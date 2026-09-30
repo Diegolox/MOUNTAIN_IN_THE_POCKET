@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_15568481"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-21-12:30:24)
+    (utime 2026-05-20-15:53:20)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CEM-1205-IC")
+)
+
+
+(pinAssign "ECS_15568481"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-21-12:30:24)
+    (utime 2026-05-20-15:53:20)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_15568481")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CEM-1205-IC")
+)
+
+
+(part "CEM-1205-IC"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-21-12:30:24)
+    (utime 2026-05-20-15:53:20)
+    (packageRef "CEM-1205-IC")
+    (pinAssignRef "ECS_15568481")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LS")
+    (property "description" "12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer")
+    (property "Farnell_Part_Number" "")
+    (property "Farnell_Price/Stock" "")
+    (property "Manufacturer_Name" "Same Sky")
+    (property "Manufacturer_Part_Number" "CEM-1205-IC")
+    (property "Datasheet_Link" "https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf")
+    (property "compAreaTopHeight" 10)
+)
+
+

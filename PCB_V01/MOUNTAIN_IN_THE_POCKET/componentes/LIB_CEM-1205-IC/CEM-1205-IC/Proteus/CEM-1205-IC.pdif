@@ -1,0 +1,118 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CEM-1205-IC"
+   (description "12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer")
+   (family "ANA")
+   (package "CEM1205IC")
+   (attribute "Datasheet Link" "https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf")
+   (attribute "Geometry.Height" "10mm")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "Same Sky")
+   (attribute "Manufacturer_Part_Number" "CEM-1205-IC")
+   (gate
+    (symbol "CEM-1205-IC")
+    (pin "2" 2 PS)
+    (pin ""  PS)
+   )
+  )
+  (symbol "CEM-1205-IC"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 280 50) (pt 380 150) (pt 380 -250) (pt 280 -150) (pt 200 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 200 -150))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CEM1205IC"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7 3.2)
+      (pt 7 3.2)
+      (pt 7 -10.8)
+      (pt -7 -10.8)
+      (pt -7 3.2))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6 -3.8)
+      (arc (pt -6.000 -3.800) (pt -6.000 -9.800) (pt 6.000 2.200) (start 180.0) (sweep -180.0))
+      (pt 6 -3.8)
+      (arc (pt 6.000 -3.800) (pt -6.000 -9.800) (pt 6.000 2.200) (start 180.0) (sweep .0))
+      (pt -6 -3.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -6 -3.8)
+      (arc (pt -6.000 -3.800) (pt -6.000 -9.800) (pt 6.000 2.200) (start 180.0) (sweep -180.0))
+      (pt 6 -3.8)
+      (arc (pt 6.000 -3.800) (pt -6.000 -9.800) (pt 6.000 2.200) (start 180.0) (sweep .0))
+      (pt -6 -3.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 2.6)
+      (arc (pt 0.000 2.600) (pt -0.050 2.600) (pt 0.050 2.700) (start 180.0) (sweep -90.0))
+      (pt 0 2.7)
+      (arc (pt 0.000 2.700) (pt -0.050 2.600) (pt 0.050 2.700) (start 180.0) (sweep 90.0))
+      (pt 0 2.6))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 0.000 -7.600) (padstack 2))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (square 2.500))
+    (pad (layer INNER) (round 2.500))
+    (pad (layer BCOP) (square 2.500))
+   )
+   (padstack 2
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 2.500))
+    (pad (layer INNER) (round 2.500))
+    (pad (layer BCOP) (round 2.500))
+   )
+   (model "CEM-1205-IC.stp"
+    (euler 90 0 90)
+    (offset 0 -3.799999952316284 -0.10000000149011612)
+   )
+  )
+ )
+)

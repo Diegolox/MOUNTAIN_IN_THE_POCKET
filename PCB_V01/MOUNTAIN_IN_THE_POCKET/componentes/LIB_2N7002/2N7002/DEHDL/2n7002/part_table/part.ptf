@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2N7002'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "TKNEE", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "RCA", "RJC", "IG", "ID", "VDS", "VGSF", "VGSR", "VTH", "RON", "IDM";
+{========================================================================================}
+ "onsemi", "2N7002" (!) = "", "SOT96P240X120-3N", "SOT23 (3-Pin)", "", "", "Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability.", "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF", "1.2 mm", "150", "", "", "200m", "7.5", "N CHANNEL ENHANCEMENT MOSFET SMD", "SOT-23 3L", "625", "", "", "100n", "115m", "60", "20", "20", "1.75", "7", "800m"
+END_PART
+
+END.

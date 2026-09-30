@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=CEM-1205-IC
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=2
+Version=9.6
+Released=2022-10-21 12:30:24
+Downloaded=2026-09-30 09:03:06
+3D=Y

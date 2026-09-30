@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CEM_1205_IC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Same Sky", "CEM-1205-IC" (!) = "", "CEM1205IC", "Other", "", "", "12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer", "https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf", "10 mm"
+END_PART
+
+END.

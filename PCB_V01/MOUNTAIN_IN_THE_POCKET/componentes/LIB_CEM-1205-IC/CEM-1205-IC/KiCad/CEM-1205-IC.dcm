@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CEM-1205-IC
+D 12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer
+K
+F https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf
+$ENDCMP
+#
+#End Doc Library

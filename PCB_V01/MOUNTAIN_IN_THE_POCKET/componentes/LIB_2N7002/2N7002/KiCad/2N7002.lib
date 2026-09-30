@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 2N7002
+#/976551/1782601/2.50/3/2/MOSFET (N-Channel)
+DEF 2N7002 Q 0 30 Y Y 1 F N
+F0 "Q" 450 150 50 H V L CNN
+F1 "2N7002" 450 50 50 H V L CNN
+F2 "SOT96P240X120-3N" 450 -50 50 H I L CNN
+F3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" 450 -150 50 H I L CNN
+F4 "Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability." 450 -250 50 H I L CNN "Description"
+F5 "1.2" 450 -350 50 H I L CNN "Height"
+F6 "" 450 -450 50 H I L CNN "Farnell Part Number"
+F7 "" 450 -550 50 H I L CNN "Farnell Price/Stock"
+F8 "onsemi" 450 -650 50 H I L CNN "Manufacturer_Name"
+F9 "2N7002" 450 -750 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 3 300 400 100 D 50 50 0 0 P
+X ~ 2 300 -200 100 U 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 2 0 1 6 300 200 300 300 N
+P 3 0 1 6 100 0 200 0 200 200 N
+P 2 0 1 6 300 100 230 100 N
+P 2 0 1 6 300 200 230 200 N
+P 2 0 1 6 230 0 300 0 N
+P 2 0 1 6 230 220 230 180 N
+P 2 0 1 6 230 -20 230 20 N
+P 2 0 1 6 230 80 230 120 N
+C 250 100 150 0 1 10 N
+P 4 0 1 10 230 100 270 120 270 80 230 100 F
+ENDDRAW
+ENDDEF
+#
+#End Library
