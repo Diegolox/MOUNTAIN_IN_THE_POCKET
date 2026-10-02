@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '865230343004'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "865230343004" (!) = "", "CAPAE660X570N", "Capacitor Al Electrolytic", "", "", "WCAP-AS5H Aluminum Electrolytic Capacitors ASDD055470M016DVCTBE000; SMT V-Chip; 47 F +/- 20%; 16 V(DC); 5000 h; -40C / +105C; size DxL 6.3 x 5.5; Max. Iripple 50 mA @120 Hz; LC 7.52 A; DF 22 %", "https://www.we-online.com/catalog/datasheet/865230343004.pdf", "5.7 mm"
+END_PART
+
+END.

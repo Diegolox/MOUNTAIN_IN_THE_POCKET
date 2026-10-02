@@ -1,0 +1,16 @@
+.865230343004 :1 ;WCAP-AS5H Aluminum Electrolytic Capacitors ASDD055470M016DVCTBE000; SMT V-Chip; 47 F +/- 20%; 16 V(DC); 5000 h; -40C / +105C; size DxL 6.3 x 5.5; Max. Iripple 50 mA @120 Hz; LC 7.52 A; DF 22 %
+CAPAE660X570N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 865230343004
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (865230343004)
+~!Link Datasheet (https://www.we-online.com/catalog/datasheet/865230343004.pdf)
+~!Height (5.7mm)
+~!3D_Model (865230343004)
+"865230343004"
+1.1!U 2.1!U 

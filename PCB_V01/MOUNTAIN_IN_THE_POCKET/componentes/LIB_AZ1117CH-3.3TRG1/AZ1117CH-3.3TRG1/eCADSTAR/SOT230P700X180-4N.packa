@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AZ1117CH-3_3TRG1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-06-10:40:20)
+    (mountForm default
+        (footprintRef "SOT230P700X180-4N")
+        (spec "System")
+    )
+)

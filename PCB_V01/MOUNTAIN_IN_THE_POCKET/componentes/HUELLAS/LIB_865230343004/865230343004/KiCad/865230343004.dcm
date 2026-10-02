@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 865230343004
+D WCAP-AS5H Aluminum Electrolytic Capacitors ASDD055470M016DVCTBE000; SMT V-Chip; 47 F +/- 20%; 16 V(DC); 5000 h; -40C / +105C; size DxL 6.3 x 5.5; Max. Iripple 50 mA @120 Hz; LC 7.52 A; DF 22 %
+K
+F https://www.we-online.com/catalog/datasheet/865230343004.pdf
+$ENDCMP
+#
+#End Doc Library
