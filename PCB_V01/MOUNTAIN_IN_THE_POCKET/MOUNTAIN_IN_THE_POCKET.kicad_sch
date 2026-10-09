@@ -1204,26 +1204,27 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "LS"
-				(at 11.43 0 0)
+			(property "Reference" "LS1"
+				(at 11.43 0.0001 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify left)
 				)
 			)
 			(property "Value" "CEM-1205-IC"
-				(at 11.43 -2.54 0)
+				(at 7.366 -8.636 0)
 				(show_name no)
 				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify left)
 				)
 			)
 			(property "Footprint" "CEM1205IC"
@@ -1321,6 +1322,17 @@
 					(justify left top)
 				)
 			)
+			(property "LINK" "https://es.farnell.com/same-sky/cem-1205-ic/transudct-zumb-mag-92dba-3-6v/dp/4814135#anchorTechnicalDOCS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(symbol "CEM-1205-IC_1_1"
 				(polyline
 					(pts
@@ -1404,7 +1416,7 @@
 							)
 						)
 					)
-					(number ""
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2795,162 +2807,6 @@
 				(pin passive line
 					(at 0 -3.81 90)
 					(length 2.794)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:C_Small"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C"
-				(at 0.254 1.778 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Small"
-				(at 0.254 -2.032 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Unpolarized capacitor, small symbol"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "capacitor cap"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "C_Small_0_1"
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
-					)
-					(stroke
-						(width 0.3302)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "C_Small_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
 					(name ""
 						(effects
 							(font
@@ -6876,29 +6732,29 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "D"
-				(at -4.5752 2.5418 0)
+			(property "Reference" "D4"
+				(at 0.254 -2.286 90)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify right)
 				)
 			)
 			(property "Value" "M7"
-				(at -4.5757 -4.0672 0)
+				(at -2.54 3.81 90)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify right)
 				)
 			)
-			(property "Footprint" "M7:DIOM505270X240"
+			(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7125,6 +6981,17 @@
 					(justify bottom)
 				)
 			)
+			(property "LINK" "https://es.farnell.com/multicomp-pro/1n4007-gs1g-m4/rectifier-400v-1a-do-214ac/dp/4439900"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(symbol "M7_0_0"
 				(rectangle
 					(start -1.27 -1.27)
@@ -7161,17 +7028,19 @@
 						(type none)
 					)
 				)
+			)
+			(symbol "M7_1_0"
 				(pin passive line
-					(at -5.08 0 0)
+					(at 5.08 0 180)
 					(length 5.08)
-					(name ""
+					(name "C"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "A"
+					(number "1"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -7180,16 +7049,16 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 0 180)
+					(at -5.08 0 0)
 					(length 5.08)
-					(name ""
+					(name "A"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "C"
+					(number "2"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -8718,16 +8587,16 @@
 		(uuid "1d14cdc6-e4b2-46e2-957a-d149d70d0494")
 	)
 	(junction
-		(at 33.02 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1f4fd331-3fd8-43cb-9c4d-9df0d25febe0")
-	)
-	(junction
 		(at 231.14 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2632910d-1829-4c1c-97fc-8bac083ebbc0")
+	)
+	(junction
+		(at 101.6 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "268ec93b-8ec7-4886-ad43-48f5a277575c")
 	)
 	(junction
 		(at 48.26 104.14)
@@ -8748,6 +8617,12 @@
 		(uuid "3a46afaa-1609-4c27-969f-e767a1ece43e")
 	)
 	(junction
+		(at 33.02 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "420298d9-b713-4edf-ba45-d89859158c8f")
+	)
+	(junction
 		(at 41.91 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8764,6 +8639,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50f4b234-a8e2-4ac9-a9ca-17efbe76b881")
+	)
+	(junction
+		(at 52.07 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51d5d408-faf8-44aa-824d-8f62ccafd84a")
 	)
 	(junction
 		(at 130.81 43.18)
@@ -8784,10 +8665,10 @@
 		(uuid "5fde319b-2cc3-42ae-8864-179df06104c8")
 	)
 	(junction
-		(at 52.07 104.14)
+		(at 86.36 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6b84b201-ef7c-4c4c-8303-bb0c37e3a42e")
+		(uuid "60a27540-eddb-49eb-b2df-77211da015dd")
 	)
 	(junction
 		(at 171.45 187.96)
@@ -8796,10 +8677,10 @@
 		(uuid "6ff1d720-5f2e-4e09-8078-ec3f7c30fbb0")
 	)
 	(junction
-		(at 78.74 106.68)
+		(at 105.41 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "783987f6-5d78-4977-9127-881eca41c8ab")
+		(uuid "764634ef-3b63-4cbb-9bed-75a9c46af880")
 	)
 	(junction
 		(at 247.65 31.75)
@@ -8856,12 +8737,6 @@
 		(uuid "b29a8df5-9a2f-4f10-bdfd-44ccae4d42c5")
 	)
 	(junction
-		(at 93.98 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b3fba904-8511-41f7-aecf-f976106b6220")
-	)
-	(junction
 		(at 41.91 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8914,12 +8789,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd15f7c3-3022-4da1-adcf-a5ecd7b24f76")
-	)
-	(junction
-		(at 97.79 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "feabaf6b-ee61-4f67-a606-336e2dab94ec")
 	)
 	(no_connect
 		(at 331.47 223.52)
@@ -9083,13 +8952,23 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 104.14) (xy 78.74 104.14)
+			(xy 105.41 102.87) (xy 105.41 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "080cf084-825d-4035-8a55-139b0e60b9d7")
+		(uuid "08925f1e-e0be-49f3-9935-b64bd0529edc")
+	)
+	(wire
+		(pts
+			(xy 86.36 104.14) (xy 86.36 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "096337ca-a6b2-4b7c-b70b-87f458127009")
 	)
 	(wire
 		(pts
@@ -9253,16 +9132,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 106.68) (xy 93.98 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21f49e57-e9ef-439b-8a67-2377fe2ecf1c")
-	)
-	(wire
-		(pts
 			(xy 182.88 156.21) (xy 185.42 156.21)
 		)
 		(stroke
@@ -9360,16 +9229,6 @@
 			(type default)
 		)
 		(uuid "2c039f80-8247-41df-9aec-03dafc4ac1d3")
-	)
-	(wire
-		(pts
-			(xy 93.98 104.14) (xy 97.79 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c83aacf-3e2b-4bda-88ed-88c215ab8a35")
 	)
 	(wire
 		(pts
@@ -9483,13 +9342,13 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 101.6) (xy 97.79 104.14)
+			(xy 31.75 104.14) (xy 33.02 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3cc01cd3-038f-43c2-83be-8651d40eb02a")
+		(uuid "3f322f1f-b149-4775-b058-38bb159ab929")
 	)
 	(wire
 		(pts
@@ -9613,13 +9472,13 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 104.14) (xy 93.98 104.14)
+			(xy 111.76 102.87) (xy 105.41 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5a92f21c-03b7-48a8-a9e5-a509a31be7ab")
+		(uuid "574a273b-babd-4940-a976-c58fb04b0179")
 	)
 	(wire
 		(pts
@@ -9703,16 +9562,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 106.68) (xy 33.02 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7468f8ca-c779-4ac7-989f-55fb39587e99")
-	)
-	(wire
-		(pts
 			(xy 173.99 231.14) (xy 173.99 233.68)
 		)
 		(stroke
@@ -9743,6 +9592,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 104.14) (xy 22.86 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "758305b1-6b29-40de-8ca7-3b821e8e1b93")
+	)
+	(wire
+		(pts
 			(xy 41.91 158.75) (xy 41.91 160.02)
 		)
 		(stroke
@@ -9763,6 +9622,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 104.14) (xy 76.2 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7900ddd3-03a4-4918-846e-34ade482397e")
+	)
+	(wire
+		(pts
 			(xy 331.47 182.88) (xy 332.74 182.88)
 		)
 		(stroke
@@ -9770,16 +9639,6 @@
 			(type default)
 		)
 		(uuid "796d77e4-91d3-4588-a820-b42a8f58bd49")
-	)
-	(wire
-		(pts
-			(xy 92.71 106.68) (xy 93.98 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79c9d41e-4a3c-4275-b9c9-02f371e914ce")
 	)
 	(wire
 		(pts
@@ -9870,6 +9729,16 @@
 			(type default)
 		)
 		(uuid "835a2f09-f7bf-40fc-8845-77f52195cb6f")
+	)
+	(wire
+		(pts
+			(xy 100.33 104.14) (xy 101.6 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84cb29d5-0090-4ec9-bc5b-6a8fdf64256a")
 	)
 	(wire
 		(pts
@@ -10073,16 +9942,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 106.68) (xy 78.74 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98f0c366-23fa-469b-8019-d5a46d82c39e")
-	)
-	(wire
-		(pts
 			(xy 194.31 143.51) (xy 200.66 143.51)
 		)
 		(stroke
@@ -10090,6 +9949,16 @@
 			(type default)
 		)
 		(uuid "9a2613a8-5429-440c-8c7d-8994ac5a7a9a")
+	)
+	(wire
+		(pts
+			(xy 24.13 104.14) (xy 22.86 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a56f7e0-c828-41f2-a891-9e0c6544fd60")
 	)
 	(wire
 		(pts
@@ -10193,16 +10062,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 101.6) (xy 52.07 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a67703bb-1db9-4af1-8123-b7fa030f70ae")
-	)
-	(wire
-		(pts
 			(xy 347.98 110.49) (xy 347.98 111.76)
 		)
 		(stroke
@@ -10260,6 +10119,16 @@
 			(type default)
 		)
 		(uuid "ab26de15-a47c-4a05-a4a2-2253478890d0")
+	)
+	(wire
+		(pts
+			(xy 52.07 102.87) (xy 52.07 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aeecf27f-7342-426e-9a71-6db9933a0101")
 	)
 	(wire
 		(pts
@@ -10383,6 +10252,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 106.68) (xy 101.6 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "babaa367-3b31-4169-a612-415f147c5e56")
+	)
+	(wire
+		(pts
 			(xy 331.47 203.2) (xy 332.74 203.2)
 		)
 		(stroke
@@ -10430,6 +10309,16 @@
 			(type default)
 		)
 		(uuid "c0fb33be-8bce-4550-bb82-d53edbb536e0")
+	)
+	(wire
+		(pts
+			(xy 77.47 104.14) (xy 76.2 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c107d455-9030-4d7d-b127-e977521fb236")
 	)
 	(wire
 		(pts
@@ -10510,6 +10399,16 @@
 			(type default)
 		)
 		(uuid "c5b3fa2e-f20e-40d0-bbed-8f1d81037c38")
+	)
+	(wire
+		(pts
+			(xy 58.42 102.87) (xy 52.07 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c636ac7a-e6fd-449c-b074-71a0ad0efae1")
 	)
 	(wire
 		(pts
@@ -10713,6 +10612,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 104.14) (xy 86.36 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d703e6c8-4a84-4763-9956-94815d6cdd11")
+	)
+	(wire
+		(pts
 			(xy 384.81 222.25) (xy 387.35 222.25)
 		)
 		(stroke
@@ -10750,6 +10659,16 @@
 			(type default)
 		)
 		(uuid "d87a6b6d-beaf-4a97-b5a8-d2d3b1dc4b93")
+	)
+	(wire
+		(pts
+			(xy 100.33 106.68) (xy 101.6 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da2343c9-c20a-4f70-940f-62e396bb6e5f")
 	)
 	(wire
 		(pts
@@ -10893,16 +10812,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 106.68) (xy 82.55 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea0913ac-79b4-4094-b298-0f0c0d1d547a")
-	)
-	(wire
-		(pts
 			(xy 217.17 34.29) (xy 217.17 31.75)
 		)
 		(stroke
@@ -10920,6 +10829,16 @@
 			(type default)
 		)
 		(uuid "eac437f1-2b3d-4285-92dc-3f467b970039")
+	)
+	(wire
+		(pts
+			(xy 90.17 104.14) (xy 86.36 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebc26c2d-a91b-4c0c-98f3-c2002a6a025d")
 	)
 	(wire
 		(pts
@@ -10953,16 +10872,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 104.14) (xy 78.74 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ef8af016-21b4-4092-bb84-0e43660517f8")
-	)
-	(wire
-		(pts
 			(xy 130.81 63.5) (xy 133.35 63.5)
 		)
 		(stroke
@@ -10970,6 +10879,16 @@
 			(type default)
 		)
 		(uuid "f06bb35e-1b73-45d3-b658-ad85ffc10bd0")
+	)
+	(wire
+		(pts
+			(xy 101.6 104.14) (xy 105.41 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0ff6d67-c3d1-4ffb-9e46-f06fd8fe137c")
 	)
 	(wire
 		(pts
@@ -11171,6 +11090,16 @@
 		)
 		(uuid "fecbd26b-21db-4188-ba4f-3d4e5b0ef8cb")
 	)
+	(wire
+		(pts
+			(xy 86.36 106.68) (xy 90.17 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fee89a8d-7bbc-4833-95e8-ca1e85bdbc61")
+	)
 	(label "DIG_0"
 		(at 365.76 172.72 0)
 		(effects
@@ -11351,6 +11280,16 @@
 		)
 		(uuid "4a280298-f027-416b-96d7-655c9216eea9")
 	)
+	(label "PIN_BUTTON_2"
+		(at 111.76 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50d6aba4-5abc-4f30-bbbc-bd02f59ccbac")
+	)
 	(label "SEG_B"
 		(at 351.79 207.01 180)
 		(effects
@@ -11400,16 +11339,6 @@
 			(justify right bottom)
 		)
 		(uuid "72801ec5-5858-4d53-a171-b804f8f619e4")
-	)
-	(label "PIN_BUTTON_2"
-		(at 97.79 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "739d0880-3630-4017-bdaf-84dc5515502a")
 	)
 	(label "DIG_3"
 		(at 398.78 219.71 0)
@@ -11572,7 +11501,7 @@
 		(uuid "aea327e3-7a2b-4bab-a358-1fcb1448800f")
 	)
 	(label "PIN_BUTTON_1"
-		(at 52.07 101.6 0)
+		(at 58.42 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11822,7 +11751,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00c12297-2ada-4b20-b714-bc00eb0207f3")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR015"
 			(at 100.33 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11882,7 +11811,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR05")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -11899,7 +11828,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03922eeb-fc15-476a-81e4-6181f3b8d11b")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR019"
 			(at 142.24 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11959,7 +11888,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR043")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -12108,7 +12037,7 @@
 		(pin "2"
 			(uuid "ad09b34f-2780-47e1-b3ac-a8dd2661bbc1")
 		)
-		(pin ""
+		(pin "1"
 			(uuid "7a155072-1aff-4354-9fb1-644c379e5fce")
 		)
 		(instances
@@ -12132,7 +12061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04cec8d3-27b9-4089-b83c-676f7f7fb807")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR024"
 			(at 162.56 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -12192,7 +12121,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR018")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -12210,7 +12139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07d7b072-b4c6-4f3b-a6cb-85c5796e795f")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR026"
 			(at 173.99 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -12270,7 +12199,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR027")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -12288,7 +12217,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a5bcbce-7cf4-4bb5-9c3b-9da7f750d276")
-		(property "Reference" "C9"
+		(property "Reference" "C8"
 			(at 187.96 120.6499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12310,7 +12239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPAE660X570N"
+		(property "Footprint" "CAPAE660X570N:CAPAE660X570N"
 			(at 87.96 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -12425,7 +12354,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C9")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -12524,88 +12453,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 106.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0fd03bbb-26b9-4088-b15b-0c043314fc84")
-		(property "Reference" "C1"
-			(at 54.61 105.4162 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_Small"
-			(at 54.61 107.9562 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 52.07 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 52.07 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ca14eb0c-c370-4e62-8ec0-3ad84bc2f75e")
-		)
-		(pin "2"
-			(uuid "093f71c1-559e-4a4b-9977-1a9f8eba42c8")
-		)
-		(instances
-			(project "MOUNTAIN_IN_THE_POCKET"
-				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 270.51 39.37 0)
 		(unit 1)
@@ -12617,7 +12464,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "115f43e7-934a-4061-bf07-af3068159eff")
-		(property "Reference" "C8"
+		(property "Reference" "C13"
 			(at 274.32 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12692,7 +12539,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C8")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -12790,7 +12637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "191c8427-6100-4a8f-b69d-3b9431bf1e59")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR027"
 			(at 173.99 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -12850,7 +12697,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR028")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -12982,7 +12829,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "211f21dd-b0ed-4973-b5dc-8f174290f4f6")
-		(property "Reference" "R9"
+		(property "Reference" "R11"
 			(at 293.624 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13055,7 +12902,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R9")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -13073,7 +12920,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "227ad607-0ce4-4844-83c5-43cba064ee8a")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR033"
 			(at 196.85 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -13133,7 +12980,99 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR020")
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 27.94 104.14 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "230f0afa-a93d-4497-9cef-419551290cbf")
+		(property "Reference" "R1"
+			(at 27.432 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 23.622 101.854 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 28.194 103.124 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
+			(at 27.94 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MCPWR06FTEQ1002A"
+			(at 27.94 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 27.94 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1473fcdc-afea-47eb-b3d3-a473064df94b")
+		)
+		(pin "2"
+			(uuid "f5a5fc7e-6f69-4756-9306-43b6628672f4")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -13151,7 +13090,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "262b03a0-e38a-46e8-b2da-4feed7c77c6d")
-		(property "Reference" "C7"
+		(property "Reference" "C9"
 			(at 201.676 119.634 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13224,7 +13163,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C7")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -13321,7 +13260,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2865e199-4859-47fa-ad4d-7afb7a16f2ae")
-		(property "Reference" "R12"
+		(property "Reference" "R6"
 			(at 161.544 246.126 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13396,7 +13335,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R12")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -13491,7 +13430,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "29e7fe1d-4f7a-4a5a-a978-ceec412cdc60")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR030"
 			(at 184.15 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -13551,15 +13490,15 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR031")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 97.79 106.68 0)
+		(lib_id "Switch:SW_MEC_5E")
+		(at 95.25 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13568,31 +13507,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2aa12ccc-44de-48aa-867f-d8ba873582b7")
-		(property "Reference" "C16"
-			(at 100.33 105.4162 0)
+		(uuid "2cbde946-a6aa-413c-8d4e-75ee78a85226")
+		(property "Reference" "SW2"
+			(at 95.25 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 100.33 107.9562 0)
+		(property "Value" "SW_MEC_5E"
+			(at 95.25 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 97.79 106.68 0)
+		(property "Footprint" "TL3305AF160QG:TL3305AF160QG"
+			(at 95.25 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13602,8 +13539,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 97.79 106.68 0)
+		(property "Datasheet" "https://www.farnell.com/datasheets/4386879.pdf"
+			(at 95.25 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13613,8 +13550,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 97.79 106.68 0)
+		(property "Description" "TL3305AF160QG"
+			(at 95.25 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13624,16 +13561,33 @@
 				)
 			)
 		)
-		(pin "1"
-			(uuid "00556797-73fc-43fd-a0b9-ea1306109778")
+		(property "LINK" "https://es.farnell.com/e-switch/tl3305af160qg/int-t-ctil-0-05a-12vdc-160gf-smd/dp/4051103"
+			(at 95.25 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "2"
-			(uuid "ab35ae54-3990-49e4-8cce-da73e1f0b8d6")
+			(uuid "d3c5292e-a755-4dca-8af2-8bde10b33746")
+		)
+		(pin "1"
+			(uuid "eab73662-cd9e-482c-a78f-3e778cf01e14")
+		)
+		(pin "3"
+			(uuid "5c9e21cd-f52c-47a2-99c8-b8f9a926159e")
+		)
+		(pin "4"
+			(uuid "8b0af669-39e1-4fff-9dfe-e88972db4423")
 		)
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C16")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -13748,7 +13702,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2cd47ec1-bb3a-475f-9ade-685c879e205e")
-		(property "Reference" "R8"
+		(property "Reference" "R10"
 			(at 189.484 141.224 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13821,7 +13775,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R8")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -13838,7 +13792,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2dc02a10-5edc-4e60-962d-d0fb98e9e394")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR049"
 			(at 347.98 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -13898,7 +13852,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR042")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -13915,7 +13869,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2ede1b99-ec77-40e6-863d-c6394ca68644")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 124.968 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13990,7 +13944,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -14008,7 +13962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35ce1591-2452-4131-9372-db273c985140")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR045"
 			(at 323.85 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -14068,7 +14022,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR035")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -14085,7 +14039,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "393f61b7-1289-49bd-84f2-2a31697b6d9b")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR07"
 			(at 41.91 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -14145,7 +14099,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR010")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -14163,7 +14117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a12a632-60b7-4653-8337-74b1c3ce2d70")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR037"
 			(at 247.65 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -14223,7 +14177,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR023")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -14318,7 +14272,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d644f5a-4077-4158-8593-86623553ac7b")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR09"
 			(at 41.91 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -14378,85 +14332,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 97.79 109.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3ed9d624-f435-4256-8794-6d13cc9e3f91")
-		(property "Reference" "#PWR049"
-			(at 97.79 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 97.79 114.3 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 97.79 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 97.79 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "33f30abd-2aec-4cbd-9a07-c60fbda4a473")
-		)
-		(instances
-			(project "MOUNTAIN_IN_THE_POCKET"
-				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR049")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -14473,7 +14349,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "40d392d5-5e62-4c90-8e12-d72ab0bc73b4")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR010"
 			(at 41.91 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -14533,7 +14409,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR013")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -14551,7 +14427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4386c5b6-5632-4980-afc6-6da8573c202f")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR011"
 			(at 52.07 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -14611,7 +14487,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR015")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14629,7 +14505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4428e7b3-9d57-4295-a0b9-fcc47b2d79f6")
-		(property "Reference" "C10"
+		(property "Reference" "C16"
 			(at 373.126 110.744 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14702,7 +14578,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C10")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -14720,7 +14596,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4670dac6-2fca-409b-8ecd-1cba30821042")
-		(property "Reference" "R6"
+		(property "Reference" "R8"
 			(at 190.5 246.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14795,7 +14671,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R6")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -14813,7 +14689,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "475f81d6-2e12-463f-b6d2-078d2b11b4ff")
-		(property "Reference" "C4"
+		(property "Reference" "C10"
 			(at 210.82 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14886,7 +14762,98 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C4")
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "C_Small_1")
+		(lib_id "Device:C_Small")
+		(at 105.41 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4c54b0ca-8fb9-478e-8e30-16adc11dc62e")
+		(property "Reference" "C5"
+			(at 108.966 105.664 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF 50V"
+			(at 112.522 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 105.41 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
+			(at 105.41 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "08055C104KAT2A"
+			(at 105.41 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"
+			(at 105.41 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "940609cb-a9e2-4287-bcc6-e749b3f786c9")
+		)
+		(pin "2"
+			(uuid "0e9053cc-ff91-427f-9eee-a516dd412b75")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -14904,7 +14871,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f28c8f5-a234-45d9-8f61-9428ad455889")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR043"
 			(at 316.23 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -14964,7 +14931,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR038")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -14981,7 +14948,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4fc4b80a-9e4c-4af4-9b82-0c6e001bb3f2")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR01"
 			(at 17.78 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -15041,7 +15008,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR047")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -15058,7 +15025,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5081fcd4-dc7e-4551-bb97-28dae23da7bf")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR018"
 			(at 130.81 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15118,7 +15085,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR014")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -15136,7 +15103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "524b0db2-1b23-4cb5-b80d-9941c8470550")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR021"
 			(at 160.02 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -15196,85 +15163,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 78.74 109.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5285589e-30dd-442c-a113-2c587a28c3e2")
-		(property "Reference" "#PWR048"
-			(at 78.74 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 78.74 114.3 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "981cb83e-792d-4118-84a5-0eec2d7003e2")
-		)
-		(instances
-			(project "MOUNTAIN_IN_THE_POCKET"
-				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR048")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -15292,7 +15181,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "550a02be-b78f-475d-9e61-3cba181474f2")
-		(property "Reference" "R1"
+		(property "Reference" "R2"
 			(at 30.48 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15368,7 +15257,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R1")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -15672,7 +15561,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5a786e3d-f3c6-4f02-9e01-2fe706a032cf")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR04"
 			(at 27.94 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -15732,7 +15621,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR03")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -15749,7 +15638,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "603ed86e-d120-47b7-bdbd-3bc1fbeef79c")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR08"
 			(at 41.91 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -15809,7 +15698,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR011")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -15895,103 +15784,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_MEC_5E")
-		(at 87.63 106.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6b314f66-874c-4585-87b1-36b376682cf7")
-		(property "Reference" "SW2"
-			(at 87.63 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5E"
-			(at 87.63 99.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_MEC_5GSH9"
-			(at 87.63 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.apem.com/medias/download/MEC_switches_serie_MULTIMEC5E.pdf"
-			(at 87.63 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "MEC 5E single pole normally-open tactile switch"
-			(at 87.63 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LINK" "https://es.farnell.com/multicomp-pro/mptsm-21r-s-v/int-t-ctil-0-05a-12vdc-smd-260gf/dp/4153441RL"
-			(at 87.63 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "096b566f-b5b5-4ea1-997f-b743af481883")
-		)
-		(pin "1"
-			(uuid "22c5fd8d-f357-4a46-af46-438327870e4c")
-		)
-		(pin "3"
-			(uuid "4d567040-0a51-4bc8-ba0c-583e83233c43")
-		)
-		(pin "4"
-			(uuid "cc36e54f-097c-49c7-ba3d-75338deda84e")
-		)
-		(instances
-			(project "MOUNTAIN_IN_THE_POCKET"
-				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "SW2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 270.51 30.48 0)
 		(unit 1)
@@ -16003,7 +15795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ba29012-af84-44fb-8833-55beb9d6e38c")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR038"
 			(at 270.51 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -16063,7 +15855,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR030")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -16281,7 +16073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70a8069f-4b4d-4c8a-b070-d19d757508a8")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 351.79 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16421,7 +16213,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -16438,7 +16230,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72b98d87-7ddf-4c55-abdb-6faff4d10ff9")
-		(property "Reference" "R7"
+		(property "Reference" "R9"
 			(at 189.484 133.604 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16511,7 +16303,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R7")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -16528,7 +16320,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "734fbbb8-0dd8-46d3-ac84-acfad9d2a8ba")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR06"
 			(at 33.02 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -16588,7 +16380,99 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR07")
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 81.28 104.14 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7499936b-2a9f-4f7e-a382-1ef27cc8b8e6")
+		(property "Reference" "R3"
+			(at 80.772 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 76.962 101.854 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 81.534 103.124 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
+			(at 81.28 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MCPWR06FTEQ1002A"
+			(at 81.28 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 81.28 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "df3337bf-0f14-4f32-8dfa-f46a0562057f")
+		)
+		(pin "2"
+			(uuid "42fda85b-2392-44ac-b799-05f928612f17")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -16606,7 +16490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77293ede-c714-4d0b-b4a0-fc390311e756")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR020"
 			(at 144.78 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -16666,7 +16550,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR016")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -16685,7 +16569,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "781f6b80-9286-47c0-8273-0e3fb0aa1177")
-		(property "Reference" "C11"
+		(property "Reference" "C14"
 			(at 301.244 160.274 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16758,85 +16642,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 33.02 109.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7d51204e-738d-4eb3-b08c-0c2cff285cf7")
-		(property "Reference" "#PWR08"
-			(at 33.02 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 33.02 114.3 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 33.02 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 33.02 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 33.02 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9e974dd7-5f3b-4c8b-9acb-2e79b66caf1e")
-		)
-		(instances
-			(project "MOUNTAIN_IN_THE_POCKET"
-				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR08")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -16854,7 +16660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82412517-9346-4912-b20d-9a512c6c592b")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR03"
 			(at 27.94 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -16914,7 +16720,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR02")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -16932,7 +16738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8541d5c3-9e23-44a8-af3a-3edc4d6ac6f2")
-		(property "Reference" "C5"
+		(property "Reference" "C11"
 			(at 234.95 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17007,7 +16813,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C5")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -17184,7 +16990,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89bb2aef-f4a2-470f-9e74-80c1aac1bb94")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR031"
 			(at 187.96 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -17244,7 +17050,104 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR032")
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 41.91 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a974b80-7f00-4578-b8f9-8e68e6ed4745")
+		(property "Reference" "SW1"
+			(at 41.91 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_MEC_5E"
+			(at 41.91 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TL3305AF160QG:TL3305AF160QG"
+			(at 41.91 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/4386879.pdf"
+			(at 41.91 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "TL3305AF160QG"
+			(at 41.91 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/e-switch/tl3305af160qg/int-t-ctil-0-05a-12vdc-160gf-smd/dp/4051103"
+			(at 41.91 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f95615dc-6f15-4b7e-a502-443b4a8099eb")
+		)
+		(pin "1"
+			(uuid "8b864079-9336-4850-a15e-39b3db5dfc6f")
+		)
+		(pin "3"
+			(uuid "cf38f378-2a05-4bad-990b-40b319112b1b")
+		)
+		(pin "4"
+			(uuid "858e0e75-cc12-4f4b-b2fe-a17069489933")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -17262,7 +17165,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "913703ab-4bc5-48dc-a854-44d27526fce8")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR035"
 			(at 231.14 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -17322,7 +17225,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR021")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -17340,7 +17243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91937464-aacc-490e-b150-8e98be4a71f1")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR05"
 			(at 33.02 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -17400,7 +17303,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR06")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -17418,7 +17321,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93be3415-102d-41c1-8cbc-8b722fe78e5d")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR022"
 			(at 160.02 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -17478,7 +17381,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR025")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -17496,7 +17399,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "974122e6-d92d-4f39-99e4-8c94ae249e6d")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR023"
 			(at 162.56 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -17556,7 +17459,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR017")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -17574,7 +17477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "977585ee-4cdb-42bb-bc92-ded12bce7633")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR039"
 			(at 270.51 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -17634,7 +17537,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR045")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -17652,7 +17555,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cb2bd31-fbf9-4af0-97c3-610f97236726")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR017"
 			(at 118.11 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -17712,7 +17615,98 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR09")
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "C_Small_1")
+		(lib_id "Device:C_Small")
+		(at 52.07 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a004dce8-4887-4c6c-b50b-f26141e67b73")
+		(property "Reference" "C4"
+			(at 55.626 105.664 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF 50V"
+			(at 59.182 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 52.07 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
+			(at 52.07 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "08055C104KAT2A"
+			(at 52.07 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"
+			(at 52.07 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bbc07cd3-5ea6-440f-8e57-ded26979fa61")
+		)
+		(pin "2"
+			(uuid "5d320975-d521-40ba-aff5-1d984ac1809d")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -17730,7 +17724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2843ff6-5519-4b6b-871d-d6a4becfc1bf")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR032"
 			(at 187.96 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -17790,7 +17784,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR033")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -17809,7 +17803,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a417134e-26c6-42c0-b3f3-54bdd2b11a8b")
-		(property "Reference" "C13"
+		(property "Reference" "C2"
 			(at 24.384 146.304 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17882,7 +17876,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C13")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -18135,7 +18129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7d8a131-b4c8-4634-8d6d-f7451ecab90b")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR040"
 			(at 295.91 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -18195,7 +18189,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR044")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -18500,7 +18494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af366f01-93da-40d7-ad93-e93064e9ed6d")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR013"
 			(at 86.36 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -18560,7 +18554,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR01")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -18577,7 +18571,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "afddbad3-71b7-480a-896a-c35376fb20cd")
-		(property "Reference" "R10"
+		(property "Reference" "R12"
 			(at 324.104 117.094 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18650,7 +18644,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R10")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -18772,7 +18766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b06235f5-47dd-4fba-8bd5-2973be0c7217")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR029"
 			(at 179.07 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -18832,7 +18826,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR019")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -18849,7 +18843,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd450827-d29b-4303-99e2-16491beddd1e")
-		(property "Reference" "R11"
+		(property "Reference" "R13"
 			(at 330.454 125.476 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18924,7 +18918,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R11")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -19333,7 +19327,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca169a08-e048-482f-ad63-8cff2416ec5f")
-		(property "Reference" "Q3"
+		(property "Reference" "Q1"
 			(at 126.746 38.354 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19409,104 +19403,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5E")
-		(at 41.91 106.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cf4b0f89-403c-4604-9b36-b4c0c8fc9dcd")
-		(property "Reference" "SW1"
-			(at 41.91 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5E"
-			(at 41.91 99.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_MEC_5GSH9"
-			(at 41.91 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.apem.com/medias/download/MEC_switches_serie_MULTIMEC5E.pdf"
-			(at 41.91 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "MEC 5E single pole normally-open tactile switch"
-			(at 41.91 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LINK" "https://es.farnell.com/multicomp-pro/mptsm-21r-s-v/int-t-ctil-0-05a-12vdc-smd-260gf/dp/4153441RL"
-			(at 41.91 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d4f6febc-feeb-4f89-8021-5c0276c0e527")
-		)
-		(pin "1"
-			(uuid "21b5193b-be24-4082-a595-ac11a2fac570")
-		)
-		(pin "3"
-			(uuid "174a662f-c9b0-47e5-b68e-9d04dcc43ee6")
-		)
-		(pin "4"
-			(uuid "6984ce37-1662-4cae-bd8d-b99939515c57")
-		)
-		(instances
-			(project "MOUNTAIN_IN_THE_POCKET"
-				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "SW1")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -19524,7 +19421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0526a1f-e183-4670-8abb-33c236f25471")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 133.35 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19599,7 +19496,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -19617,7 +19514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d058ae06-7b10-4f2c-94d6-e8942ddebfcf")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR048"
 			(at 347.98 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -19677,7 +19574,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR041")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -19695,7 +19592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1af171d-c506-407b-9fa2-42f7cf5425a4")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR044"
 			(at 316.23 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -19755,7 +19652,85 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR039")
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 22.86 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2aaf417-6f55-4bf5-9907-7c3964052102")
+		(property "Reference" "#PWR02"
+			(at 22.86 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 22.86 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 22.86 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "92604781-0585-4a29-b31b-fc4a08b653b4")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -19773,7 +19748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d44e5009-4dd7-433e-89b6-fc4c1d878106")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR041"
 			(at 295.91 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -19833,7 +19808,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR036")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -20010,7 +19985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8348d25-6196-4800-80d2-714cddd61236")
-		(property "Reference" "C6"
+		(property "Reference" "C12"
 			(at 251.46 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20085,7 +20060,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C6")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -20103,7 +20078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9f7cc3d-1bfe-4893-974e-e1d26dddf891")
-		(property "Reference" "C12"
+		(property "Reference" "C15"
 			(at 327.66 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20178,7 +20153,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C12")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -20196,7 +20171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da9cdfa0-6fee-48b3-8a44-5569c871d707")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR028"
 			(at 175.26 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -20256,7 +20231,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR029")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -20369,7 +20344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db726ddd-9bfa-4c9a-821d-0ba8158ea64e")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR014"
 			(at 100.33 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -20429,7 +20404,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR04")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -20469,7 +20444,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "M7:DIOM505270X240"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 341.63 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -20707,10 +20682,10 @@
 				)
 			)
 		)
-		(pin "A"
+		(pin "1"
 			(uuid "feead158-cdf1-4bc5-8501-87225595b72a")
 		)
-		(pin "C"
+		(pin "2"
 			(uuid "369cd932-de01-4d65-be5d-efa0bef9b559")
 		)
 		(instances
@@ -20734,7 +20709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e168f7df-780a-4659-9dc9-320baaa2c296")
-		(property "Reference" "C2"
+		(property "Reference" "C6"
 			(at 166.37 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20809,7 +20784,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C2")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -20827,7 +20802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2e548e7-929a-48df-94f0-29775514a125")
-		(property "Reference" "R5"
+		(property "Reference" "R7"
 			(at 176.53 246.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20902,7 +20877,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "R5")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -21311,7 +21286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb5e7fd0-5a66-4ac8-b3fb-575d55e1d450")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR036"
 			(at 247.65 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -21371,7 +21346,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR022")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -21388,7 +21363,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eb972c3f-92d0-43a5-b284-1eab71738b8a")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR042"
 			(at 304.8 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -21448,7 +21423,163 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR037")
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 105.41 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed05b70d-7e37-4bd1-9aa1-6d65149f8cb8")
+		(property "Reference" "#PWR016"
+			(at 105.41 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 105.41 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1f148eeb-9235-4fe1-8449-5c3fad5cecfe")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 76.2 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef0996f8-0083-4877-b2b6-fbaf5951ff04")
+		(property "Reference" "#PWR012"
+			(at 76.2 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 76.2 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.2 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "40db88ce-f950-492b-b7dc-191b9dd5a520")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -21465,7 +21596,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f115eb9f-7c19-494b-8c9e-63bdc6d0c841")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR025"
 			(at 171.45 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -21525,7 +21656,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR026")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -21544,7 +21675,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f20690b7-2d6f-4a08-90a5-849385516a29")
-		(property "Reference" "C14"
+		(property "Reference" "C3"
 			(at 24.384 186.944 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21617,7 +21748,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C14")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -21634,7 +21765,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f3024da1-3b9e-4866-b4c6-917be0a780d7")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR047"
 			(at 328.93 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -21694,7 +21825,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "#PWR040")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -21713,7 +21844,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa32d991-b1c8-43f4-a95f-4e03fe7acd1c")
-		(property "Reference" "C15"
+		(property "Reference" "C1"
 			(at 21.336 239.776 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21786,7 +21917,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C15")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -21968,7 +22099,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff122fdc-59a0-444f-beb7-772f1fbf9987")
-		(property "Reference" "C3"
+		(property "Reference" "C7"
 			(at 182.626 40.894 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22041,7 +22172,7 @@
 		(instances
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "C3")
+					(reference "C7")
 					(unit 1)
 				)
 			)

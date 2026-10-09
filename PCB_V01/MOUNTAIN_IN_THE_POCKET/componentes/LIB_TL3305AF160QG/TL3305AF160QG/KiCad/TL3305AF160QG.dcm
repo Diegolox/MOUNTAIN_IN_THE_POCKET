@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL3305AF160QG
+D SLIDE, 1A, 30VDC DPDT, On-Off-On, Through Hole
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/TL3312NF160Q.pdf
+$ENDCMP
+#
+#End Doc Library

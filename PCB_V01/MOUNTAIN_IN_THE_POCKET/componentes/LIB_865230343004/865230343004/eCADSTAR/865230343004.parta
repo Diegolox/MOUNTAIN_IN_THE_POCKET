@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_11495163"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-18-11:10:32)
+    (utime 2026-03-13-11:01:24)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "865230343004")
+)
+
+
+(pinAssign "ECS_11495163"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-18-11:10:32)
+    (utime 2026-03-13-11:01:24)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_11495163")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "865230343004")
+)
+
+
+(part "865230343004"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-18-11:10:32)
+    (utime 2026-03-13-11:01:24)
+    (packageRef "865230343004")
+    (pinAssignRef "ECS_11495163")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "WCAP-AS5H Aluminum Electrolytic Capacitors ASDD055470M016DVCTBE000; SMT V-Chip; 47 F +/- 20%; 16 V(DC); 5000 h; -40C / +105C; size DxL 6.3 x 5.5; Max. Iripple 50 mA @120 Hz; LC 7.52 A; DF 22 %")
+    (property "Farnell_Part_Number" "")
+    (property "Farnell_Price/Stock" "")
+    (property "Manufacturer_Name" "Wurth Elektronik")
+    (property "Manufacturer_Part_Number" "865230343004")
+    (property "Datasheet_Link" "https://www.we-online.com/catalog/datasheet/865230343004.pdf")
+    (property "compAreaTopHeight" 5.7)
+)
+
+

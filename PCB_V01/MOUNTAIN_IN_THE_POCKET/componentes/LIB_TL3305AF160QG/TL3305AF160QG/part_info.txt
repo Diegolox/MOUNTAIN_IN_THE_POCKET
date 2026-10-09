@@ -1,0 +1,9 @@
+Manufacturer=E-Switch
+PartNumber=TL3305AF160QG
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=12.1
+Released=2017-09-18 10:21:43
+Downloaded=2026-10-09 18:13:36
+3D=Y

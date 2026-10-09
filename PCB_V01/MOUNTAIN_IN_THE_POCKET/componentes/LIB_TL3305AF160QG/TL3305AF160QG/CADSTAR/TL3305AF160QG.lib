@@ -1,0 +1,16 @@
+.TL3305AF160QG :1 ;SLIDE, 1A, 30VDC DPDT, On-Off-On, Through Hole
+TL3305AF160QG
+*STM S
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN TL3305AF160QG
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (E-Switch)
+~!Manufacturer_Part_Number (TL3305AF160QG)
+~!Link Datasheet (https://configured-product-images.s3.amazonaws.com/2D/specs/TL3312NF160Q.pdf)
+~!Height (-)
+~!3D_Model (TL3305AF160QG)
+TL3305AF160QG
+1.1!U 2.1!U 3.1!U 4.1!U 
