@@ -11,4 +11,5 @@
 	(lib (name "AZ1117CH-3_3TRG1") (type "KiCad") (uri "${KIPRJMOD}/componentes/LIB_AZ1117CH-3.3TRG1/AZ1117CH-3.3TRG1/KiCad/AZ1117CH-3_3TRG1.kicad_sym") (options "") (descr ""))
 	(lib (name "1825232-1") (type "KiCad") (uri "${KIPRJMOD}/componentes/LIB_1825232-1/1825232-1/KiCad/1825232-1.kicad_sym") (options "") (descr ""))
 	(lib (name "865230343004") (type "KiCad") (uri "${KIPRJMOD}/componentes/HUELLAS/LIB_865230343004/865230343004/KiCad/865230343004.kicad_sym") (options "") (descr ""))
+	(lib (name "C3216X7R1C106K160AC") (type "KiCad") (uri "${KIPRJMOD}/componentes/LIB_C3216X7R1C106K160AC/C3216X7R1C106K160AC/KiCad/C3216X7R1C106K160AC.kicad_sym") (options "") (descr ""))
 )
