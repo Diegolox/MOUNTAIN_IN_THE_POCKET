@@ -8534,8 +8534,8 @@
 		(uuid "b2d9c100-e0a2-4b49-acd3-56ac36d13496")
 	)
 	(rectangle
-		(start 13.97 88.9)
-		(end 74.93 118.11)
+		(start 12.7 88.9)
+		(end 129.54 118.11)
 		(stroke
 			(width 0)
 			(type default)
@@ -8796,6 +8796,12 @@
 		(uuid "6ff1d720-5f2e-4e09-8078-ec3f7c30fbb0")
 	)
 	(junction
+		(at 78.74 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "783987f6-5d78-4977-9127-881eca41c8ab")
+	)
+	(junction
 		(at 247.65 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8850,6 +8856,12 @@
 		(uuid "b29a8df5-9a2f-4f10-bdfd-44ccae4d42c5")
 	)
 	(junction
+		(at 93.98 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3fba904-8511-41f7-aecf-f976106b6220")
+	)
+	(junction
 		(at 41.91 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8902,6 +8914,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd15f7c3-3022-4da1-adcf-a5ecd7b24f76")
+	)
+	(junction
+		(at 97.79 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "feabaf6b-ee61-4f67-a606-336e2dab94ec")
 	)
 	(no_connect
 		(at 331.47 223.52)
@@ -9065,6 +9083,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 104.14) (xy 78.74 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "080cf084-825d-4035-8a55-139b0e60b9d7")
+	)
+	(wire
+		(pts
 			(xy 97.79 63.5) (xy 100.33 63.5)
 		)
 		(stroke
@@ -9225,6 +9253,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 106.68) (xy 93.98 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21f49e57-e9ef-439b-8a67-2377fe2ecf1c")
+	)
+	(wire
+		(pts
 			(xy 182.88 156.21) (xy 185.42 156.21)
 		)
 		(stroke
@@ -9322,6 +9360,16 @@
 			(type default)
 		)
 		(uuid "2c039f80-8247-41df-9aec-03dafc4ac1d3")
+	)
+	(wire
+		(pts
+			(xy 93.98 104.14) (xy 97.79 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c83aacf-3e2b-4bda-88ed-88c215ab8a35")
 	)
 	(wire
 		(pts
@@ -9432,6 +9480,16 @@
 			(type default)
 		)
 		(uuid "3cb7867e-8934-499a-b58e-07f2c1af4835")
+	)
+	(wire
+		(pts
+			(xy 97.79 101.6) (xy 97.79 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cc01cd3-038f-43c2-83be-8651d40eb02a")
 	)
 	(wire
 		(pts
@@ -9552,6 +9610,16 @@
 			(type default)
 		)
 		(uuid "5544f3fe-8218-4652-abbe-e49638018875")
+	)
+	(wire
+		(pts
+			(xy 92.71 104.14) (xy 93.98 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a92f21c-03b7-48a8-a9e5-a509a31be7ab")
 	)
 	(wire
 		(pts
@@ -9705,6 +9773,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 106.68) (xy 93.98 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c9d41e-4a3c-4275-b9c9-02f371e914ce")
+	)
+	(wire
+		(pts
 			(xy 41.91 199.39) (xy 41.91 198.12)
 		)
 		(stroke
@@ -9845,6 +9923,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 158.75) (xy 185.42 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f73a593-989c-4625-9ccb-f26a0b77daae")
+	)
+	(wire
+		(pts
 			(xy 331.47 175.26) (xy 332.74 175.26)
 		)
 		(stroke
@@ -9982,6 +10070,16 @@
 			(type default)
 		)
 		(uuid "97af415e-f294-4898-9f22-6906ded5edab")
+	)
+	(wire
+		(pts
+			(xy 78.74 106.68) (xy 78.74 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98f0c366-23fa-469b-8019-d5a46d82c39e")
 	)
 	(wire
 		(pts
@@ -10795,6 +10893,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 106.68) (xy 82.55 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea0913ac-79b4-4094-b298-0f0c0d1d547a")
+	)
+	(wire
+		(pts
 			(xy 217.17 34.29) (xy 217.17 31.75)
 		)
 		(stroke
@@ -10842,6 +10950,16 @@
 			(type default)
 		)
 		(uuid "ef883099-011f-4638-aa54-aeac0019a134")
+	)
+	(wire
+		(pts
+			(xy 78.74 104.14) (xy 78.74 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef8af016-21b4-4092-bb84-0e43660517f8")
 	)
 	(wire
 		(pts
@@ -11073,7 +11191,7 @@
 		)
 		(uuid "02a70b4a-be81-469c-9916-9fb34fb07db8")
 	)
-	(label "PIN_BUTTON"
+	(label "PIN_BUTTON_1"
 		(at 185.42 156.21 0)
 		(effects
 			(font
@@ -11283,6 +11401,16 @@
 		)
 		(uuid "72801ec5-5858-4d53-a171-b804f8f619e4")
 	)
+	(label "PIN_BUTTON_2"
+		(at 97.79 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "739d0880-3630-4017-bdaf-84dc5515502a")
+	)
 	(label "DIG_3"
 		(at 398.78 219.71 0)
 		(effects
@@ -11443,7 +11571,7 @@
 		)
 		(uuid "aea327e3-7a2b-4bab-a358-1fcb1448800f")
 	)
-	(label "PIN_BUTTON"
+	(label "PIN_BUTTON_1"
 		(at 52.07 101.6 0)
 		(effects
 			(font
@@ -11492,6 +11620,16 @@
 			(justify right bottom)
 		)
 		(uuid "d1fee633-ad2f-429c-ad13-2c7f991ad81b")
+	)
+	(label "PIN_BUTTON_2"
+		(at 185.42 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d25aeb58-8820-4234-8fb6-0de66a91d0bc")
 	)
 	(label "DIG_3"
 		(at 332.74 205.74 0)
@@ -13420,6 +13558,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 97.79 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2aa12ccc-44de-48aa-867f-d8ba873582b7")
+		(property "Reference" "C16"
+			(at 100.33 105.4162 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Small"
+			(at 100.33 107.9562 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 97.79 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 97.79 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 97.79 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "00556797-73fc-43fd-a0b9-ea1306109778")
+		)
+		(pin "2"
+			(uuid "ab35ae54-3990-49e4-8cce-da73e1f0b8d6")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "COMPONENTES_SCH:SEN0251")
 		(at 43.18 201.93 0)
 		(unit 1)
@@ -14166,6 +14386,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 97.79 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ed9d624-f435-4256-8794-6d13cc9e3f91")
+		(property "Reference" "#PWR049"
+			(at 97.79 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 97.79 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 97.79 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 97.79 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 97.79 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "33f30abd-2aec-4cbd-9a07-c60fbda4a473")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 41.91 199.39 0)
 		(unit 1)
 		(body_style 1)
@@ -14905,6 +15203,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 78.74 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5285589e-30dd-442c-a113-2c587a28c3e2")
+		(property "Reference" "#PWR048"
+			(at 78.74 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 78.74 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 78.74 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "981cb83e-792d-4118-84a5-0eec2d7003e2")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Photo")
 		(at 33.02 231.14 0)
 		(mirror y)
@@ -15513,6 +15889,103 @@
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 87.63 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b314f66-874c-4585-87b1-36b376682cf7")
+		(property "Reference" "SW2"
+			(at 87.63 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_MEC_5E"
+			(at 87.63 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_MEC_5GSH9"
+			(at 87.63 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.apem.com/medias/download/MEC_switches_serie_MULTIMEC5E.pdf"
+			(at 87.63 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MEC 5E single pole normally-open tactile switch"
+			(at 87.63 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/multicomp-pro/mptsm-21r-s-v/int-t-ctil-0-05a-12vdc-smd-260gf/dp/4153441RL"
+			(at 87.63 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "096b566f-b5b5-4ea1-997f-b743af481883")
+		)
+		(pin "1"
+			(uuid "22c5fd8d-f357-4a46-af46-438327870e4c")
+		)
+		(pin "3"
+			(uuid "4d567040-0a51-4bc8-ba0c-583e83233c43")
+		)
+		(pin "4"
+			(uuid "cc36e54f-097c-49c7-ba3d-75338deda84e")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
