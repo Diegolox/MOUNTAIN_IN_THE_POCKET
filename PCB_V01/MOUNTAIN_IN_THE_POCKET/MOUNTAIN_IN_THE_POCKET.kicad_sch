@@ -8238,7 +8238,7 @@
 	)
 	(rectangle
 		(start 13.97 215.9)
-		(end 74.93 254)
+		(end 74.93 271.78)
 		(stroke
 			(width 0)
 			(type default)
@@ -9028,6 +9028,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 254) (xy 33.02 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "179418dd-77ee-498c-af0d-e4fee556462f")
+	)
+	(wire
+		(pts
 			(xy 327.66 119.38) (xy 328.93 119.38)
 		)
 		(stroke
@@ -9448,7 +9458,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 241.3) (xy 160.02 243.84)
+			(xy 148.59 241.3) (xy 148.59 243.84)
 		)
 		(stroke
 			(width 0)
@@ -9515,6 +9525,16 @@
 			(type default)
 		)
 		(uuid "574a273b-babd-4940-a976-c58fb04b0179")
+	)
+	(wire
+		(pts
+			(xy 161.29 251.46) (xy 161.29 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57ab44f5-cd0e-41a9-9c2d-ed54376de255")
 	)
 	(wire
 		(pts
@@ -10088,16 +10108,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 241.3) (xy 33.02 243.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d35c387-fc3c-4883-ad18-5a7656f56270")
-	)
-	(wire
-		(pts
 			(xy 49.53 49.53) (xy 49.53 58.42)
 		)
 		(stroke
@@ -10568,6 +10578,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 241.3) (xy 161.29 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c537100c-c97a-4ddd-abea-c417cd51cfbf")
+	)
+	(wire
+		(pts
 			(xy 153.67 30.48) (xy 157.48 30.48)
 		)
 		(stroke
@@ -10718,6 +10738,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 241.3) (xy 33.02 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cce71c64-6f38-4fac-b966-2195aa48a8a7")
+	)
+	(wire
+		(pts
 			(xy 208.28 44.45) (xy 208.28 41.91)
 		)
 		(stroke
@@ -10828,7 +10858,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 251.46) (xy 160.02 252.73)
+			(xy 148.59 251.46) (xy 148.59 252.73)
 		)
 		(stroke
 			(width 0)
@@ -11178,7 +11208,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 231.14) (xy 160.02 233.68)
+			(xy 148.59 231.14) (xy 148.59 233.68)
 		)
 		(stroke
 			(width 0)
@@ -11225,6 +11255,16 @@
 			(type default)
 		)
 		(uuid "f82abec7-1c51-4e5f-a6bf-1d16eef260e1")
+	)
+	(wire
+		(pts
+			(xy 161.29 231.14) (xy 161.29 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f85cb4e6-2255-4950-ac13-cc88199d9a2a")
 	)
 	(wire
 		(pts
@@ -12359,11 +12399,11 @@
 		(at 210.82 111.76 270)
 		(unit 1)
 		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0a5bcbce-7cf4-4bb5-9c3b-9da7f750d276")
 		(property "Reference" "C8"
@@ -12689,6 +12729,84 @@
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 161.29 231.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15994ab5-6eaa-4538-903c-b620e48e61f3")
+		(property "Reference" "#PWR050"
+			(at 161.29 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VCC"
+			(at 161.29 226.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 161.29 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "af0d4f84-774e-4447-b1c6-c92e02f60967")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -13287,7 +13405,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 160.02 247.65 180)
+		(at 148.59 247.65 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13297,7 +13415,7 @@
 		(dnp no)
 		(uuid "2865e199-4859-47fa-ad4d-7afb7a16f2ae")
 		(property "Reference" "R6"
-			(at 161.544 246.126 0)
+			(at 150.114 246.126 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13308,7 +13426,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 160.782 250.19 0)
+			(at 149.352 250.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13319,7 +13437,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 159.004 247.396 90)
+			(at 147.574 247.396 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13330,7 +13448,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
-			(at 160.02 247.65 0)
+			(at 148.59 247.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13341,7 +13459,7 @@
 			)
 		)
 		(property "Description" "MCPWR06FTEQ1002A"
-			(at 160.02 247.65 0)
+			(at 148.59 247.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13352,7 +13470,7 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
-			(at 160.02 247.65 0)
+			(at 148.59 247.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13736,7 +13854,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2cd47ec1-bb3a-475f-9ade-685c879e205e")
 		(property "Reference" "R10"
 			(at 216.154 137.414 90)
@@ -15222,7 +15340,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 160.02 231.14 0)
+		(at 148.59 231.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15233,7 +15351,7 @@
 		(fields_autoplaced yes)
 		(uuid "524b0db2-1b23-4cb5-b80d-9941c8470550")
 		(property "Reference" "#PWR021"
-			(at 160.02 234.95 0)
+			(at 148.59 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15244,7 +15362,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 160.02 226.06 0)
+			(at 148.59 226.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15254,7 +15372,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 231.14 0)
+			(at 148.59 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15265,7 +15383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 231.14 0)
+			(at 148.59 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15276,7 +15394,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 160.02 231.14 0)
+			(at 148.59 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16191,6 +16309,98 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 33.02 250.19 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6f2aec62-ce14-4910-99f0-c53f544641ef")
+		(property "Reference" "R15"
+			(at 34.544 248.666 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" ""
+			(at 33.782 252.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 32.004 249.936 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
+			(at 33.02 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MCPWR06FTEQ1002A"
+			(at 33.02 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 33.02 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "13ba4518-dfa1-4dee-954d-391b6e38b4b8")
+		)
+		(pin "2"
+			(uuid "67f57e57-fb61-414c-b80a-445dbccfb8be")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "2N7002:2N7002")
 		(at 340.36 121.92 0)
 		(unit 1)
@@ -16224,7 +16434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT96P240X120-3N"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
 			(at 351.79 220.65 0)
 			(hide yes)
 			(show_name no)
@@ -16349,6 +16559,176 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 161.29 252.73 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7193ccf0-59c6-43fa-bb92-5cbd948250d3")
+		(property "Reference" "#PWR051"
+			(at 161.29 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.29 257.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 161.29 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "18011209-00bf-4b14-b6cf-05f666290080")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 161.29 247.65 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "72356e69-f2fc-475a-b4e4-b5002677c09a")
+		(property "Reference" "R14"
+			(at 162.814 246.126 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 162.052 250.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 160.274 247.396 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
+			(at 161.29 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MCPWR06FTEQ1002A"
+			(at 161.29 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 161.29 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8b174f62-1a0b-432f-8dfc-b05e4164e58b")
+		)
+		(pin "2"
+			(uuid "7bf2bbb0-653c-49cf-8380-32a329e82d38")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 217.17 132.08 90)
 		(unit 1)
@@ -16357,7 +16737,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "72b98d87-7ddf-4c55-abdb-6faff4d10ff9")
 		(property "Reference" "R9"
 			(at 216.154 129.794 90)
@@ -16440,7 +16820,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 33.02 243.84 0)
+		(at 33.02 257.81 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16450,7 +16830,7 @@
 		(dnp no)
 		(uuid "734fbbb8-0dd8-46d3-ac84-acfad9d2a8ba")
 		(property "Reference" "#PWR06"
-			(at 33.02 250.19 0)
+			(at 33.02 264.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16461,7 +16841,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 36.068 247.142 0)
+			(at 36.068 261.112 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16471,7 +16851,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 243.84 0)
+			(at 33.02 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16482,7 +16862,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 243.84 0)
+			(at 33.02 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16493,7 +16873,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 33.02 243.84 0)
+			(at 33.02 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17692,7 +18072,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 160.02 252.73 0)
+		(at 148.59 252.73 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17703,7 +18083,7 @@
 		(fields_autoplaced yes)
 		(uuid "93be3415-102d-41c1-8cbc-8b722fe78e5d")
 		(property "Reference" "#PWR022"
-			(at 160.02 259.08 0)
+			(at 148.59 259.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17714,7 +18094,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 160.02 257.81 0)
+			(at 148.59 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17724,7 +18104,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 252.73 0)
+			(at 148.59 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17735,7 +18115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 252.73 0)
+			(at 148.59 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17746,7 +18126,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 160.02 252.73 0)
+			(at 148.59 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18974,7 +19354,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 160.02 237.49 90)
+		(at 148.59 237.49 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18985,7 +19365,7 @@
 		(fields_autoplaced yes)
 		(uuid "b0429508-a6d2-4cc6-a77b-6c74559ddb33")
 		(property "Reference" "D1"
-			(at 163.83 237.8074 90)
+			(at 152.4 237.8074 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18996,7 +19376,7 @@
 			)
 		)
 		(property "Value" "RED"
-			(at 163.83 240.3474 90)
+			(at 152.4 240.3474 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19007,7 +19387,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 160.02 237.49 0)
+			(at 148.59 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19018,7 +19398,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.farnell.com/datasheets/269320.pdf?_gl=1*1b68cze*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
-			(at 160.02 237.49 0)
+			(at 148.59 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19029,7 +19409,7 @@
 			)
 		)
 		(property "Description" "SML-LX1206SRC-TR."
-			(at 160.02 237.49 0)
+			(at 148.59 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19040,7 +19420,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 237.49 0)
+			(at 148.59 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19051,7 +19431,7 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/lumex/sml-lx1206src-tr/led-red-2mm-x-1-6mm-25mcd-660nm/dp/7608287"
-			(at 160.02 237.49 90)
+			(at 148.59 237.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19439,6 +19819,110 @@
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 161.29 237.49 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c20839f9-9a33-43f2-bd34-0c07371657fb")
+		(property "Reference" "D9"
+			(at 165.1 237.8074 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RED"
+			(at 165.1 240.3474 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+			(at 161.29 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/269320.pdf?_gl=1*1b68cze*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
+			(at 161.29 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SML-LX1206SRC-TR."
+			(at 161.29 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 161.29 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/lumex/sml-lx1206src-tr/led-red-2mm-x-1-6mm-25mcd-660nm/dp/7608287"
+			(at 161.29 237.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cd17b557-8670-46b8-85a5-09cf0f8be1e2")
+		)
+		(pin "1"
+			(uuid "8291438e-dcbc-4c26-9d82-a55e75d6b65a")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "D9")
 					(unit 1)
 				)
 			)
