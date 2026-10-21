@@ -8273,8 +8273,8 @@
 		(uuid "3f158ebc-52d6-41b2-ae2b-b80c59dfab70")
 	)
 	(rectangle
-		(start 13.97 168.91)
-		(end 74.93 203.2)
+		(start 13.97 171.45)
+		(end 74.93 205.74)
 		(stroke
 			(width 0)
 			(type default)
@@ -8413,7 +8413,7 @@
 	)
 	(text "BARÓMETRO"
 		(exclude_from_sim no)
-		(at 20.32 176.276 0)
+		(at 20.32 178.816 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8591,6 +8591,12 @@
 		(uuid "268ec93b-8ec7-4886-ad43-48f5a277575c")
 	)
 	(junction
+		(at 33.02 240.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2fd2eeab-8ee1-4588-9737-b8f9d8aef503")
+	)
+	(junction
 		(at 48.26 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8621,7 +8627,7 @@
 		(uuid "420298d9-b713-4edf-ba45-d89859158c8f")
 	)
 	(junction
-		(at 41.91 198.12)
+		(at 41.91 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "45c913d5-01f0-4f9c-ad9c-6959fff69769")
@@ -8729,7 +8735,7 @@
 		(uuid "ad94e2a2-e7ce-4e13-8ee0-f28d34a33d94")
 	)
 	(junction
-		(at 41.91 176.53)
+		(at 41.91 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b29a8df5-9a2f-4f10-bdfd-44ccae4d42c5")
@@ -9058,7 +9064,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 185.42) (xy 27.94 176.53)
+			(xy 27.94 187.96) (xy 27.94 179.07)
 		)
 		(stroke
 			(width 0)
@@ -9318,7 +9324,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 238.76) (xy 63.5 238.76)
+			(xy 33.02 240.03) (xy 35.56 240.03)
 		)
 		(stroke
 			(width 0)
@@ -9445,6 +9451,16 @@
 			(type default)
 		)
 		(uuid "4c16971e-dda1-43de-8b99-1f00ce8ffb85")
+	)
+	(wire
+		(pts
+			(xy 33.02 240.03) (xy 33.02 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ca664c7-e747-48cd-957d-bf16c03b99c5")
 	)
 	(wire
 		(pts
@@ -9618,7 +9634,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 176.53) (xy 41.91 177.8)
+			(xy 41.91 179.07) (xy 41.91 180.34)
 		)
 		(stroke
 			(width 0)
@@ -9638,7 +9654,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 191.77) (xy 53.34 191.77)
+			(xy 50.8 194.31) (xy 53.34 194.31)
 		)
 		(stroke
 			(width 0)
@@ -9728,7 +9744,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 199.39) (xy 41.91 198.12)
+			(xy 41.91 201.93) (xy 41.91 200.66)
 		)
 		(stroke
 			(width 0)
@@ -9978,7 +9994,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 234.95) (xy 33.02 238.76)
+			(xy 33.02 234.95) (xy 33.02 240.03)
 		)
 		(stroke
 			(width 0)
@@ -10328,7 +10344,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 198.12) (xy 41.91 198.12)
+			(xy 27.94 200.66) (xy 41.91 200.66)
 		)
 		(stroke
 			(width 0)
@@ -10548,7 +10564,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 176.53) (xy 41.91 176.53)
+			(xy 27.94 179.07) (xy 41.91 179.07)
 		)
 		(stroke
 			(width 0)
@@ -10688,7 +10704,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 175.26) (xy 41.91 176.53)
+			(xy 41.91 177.8) (xy 41.91 179.07)
 		)
 		(stroke
 			(width 0)
@@ -10735,16 +10751,6 @@
 			(type default)
 		)
 		(uuid "cc817fc0-608a-4ee1-9a27-8b19b782518e")
-	)
-	(wire
-		(pts
-			(xy 33.02 241.3) (xy 33.02 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cce71c64-6f38-4fac-b966-2195aa48a8a7")
 	)
 	(wire
 		(pts
@@ -10998,7 +11004,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 190.5) (xy 27.94 198.12)
+			(xy 27.94 193.04) (xy 27.94 200.66)
 		)
 		(stroke
 			(width 0)
@@ -11328,7 +11334,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 184.15) (xy 53.34 184.15)
+			(xy 50.8 186.69) (xy 53.34 186.69)
 		)
 		(stroke
 			(width 0)
@@ -11527,7 +11533,7 @@
 		(uuid "44ab0e67-cad4-429f-a974-ef3f5e030be2")
 	)
 	(label "SDA"
-		(at 53.34 191.77 0)
+		(at 53.34 194.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11787,7 +11793,7 @@
 		(uuid "be3bd9b2-f842-4855-864a-c0f6b69ed2d0")
 	)
 	(label "SCL"
-		(at 53.34 184.15 0)
+		(at 53.34 186.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11917,7 +11923,7 @@
 		(uuid "eeef5307-dc95-4d72-91a5-cb0c4e9145ca")
 	)
 	(label "PIN_LDR"
-		(at 63.5 238.76 0)
+		(at 35.56 240.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13749,7 +13755,7 @@
 	)
 	(symbol
 		(lib_id "COMPONENTES_SCH:SEN0251")
-		(at 43.18 201.93 0)
+		(at 43.18 204.47 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13759,7 +13765,7 @@
 		(dnp no)
 		(uuid "2cc2a62e-e8a1-44a7-924f-67a56d1290c0")
 		(property "Reference" "S2"
-			(at 34.29 186.6899 0)
+			(at 34.29 189.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13770,7 +13776,7 @@
 			)
 		)
 		(property "Value" "SEN0251"
-			(at 57.912 195.834 0)
+			(at 57.912 198.374 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13781,7 +13787,7 @@
 			)
 		)
 		(property "Footprint" "LIB_HUELLAS_MITP:CONECTOR_0251"
-			(at 43.18 201.93 0)
+			(at 43.18 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13792,7 +13798,7 @@
 			)
 		)
 		(property "Datasheet" "https://wiki.dfrobot.com/sen0251/#tech_specs"
-			(at 43.18 201.93 0)
+			(at 43.18 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13803,7 +13809,7 @@
 			)
 		)
 		(property "Description" "Barómetro"
-			(at 43.18 201.93 0)
+			(at 43.18 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13814,7 +13820,7 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/dfrobot/sen0251/barometric-pressure-sensors-module/dp/3879705"
-			(at 43.18 201.93 0)
+			(at 43.18 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14007,6 +14013,161 @@
 			(project "MOUNTAIN_IN_THE_POCKET"
 				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
 					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "3362P-1-103LF:3362P-1-103LF")
+		(at 43.18 265.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2df15e62-2323-4943-9812-daab2e453a6b")
+		(property "Reference" "VR1"
+			(at 57.15 257.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "3362P-1-103LF"
+			(at 57.15 260.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "3362P_1"
+			(at 67.31 360.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000139931.pdf"
+			(at 67.31 460.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "10k, Through Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3362"
+			(at 43.18 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 67.31 660.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Farnell Part Number" ""
+			(at 67.31 760.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Farnell Price/Stock" ""
+			(at 67.31 860.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Bourns"
+			(at 67.31 960.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "3362P-1-103LF"
+			(at 67.31 1060.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "LINK" "https://es.farnell.com/bourns/3362p-1-103lf/pot-trimmer-10k-3-pin/dp/9354301"
+			(at 43.18 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "091c4f34-243d-496c-b98a-3d277837c0e8")
+		)
+		(pin "3"
+			(uuid "b090141e-f899-4dbc-b715-11d486bca039")
+		)
+		(pin "2"
+			(uuid "378875af-9acf-4992-98ba-9b113beec02c")
+		)
+		(instances
+			(project "MOUNTAIN_IN_THE_POCKET"
+				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
+					(reference "VR1")
 					(unit 1)
 				)
 			)
@@ -14510,7 +14671,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 41.91 175.26 0)
+		(at 41.91 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14520,7 +14681,7 @@
 		(dnp no)
 		(uuid "3d644f5a-4077-4158-8593-86623553ac7b")
 		(property "Reference" "#PWR09"
-			(at 41.91 179.07 0)
+			(at 41.91 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14531,7 +14692,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 44.704 171.958 0)
+			(at 44.704 174.498 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14541,7 +14702,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 175.26 0)
+			(at 41.91 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14552,7 +14713,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 175.26 0)
+			(at 41.91 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14563,7 +14724,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 41.91 175.26 0)
+			(at 41.91 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14587,7 +14748,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 41.91 199.39 0)
+		(at 41.91 201.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14597,7 +14758,7 @@
 		(dnp no)
 		(uuid "40d392d5-5e62-4c90-8e12-d72ab0bc73b4")
 		(property "Reference" "#PWR010"
-			(at 41.91 205.74 0)
+			(at 41.91 208.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14608,7 +14769,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 45.466 201.676 0)
+			(at 45.466 204.216 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14618,7 +14779,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 199.39 0)
+			(at 41.91 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14629,7 +14790,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 199.39 0)
+			(at 41.91 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14640,7 +14801,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 41.91 199.39 0)
+			(at 41.91 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18566,161 +18727,6 @@
 		)
 	)
 	(symbol
-		(lib_id "3362P-1-103LF:3362P-1-103LF")
-		(at 33.02 238.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a4675fac-957d-4c65-b696-196bfa85c504")
-		(property "Reference" "VR1"
-			(at 46.99 231.14 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "3362P-1-103LF"
-			(at 46.99 233.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "3362P_1"
-			(at 57.15 333.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000139931.pdf"
-			(at 57.15 433.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "10k, Through Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3362"
-			(at 33.02 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 57.15 633.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Farnell Part Number" ""
-			(at 57.15 733.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Farnell Price/Stock" ""
-			(at 57.15 833.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 57.15 933.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "3362P-1-103LF"
-			(at 57.15 1033.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "LINK" "https://es.farnell.com/bourns/3362p-1-103lf/pot-trimmer-10k-3-pin/dp/9354301"
-			(at 33.02 238.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "507dbb97-d0d2-4735-949c-b565c48d4bd6")
-		)
-		(pin "3"
-			(uuid "d51e4736-7d7b-48af-9ce0-4ae3bdc5620a")
-		)
-		(pin "2"
-			(uuid "7ad6fabc-64de-49e4-9cef-3e5b9c0e7706")
-		)
-		(instances
-			(project "MOUNTAIN_IN_THE_POCKET"
-				(path "/e72b8689-cd5c-46c9-aec2-55ca2d1a1bb4"
-					(reference "VR1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
 		(at 21.59 48.26 180)
 		(unit 1)
@@ -22282,7 +22288,7 @@
 	(symbol
 		(lib_name "C_Small_1")
 		(lib_id "Device:C_Small")
-		(at 27.94 187.96 0)
+		(at 27.94 190.5 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -22293,7 +22299,7 @@
 		(dnp no)
 		(uuid "f20690b7-2d6f-4a08-90a5-849385516a29")
 		(property "Reference" "C3"
-			(at 24.384 186.944 0)
+			(at 24.384 189.484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22303,7 +22309,7 @@
 			)
 		)
 		(property "Value" "0.1uF 50V"
-			(at 20.828 189.23 0)
+			(at 20.828 191.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22313,7 +22319,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 27.94 187.96 0)
+			(at 27.94 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22324,7 +22330,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
-			(at 27.94 187.96 0)
+			(at 27.94 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22335,7 +22341,7 @@
 			)
 		)
 		(property "Description" "08055C104KAT2A"
-			(at 27.94 198.12 0)
+			(at 27.94 200.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22346,7 +22352,7 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"
-			(at 27.94 187.96 0)
+			(at 27.94 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
