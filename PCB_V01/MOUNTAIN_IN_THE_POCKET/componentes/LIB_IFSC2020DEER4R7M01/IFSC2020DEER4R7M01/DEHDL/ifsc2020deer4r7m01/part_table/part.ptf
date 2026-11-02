@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IFSC2020DEER4R7M01'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "IFSC2020DEER4R7M01" (!) = "", "IFSC2020DEER4R7M01", "Other", "", "", "4.7 H Shielded Wirewound Inductor 3 A 31mOhm Max 2424 (6060 Metric)", "https://www.vishay.com/docs/34083/ifsc-2020de-01.pdf", "4.5 mm"
+END_PART
+
+END.

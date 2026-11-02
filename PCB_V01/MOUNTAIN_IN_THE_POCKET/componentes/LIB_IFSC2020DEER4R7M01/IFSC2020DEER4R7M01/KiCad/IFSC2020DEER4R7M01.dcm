@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IFSC2020DEER4R7M01
+D 4.7 H Shielded Wirewound Inductor 3 A 31mOhm Max 2424 (6060 Metric)
+K
+F https://www.vishay.com/docs/34083/ifsc-2020de-01.pdf
+$ENDCMP
+#
+#End Doc Library

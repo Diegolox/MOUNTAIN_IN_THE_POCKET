@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_20509310"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-04-29-05:55:36)
+    (utime 2025-04-29-05:55:37)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "IFSC2020DEER4R7M01")
+)
+
+
+(pinAssign "ECS_20509310"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-04-29-05:55:36)
+    (utime 2025-04-29-05:55:37)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_20509310")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "IFSC2020DEER4R7M01")
+)
+
+
+(part "IFSC2020DEER4R7M01"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-04-29-05:55:36)
+    (utime 2025-04-29-05:55:37)
+    (packageRef "IFSC2020DEER4R7M01")
+    (pinAssignRef "ECS_20509310")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "4.7 H Shielded Wirewound Inductor 3 A 31mOhm Max 2424 (6060 Metric)")
+    (property "Farnell_Part_Number" "")
+    (property "Farnell_Price/Stock" "")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "IFSC2020DEER4R7M01")
+    (property "Datasheet_Link" "https://www.vishay.com/docs/34083/ifsc-2020de-01.pdf")
+    (property "compAreaTopHeight" 4.5)
+)
+
+

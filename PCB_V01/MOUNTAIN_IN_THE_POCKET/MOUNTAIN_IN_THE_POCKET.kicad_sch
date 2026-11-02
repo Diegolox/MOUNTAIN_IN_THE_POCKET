@@ -11728,6 +11728,16 @@
 		)
 		(uuid "44ab0e67-cad4-429f-a974-ef3f5e030be2")
 	)
+	(label "SWN"
+		(at 262.89 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45a7e014-cdcd-44a9-8776-c106058b6920")
+	)
 	(label "SDA"
 		(at 53.34 194.31 0)
 		(effects
@@ -16691,7 +16701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1008_2520Metric_Pad1.43x2.20mm_HandSolder"
+		(property "Footprint" "AS1115-BSST:IFSC2020DEER4R7M01"
 			(at 267.97 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -16713,8 +16723,19 @@
 				)
 			)
 		)
-		(property "Description" "LQM2HPN4R7MG0L"
+		(property "Description" "IFSC2020DEER4R7M01Copiado"
 			(at 267.97 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Link" "https://es.farnell.com/vishay/ifsc2020deer4r7m01/power-inductor-4-7uh-3a-semishield/dp/4350988"
+			(at 267.97 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

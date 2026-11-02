@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=IFSC2020DEER4R7M01
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2025-04-29 05:55:36
+Downloaded=2026-11-02 16:36:48
+3D=Y

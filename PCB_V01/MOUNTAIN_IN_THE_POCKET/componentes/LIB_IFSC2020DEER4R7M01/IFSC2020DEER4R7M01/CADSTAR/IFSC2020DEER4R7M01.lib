@@ -1,0 +1,16 @@
+.IFSC2020DEER4R7M01 :1 ;4.7 H Shielded Wirewound Inductor 3 A 31mOhm Max 2424 (6060 Metric)
+IFSC2020DEER4R7M01
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN IFSC2020DEER4R7M01
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (IFSC2020DEER4R7M01)
+~!Link Datasheet (https://www.vishay.com/docs/34083/ifsc-2020de-01.pdf)
+~!Height (4.5mm)
+~!3D_Model (IFSC2020DEER4R7M01)
+IFSC2020DEER4R7M01
+1.1!U 2.1!U 
