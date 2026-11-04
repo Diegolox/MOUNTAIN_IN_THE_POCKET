@@ -14337,7 +14337,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/3928835.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/20065/rcse3.pdf"
 			(at 217.17 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -14348,7 +14348,7 @@
 				)
 			)
 		)
-		(property "Description" "CHP1206AFX-4701ELF."
+		(property "Description" "RCS12064K70JNEA"
 			(at 217.17 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -14359,7 +14359,7 @@
 				)
 			)
 		)
-		(property "LINK" "https://es.farnell.com/bourns/chp1206afx-4701elf/res-aec-q200-4-7k-1-0-75w-1206/dp/3464680"
+		(property "LINK" "https://es.farnell.com/vishay/rcs12064k70jnea/resistor-rcs1206-200-4k7-et1-e3/dp/3235297"
 			(at 217.17 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -14370,7 +14370,7 @@
 				)
 			)
 		)
-		(property "CODE FARNELL" "3464680"
+		(property "CODE FARNELL" "3235297"
 			(at 217.17 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17809,7 +17809,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/3928835.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/20065/rcse3.pdf"
 			(at 217.17 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -17820,7 +17820,7 @@
 				)
 			)
 		)
-		(property "Description" "CHP1206AFX-4701ELF."
+		(property "Description" "RCS12064K70JNEA"
 			(at 217.17 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -17831,7 +17831,7 @@
 				)
 			)
 		)
-		(property "LINK" "https://es.farnell.com/bourns/chp1206afx-4701elf/res-aec-q200-4-7k-1-0-75w-1206/dp/3464680"
+		(property "LINK" "https://es.farnell.com/vishay/rcs12064k70jnea/resistor-rcs1206-200-4k7-et1-e3/dp/3235297"
 			(at 217.17 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -17842,7 +17842,7 @@
 				)
 			)
 		)
-		(property "CODE FARNELL" "3464680"
+		(property "CODE FARNELL" "3235297"
 			(at 217.17 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -18930,7 +18930,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -20113,7 +20113,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
