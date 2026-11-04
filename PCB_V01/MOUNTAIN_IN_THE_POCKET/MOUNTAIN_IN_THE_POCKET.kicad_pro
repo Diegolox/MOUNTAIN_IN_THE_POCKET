@@ -554,7 +554,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "..\\BOOM.csv",
+    "bom_export_filename": "..\\BOOM3.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": "\t",
@@ -675,7 +675,7 @@
           "group_by": false,
           "label": "LINK",
           "name": "LINK",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

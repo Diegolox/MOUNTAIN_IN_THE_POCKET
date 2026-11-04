@@ -12888,6 +12888,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "3518308"
+			(at 242.57 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eb40aa7c-9e58-408b-9854-a1472386b3be")
 		)
@@ -13500,6 +13511,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "1152857"
+			(at 295.91 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f31da824-ca06-48e7-918c-6edca9767b73")
 		)
@@ -13660,6 +13682,17 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 27.94 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4538674"
 			(at 27.94 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -13854,6 +13887,17 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 142.24 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4538674"
 			(at 142.24 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -14326,6 +14370,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "3464680"
+			(at 217.17 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7dc71d6e-6746-4eba-9480-f6cbcbab91a3")
 		)
@@ -14485,6 +14540,17 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 142.24 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4538674"
 			(at 142.24 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -15560,6 +15626,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "2057838"
+			(at 181.61 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5b503e74-055b-4c22-809e-b51a967484be")
 		)
@@ -16173,7 +16250,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -16212,7 +16289,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.farnell.com/datasheets/3759787.pdf"
 			(at 33.02 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -16234,7 +16311,7 @@
 				)
 			)
 		)
-		(property "LINK" ""
+		(property "LINK" "https://es.farnell.com/advanced-photonix/norps-12/light-dependent-resistor-1mohm/dp/327700"
 			(at 33.02 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -17043,7 +17120,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -17304,6 +17381,17 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 33.02 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4538674"
 			(at 33.02 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -17653,6 +17741,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "4538674"
+			(at 154.94 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b174f62-1a0b-432f-8dfc-b05e4164e58b")
 		)
@@ -17734,6 +17833,17 @@
 		)
 		(property "LINK" "https://es.farnell.com/bourns/chp1206afx-4701elf/res-aec-q200-4-7k-1-0-75w-1206/dp/3464680"
 			(at 217.17 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "3464680"
+			(at 217.17 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17981,6 +18091,17 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"
+			(at 81.28 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4538674"
 			(at 81.28 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -20603,6 +20724,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "4538683"
+			(at 323.85 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e4a0a4a8-b373-4733-8cd0-d4aa46e9220c")
 		)
@@ -20698,6 +20830,17 @@
 		)
 		(property "LINK" "https://es.farnell.com/lumex/sml-lx1206src-tr/led-red-2mm-x-1-6mm-25mcd-660nm/dp/7608287"
 			(at 142.24 224.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "7608287"
+			(at 142.24 224.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21061,6 +21204,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "4538674"
+			(at 328.93 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d36719f7-e83a-465c-b75e-8b4594a84945")
 		)
@@ -21165,6 +21319,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "1610882"
+			(at 167.64 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "84428aaa-c198-4096-942a-7c484cd879c7")
 		)
@@ -21260,6 +21425,17 @@
 		)
 		(property "LINK" "https://es.farnell.com/lumex/sml-lx1206src-tr/led-red-2mm-x-1-6mm-25mcd-660nm/dp/7608287"
 			(at 154.94 224.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "7608287"
+			(at 154.94 224.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21837,6 +22013,17 @@
 			)
 		)
 		(property "LINK" "https://es.farnell.com/bourns/crm1206-fx-1000elf/res-100r-1-0-5w-1206-thick-film/dp/4014415"
+			(at 148.59 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4014415"
 			(at 148.59 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -22995,6 +23182,17 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "3496236"
+			(at 167.64 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a70bd6ff-5068-413e-af8f-58a51583da7f")
 		)
@@ -23465,6 +23663,17 @@
 		)
 		(property "LINK" "https://es.farnell.com/lumex/sml-lx1206syc-tr/led-amarillo-2-mm-70mcd-590nm/dp/2062218"
 			(at 181.61 224.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "2062218"
+			(at 181.61 224.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
