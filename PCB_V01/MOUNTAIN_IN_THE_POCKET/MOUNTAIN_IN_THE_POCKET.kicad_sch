@@ -12478,6 +12478,8 @@
 		(property "CODE FARNELL" "4814135"
 			(at 349.25 105.41 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12798,6 +12800,8 @@
 		(property "CODE FARNELL" "2466421"
 			(at 210.82 109.22 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12992,6 +12996,8 @@
 		(property "CODE FARNELL" "2320922"
 			(at 328.93 38.1 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13318,6 +13324,8 @@
 		(property "CODE FARNELL" "1593417"
 			(at 148.59 30.48 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13756,6 +13764,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 224.79 114.3 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14103,6 +14113,8 @@
 		(property "CODE FARNELL" "4051103"
 			(at 95.25 106.68 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14210,6 +14222,8 @@
 		(property "CODE FARNELL" "3879705"
 			(at 43.18 204.47 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14563,20 +14577,11 @@
 				)
 			)
 		)
-		(property "Link" "https://es.farnell.com/multicomp-pro/1n4007-gs1g-m4/rectifier-400v-1a-do-214ac/dp/4439900"
-			(at 341.63 105.41 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "CODE FARNELL" "4439900"
 			(at 341.63 105.41 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15069,7 +15074,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15454,6 +15459,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 369.57 111.76 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15647,6 +15654,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 256.54 33.02 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15747,6 +15756,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 105.41 106.68 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16237,6 +16248,8 @@
 		(property "CODE FARNELL" "327700"
 			(at 33.02 231.14 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16509,6 +16522,8 @@
 		(property "CODE FARNELL" "3779167"
 			(at 391.16 219.71 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16560,7 +16575,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -16842,17 +16857,6 @@
 		)
 		(property "Description" "IFSC2020DEER4R7M01Copiado"
 			(at 267.97 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Link" "https://es.farnell.com/vishay/ifsc2020deer4r7m01/power-inductor-4-7uh-3a-semishield/dp/4350988"
-			(at 267.97 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17468,6 +17472,8 @@
 		(property "CODE FARNELL" "9845313"
 			(at 340.36 121.92 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17758,7 +17764,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -18158,6 +18164,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 304.8 161.29 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18260,6 +18268,8 @@
 		(property "CODE FARNELL" "5109712"
 			(at 276.86 38.1 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18500,6 +18510,8 @@
 		(property "CODE FARNELL" "3483073"
 			(at 354.33 33.02 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18684,6 +18696,8 @@
 		(property "CODE FARNELL" "4051103"
 			(at 41.91 106.68 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18868,6 +18882,8 @@
 		(property "CODE FARNELL" "1593417"
 			(at 62.23 34.29 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19194,6 +19210,8 @@
 		(property "CODE FARNELL" "1593417"
 			(at 81.28 54.61 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19455,7 +19473,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -19612,7 +19630,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -19764,6 +19782,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 52.07 106.68 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19943,6 +19963,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 27.94 147.32 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20019,17 +20041,6 @@
 			)
 		)
 		(property "Description" "1729128"
-			(at 21.59 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Link" "https://es.farnell.com/phoenix-contact/1729128/bloque-terminal-pcb-5-08-mm-2/dp/3041440"
 			(at 21.59 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -20470,6 +20481,8 @@
 		(property "CODE FARNELL" "3779167"
 			(at 358.14 219.71 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20869,6 +20882,8 @@
 		(property "CODE FARNELL" "1593417"
 			(at 41.91 54.61 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20896,7 +20911,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -21520,6 +21535,8 @@
 		(property "CODE FARNELL" "3779167"
 			(at 358.14 172.72 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21726,6 +21743,8 @@
 		(property "CODE FARNELL" "4936455"
 			(at 140.97 34.29 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22236,6 +22255,8 @@
 		(property "CODE FARNELL" "4328186"
 			(at 316.23 198.12 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22404,6 +22425,8 @@
 		(property "CODE FARNELL" "5109712"
 			(at 293.37 38.1 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22506,6 +22529,8 @@
 		(property "CODE FARNELL" "5109712"
 			(at 382.27 38.1 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22685,6 +22710,8 @@
 		(property "CODE FARNELL" "3517874"
 			(at 41.91 162.56 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22790,6 +22817,8 @@
 		(property "CODE FARNELL" "4130288"
 			(at 208.28 38.1 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23232,6 +23261,8 @@
 		(property "CODE FARNELL" "3779167"
 			(at 391.16 172.72 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23926,6 +23957,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 27.94 190.5 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24182,6 +24215,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 17.78 238.76 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24209,7 +24244,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -24425,6 +24460,8 @@
 		(property "CODE FARNELL" "2772069"
 			(at 151.13 53.34 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24534,6 +24571,8 @@
 		(property "CODE FARNELL" "499687"
 			(at 224.79 40.64 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
