@@ -1,0 +1,3100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\diego\Documents\Universidad\S9-MASTER\EMC\MOUNTAIN_IN_THE_POCKET\PCB_V01\MOUNTAIN_IN_THE_POCKET\MOUNTAIN_IN_THE_POCKET.kicad_sch</source>
+    <date>2026-11-04T11:55:05</date>
+    <tool>Eeschema 10.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MOUNTAIN_IN_THE_POCKET.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa32d991-b1c8-43f4-a95f-4e03fe7acd1c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a417134e-26c6-42c0-b3f3-54bdd2b11a8b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f20690b7-2d6f-4a08-90a5-849385516a29</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a004dce8-4887-4c6c-b50b-f26141e67b73</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c54b0ca-8fb9-478e-8e30-16adc11dc62e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C6">
+      <value>10uF 50V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4520416.pdf</datasheet>
+      <description>CGA6P3X7S1H106K250AB</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/tdk/cga6p3x7s1h106k250ab/conden-10-f-50v-10-x7s-1210/dp/2211159</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4520416.pdf</field>
+        <field name="Description">CGA6P3X7S1H106K250AB</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LINK" value="https://es.farnell.com/tdk/cga6p3x7s1h106k250ab/conden-10-f-50v-10-x7s-1210/dp/2211159"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e168f7df-780a-4659-9dc9-320baaa2c296</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff122fdc-59a0-444f-beb7-772f1fbf9987</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>262b03a0-e38a-46e8-b2da-4feed7c77c6d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>475f81d6-2e12-463f-b6d2-078d2b11b4ff</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C11">
+      <value>22uF 10V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4788294.pdf</datasheet>
+      <description>CL31B226MPHNNNE</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/semco/cl31b226mphnnne/cond-mlcc-22uf-10vdc-x7r-1206/dp/5109712</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4788294.pdf</field>
+        <field name="Description">CL31B226MPHNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LINK" value="https://es.farnell.com/semco/cl31b226mphnnne/cond-mlcc-22uf-10vdc-x7r-1206/dp/5109712"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8541d5c3-9e23-44a8-af3a-3edc4d6ac6f2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C12">
+      <value>22uF 10V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4788294.pdf</datasheet>
+      <description>CL31B226MPHNNNE</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/semco/cl31b226mphnnne/cond-mlcc-22uf-10vdc-x7r-1206/dp/5109712</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4788294.pdf</field>
+        <field name="Description">CL31B226MPHNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LINK" value="https://es.farnell.com/semco/cl31b226mphnnne/cond-mlcc-22uf-10vdc-x7r-1206/dp/5109712"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8348d25-6196-4800-80d2-714cddd61236</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C13">
+      <value>10 uF 16V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/2860632.pdf</datasheet>
+      <description>MC1206X106K160CT</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mc1206x106k160ct/conden-10-f-16v-10-x5r-1206/dp/2320922 </field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/2860632.pdf</field>
+        <field name="Description">MC1206X106K160CT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mc1206x106k160ct/conden-10-f-16v-10-x5r-1206/dp/2320922 "/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>115f43e7-934a-4061-bf07-af3068159eff</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>781f6b80-9286-47c0-8273-0e3fb0aa1177</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C15">
+      <value>22uF 10V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4788294.pdf</datasheet>
+      <description>CL31B226MPHNNNE</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/semco/cl31b226mphnnne/cond-mlcc-22uf-10vdc-x7r-1206/dp/5109712</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4788294.pdf</field>
+        <field name="Description">CL31B226MPHNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LINK" value="https://es.farnell.com/semco/cl31b226mphnnne/cond-mlcc-22uf-10vdc-x7r-1206/dp/5109712"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9f7cc3d-1bfe-4893-974e-e1d26dddf891</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF 50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>08055C104KAT2A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">08055C104KAT2A</field>
+      </fields>
+      <libsource lib="" part="C_Small_1" description="Unpolarized capacitor, small symbol"/>
+      <property name="LINK" value="https://es.farnell.com/kyocera-avx/08055c104kat2a/conden-0-1uf-10-50v-x7r-0805/dp/2280990"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4428e7b3-9d57-4295-a0b9-fcc47b2d79f6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CX17">
+      <value>C</value>
+      <footprint>Capacitor_THT:C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>172f557c-895d-437b-9845-93c00ff66e98</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CX18">
+      <value>C</value>
+      <footprint>Capacitor_THT:C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c94545ab-1502-40c7-986b-8c1d439a9768</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D1">
+      <value>RED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/269320.pdf?_gl=1*1b68cze*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>SML-LX1206SRC-TR.</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LINK">https://es.farnell.com/lumex/sml-lx1206src-tr/led-red-2mm-x-1-6mm-25mcd-660nm/dp/7608287</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/269320.pdf?_gl=1*1b68cze*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">SML-LX1206SRC-TR.</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LINK" value="https://es.farnell.com/lumex/sml-lx1206src-tr/led-red-2mm-x-1-6mm-25mcd-660nm/dp/7608287"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0429508-a6d2-4cc6-a77b-6c74559ddb33</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D2">
+      <value>GREEN</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/217574.pdf?_gl=1*ps5wy5*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>SML-LXL1206GC-TR</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LINK">https://es.farnell.com/lumex/sml-lxl1206gc-tr/led-green-1-1mm-20mcd-565nm/dp/1610882</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/217574.pdf?_gl=1*ps5wy5*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">SML-LXL1206GC-TR</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LINK" value="https://es.farnell.com/lumex/sml-lxl1206gc-tr/led-green-1-1mm-20mcd-565nm/dp/1610882"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0a41325-0931-4ef6-8eff-d7ac2163ffbd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D3">
+      <value>YELLOW</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/181188.pdf?_gl=1*1i2ni1s*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>SML-LX1206SYC-TR</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LINK">https://es.farnell.com/lumex/sml-lx1206syc-tr/led-amarillo-2-mm-70mcd-590nm/dp/2062218</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/181188.pdf?_gl=1*1i2ni1s*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">SML-LX1206SYC-TR</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LINK" value="https://es.farnell.com/lumex/sml-lx1206syc-tr/led-amarillo-2-mm-70mcd-590nm/dp/2062218"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4cc8c4f-8f9e-42cd-a41f-f15790f98e77</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMA_Handsoldering</footprint>
+      <description>1N4007"GS1G/M4</description>
+      <fields>
+        <field name="Link">https://es.farnell.com/multicomp-pro/1n4007-gs1g-m4/rectifier-400v-1a-do-214ac/dp/4439900</field>
+        <field name="Footprint">Diode_SMD:D_SMA_Handsoldering</field>
+        <field name="Datasheet"/>
+        <field name="Description">1N4007"GS1G/M4</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Link" value="https://es.farnell.com/multicomp-pro/1n4007-gs1g-m4/rectifier-400v-1a-do-214ac/dp/4439900"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f4c26d7-c99e-49d2-a4a5-b6cdea51b22d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D5">
+      <value>14.2mm_157142S12703</value>
+      <footprint>Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</footprint>
+      <datasheet>https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</datasheet>
+      <description>7 Segments Display Single Digit</description>
+      <fields>
+        <field name="Manufacturer">Wurth Elektronik</field>
+        <field name="Manufacturer URL">https://www.we-online.com</field>
+        <field name="Created Date">20260323</field>
+        <field name="Series">WL-T7DS</field>
+        <field name="Part Number">157142S12703</field>
+        <field name="Size">14.2mm</field>
+        <field name="Mounting Technology">THT</field>
+        <field name="Emitting Color">Super Red</field>
+        <field name="IV typ.(mcd)">38 mcd</field>
+        <field name="VF typ.(V)">2 V</field>
+        <field name="L(mm)">19 mm</field>
+        <field name="W(mm)">12.6 mm</field>
+        <field name="H(mm)">8 mm</field>
+        <field name="Circuitry">Common Cathode</field>
+        <field name="LINK">https://es.farnell.com/wurth-elektronik/157142s12703/pantalla-7seg-c-todo-com-n-s-per/dp/3779167?utm_source=chatgpt.com</field>
+        <field name="Footprint">Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</field>
+        <field name="Datasheet">https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</field>
+        <field name="Description">7 Segments Display Single Digit</field>
+      </fields>
+      <libsource lib="Display7Segment_Wurth_WL-T7DS" part="14.2mm_157142S12703" description="7 Segments Display Single Digit"/>
+      <property name="Manufacturer" value="Wurth Elektronik"/>
+      <property name="Manufacturer URL" value="https://www.we-online.com"/>
+      <property name="Created Date" value="20260323"/>
+      <property name="Series" value="WL-T7DS"/>
+      <property name="Part Number" value="157142S12703"/>
+      <property name="Size" value="14.2mm"/>
+      <property name="Mounting Technology" value="THT"/>
+      <property name="Emitting Color" value="Super Red"/>
+      <property name="IV typ.(mcd)" value="38 mcd"/>
+      <property name="VF typ.(V)" value="2 V"/>
+      <property name="L(mm)" value="19 mm"/>
+      <property name="W(mm)" value="12.6 mm"/>
+      <property name="H(mm)" value="8 mm"/>
+      <property name="Circuitry" value="Common Cathode"/>
+      <property name="LINK" value="https://es.farnell.com/wurth-elektronik/157142s12703/pantalla-7seg-c-todo-com-n-s-per/dp/3779167?utm_source=chatgpt.com"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="THT"/>
+      <property name="ki_fp_filters" value="*WL-T7DS*14.2mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c34bd017-7407-49bb-9bd3-a4221a8c451e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="7"/>
+            <pin num="6"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="8"/>
+            <pin num="1"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D6">
+      <value>14.2mm_157142S12703</value>
+      <footprint>Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</footprint>
+      <datasheet>https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</datasheet>
+      <description>7 Segments Display Single Digit</description>
+      <fields>
+        <field name="Manufacturer">Wurth Elektronik</field>
+        <field name="Manufacturer URL">https://www.we-online.com</field>
+        <field name="Created Date">20260323</field>
+        <field name="Series">WL-T7DS</field>
+        <field name="Part Number">157142S12703</field>
+        <field name="Size">14.2mm</field>
+        <field name="Mounting Technology">THT</field>
+        <field name="Emitting Color">Super Red</field>
+        <field name="IV typ.(mcd)">38 mcd</field>
+        <field name="VF typ.(V)">2 V</field>
+        <field name="L(mm)">19 mm</field>
+        <field name="W(mm)">12.6 mm</field>
+        <field name="H(mm)">8 mm</field>
+        <field name="Circuitry">Common Cathode</field>
+        <field name="LINK">https://es.farnell.com/wurth-elektronik/157142s12703/pantalla-7seg-c-todo-com-n-s-per/dp/3779167?utm_source=chatgpt.com</field>
+        <field name="Footprint">Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</field>
+        <field name="Datasheet">https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</field>
+        <field name="Description">7 Segments Display Single Digit</field>
+      </fields>
+      <libsource lib="Display7Segment_Wurth_WL-T7DS" part="14.2mm_157142S12703" description="7 Segments Display Single Digit"/>
+      <property name="Manufacturer" value="Wurth Elektronik"/>
+      <property name="Manufacturer URL" value="https://www.we-online.com"/>
+      <property name="Created Date" value="20260323"/>
+      <property name="Series" value="WL-T7DS"/>
+      <property name="Part Number" value="157142S12703"/>
+      <property name="Size" value="14.2mm"/>
+      <property name="Mounting Technology" value="THT"/>
+      <property name="Emitting Color" value="Super Red"/>
+      <property name="IV typ.(mcd)" value="38 mcd"/>
+      <property name="VF typ.(V)" value="2 V"/>
+      <property name="L(mm)" value="19 mm"/>
+      <property name="W(mm)" value="12.6 mm"/>
+      <property name="H(mm)" value="8 mm"/>
+      <property name="Circuitry" value="Common Cathode"/>
+      <property name="LINK" value="https://es.farnell.com/wurth-elektronik/157142s12703/pantalla-7seg-c-todo-com-n-s-per/dp/3779167?utm_source=chatgpt.com"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="THT"/>
+      <property name="ki_fp_filters" value="*WL-T7DS*14.2mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aaaf37b5-65b3-447c-821c-2c3ba6f6724a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="7"/>
+            <pin num="6"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="8"/>
+            <pin num="1"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D7">
+      <value>14.2mm_157142S12703</value>
+      <footprint>Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</footprint>
+      <datasheet>https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</datasheet>
+      <description>7 Segments Display Single Digit</description>
+      <fields>
+        <field name="Manufacturer">Wurth Elektronik</field>
+        <field name="Manufacturer URL">https://www.we-online.com</field>
+        <field name="Created Date">20260323</field>
+        <field name="Series">WL-T7DS</field>
+        <field name="Part Number">157142S12703</field>
+        <field name="Size">14.2mm</field>
+        <field name="Mounting Technology">THT</field>
+        <field name="Emitting Color">Super Red</field>
+        <field name="IV typ.(mcd)">38 mcd</field>
+        <field name="VF typ.(V)">2 V</field>
+        <field name="L(mm)">19 mm</field>
+        <field name="W(mm)">12.6 mm</field>
+        <field name="H(mm)">8 mm</field>
+        <field name="Circuitry">Common Cathode</field>
+        <field name="LINK">https://es.farnell.com/wurth-elektronik/157142s12703/pantalla-7seg-c-todo-com-n-s-per/dp/3779167?utm_source=chatgpt.com</field>
+        <field name="Footprint">Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</field>
+        <field name="Datasheet">https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</field>
+        <field name="Description">7 Segments Display Single Digit</field>
+      </fields>
+      <libsource lib="Display7Segment_Wurth_WL-T7DS" part="14.2mm_157142S12703" description="7 Segments Display Single Digit"/>
+      <property name="Manufacturer" value="Wurth Elektronik"/>
+      <property name="Manufacturer URL" value="https://www.we-online.com"/>
+      <property name="Created Date" value="20260323"/>
+      <property name="Series" value="WL-T7DS"/>
+      <property name="Part Number" value="157142S12703"/>
+      <property name="Size" value="14.2mm"/>
+      <property name="Mounting Technology" value="THT"/>
+      <property name="Emitting Color" value="Super Red"/>
+      <property name="IV typ.(mcd)" value="38 mcd"/>
+      <property name="VF typ.(V)" value="2 V"/>
+      <property name="L(mm)" value="19 mm"/>
+      <property name="W(mm)" value="12.6 mm"/>
+      <property name="H(mm)" value="8 mm"/>
+      <property name="Circuitry" value="Common Cathode"/>
+      <property name="LINK" value="https://es.farnell.com/wurth-elektronik/157142s12703/pantalla-7seg-c-todo-com-n-s-per/dp/3779167?utm_source=chatgpt.com"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="THT"/>
+      <property name="ki_fp_filters" value="*WL-T7DS*14.2mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e49effda-a2ce-4578-95a0-d91aff98b9dc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="7"/>
+            <pin num="6"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="8"/>
+            <pin num="1"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D8">
+      <value>14.2mm_157142S12703</value>
+      <footprint>Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</footprint>
+      <datasheet>https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</datasheet>
+      <description>7 Segments Display Single Digit</description>
+      <fields>
+        <field name="Manufacturer">Wurth Elektronik</field>
+        <field name="Manufacturer URL">https://www.we-online.com</field>
+        <field name="Created Date">20260323</field>
+        <field name="Series">WL-T7DS</field>
+        <field name="Part Number">157142S12703</field>
+        <field name="Size">14.2mm</field>
+        <field name="Mounting Technology">THT</field>
+        <field name="Emitting Color">Super Red</field>
+        <field name="IV typ.(mcd)">38 mcd</field>
+        <field name="VF typ.(V)">2 V</field>
+        <field name="L(mm)">19 mm</field>
+        <field name="W(mm)">12.6 mm</field>
+        <field name="H(mm)">8 mm</field>
+        <field name="Circuitry">Common Cathode</field>
+        <field name="LINK">https://es.farnell.com/wurth-elektronik/157142s12703/pantalla-7seg-c-todo-com-n-s-per/dp/3779167?utm_source=chatgpt.com</field>
+        <field name="Footprint">Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</field>
+        <field name="Datasheet">https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</field>
+        <field name="Description">7 Segments Display Single Digit</field>
+      </fields>
+      <libsource lib="Display7Segment_Wurth_WL-T7DS" part="14.2mm_157142S12703" description="7 Segments Display Single Digit"/>
+      <property name="Manufacturer" value="Wurth Elektronik"/>
+      <property name="Manufacturer URL" value="https://www.we-online.com"/>
+      <property name="Created Date" value="20260323"/>
+      <property name="Series" value="WL-T7DS"/>
+      <property name="Part Number" value="157142S12703"/>
+      <property name="Size" value="14.2mm"/>
+      <property name="Mounting Technology" value="THT"/>
+      <property name="Emitting Color" value="Super Red"/>
+      <property name="IV typ.(mcd)" value="38 mcd"/>
+      <property name="VF typ.(V)" value="2 V"/>
+      <property name="L(mm)" value="19 mm"/>
+      <property name="W(mm)" value="12.6 mm"/>
+      <property name="H(mm)" value="8 mm"/>
+      <property name="Circuitry" value="Common Cathode"/>
+      <property name="LINK" value="https://es.farnell.com/wurth-elektronik/157142s12703/pantalla-7seg-c-todo-com-n-s-per/dp/3779167?utm_source=chatgpt.com"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="THT"/>
+      <property name="ki_fp_filters" value="*WL-T7DS*14.2mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58f15974-beb2-4929-8334-fa6090eee9b8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="7"/>
+            <pin num="6"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="8"/>
+            <pin num="1"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D9">
+      <value>RED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/269320.pdf?_gl=1*1b68cze*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>SML-LX1206SRC-TR.</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="LINK">https://es.farnell.com/lumex/sml-lx1206src-tr/led-red-2mm-x-1-6mm-25mcd-660nm/dp/7608287</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/269320.pdf?_gl=1*1b68cze*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">SML-LX1206SRC-TR.</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LINK" value="https://es.farnell.com/lumex/sml-lx1206src-tr/led-red-2mm-x-1-6mm-25mcd-660nm/dp/7608287"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c20839f9-9a33-43f2-bd34-0c07371657fb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="IC1">
+      <value>AZ1117CH-3.3TRG1</value>
+      <footprint>SOT230P700X180-4N</footprint>
+      <datasheet>https://www.diodes.com//assets/Datasheets/AZ1117C.pdf</datasheet>
+      <description>1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223</description>
+      <fields>
+        <field name="Height">1.8</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">AZ1117CH-3.3TRG1</field>
+        <field name="LINK">https://es.farnell.com/diodes-inc/az1117ch-3-3trg1/ldo-fijo-3-3v-0-8a-20-a-125-c/dp/3483073RL</field>
+        <field name="Footprint">SOT230P700X180-4N</field>
+        <field name="Datasheet">https://www.diodes.com//assets/Datasheets/AZ1117C.pdf</field>
+        <field name="Description">1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223</field>
+      </fields>
+      <libsource lib="AZ1117CH-3_3TRG1" part="AZ1117CH-3.3TRG1" description="1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223"/>
+      <property name="Height" value="1.8"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Diodes Incorporated"/>
+      <property name="Manufacturer_Part_Number" value="AZ1117CH-3.3TRG1"/>
+      <property name="LINK" value="https://es.farnell.com/diodes-inc/az1117ch-3-3trg1/ldo-fijo-3-3v-0-8a-20-a-125-c/dp/3483073RL"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>869d62e2-8552-4171-8512-4fc71bef99bf</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="1"/>
+            <pin num="4"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>CON_ALIM</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <description>1729128</description>
+      <fields>
+        <field name="Link">https://es.farnell.com/phoenix-contact/1729128/bloque-terminal-pcb-5-08-mm-2/dp/3041440</field>
+        <field name="Footprint">TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">1729128</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Link" value="https://es.farnell.com/phoenix-contact/1729128/bloque-terminal-pcb-5-08-mm-2/dp/3041440"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4db38c2-64ea-467d-bd42-bcf04128a9df</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="JP2">
+      <value>Jumper_2_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</footprint>
+      <description>2211S-10G (2 de 10)</description>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">2211S-10G (2 de 10)</field>
+      </fields>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <property name="ki_fp_filters" value="Jumper* TestPoint*2Pads* TestPoint*Bridge*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18ff3257-659b-4db8-be4a-2b30a5196767</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="JP3">
+      <value>Jumper_2_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</footprint>
+      <description>2211S-10G (2 de 10)</description>
+      <fields>
+        <field name="Field5"/>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">2211S-10G (2 de 10)</field>
+      </fields>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Field5" value=""/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <property name="ki_fp_filters" value="Jumper* TestPoint*2Pads* TestPoint*Bridge*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90c901ab-a4b7-475e-90c9-c01fc5e39794</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="JP4">
+      <value>Jumper_2_Small_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</footprint>
+      <description>2211S-10G (2 de 10)</description>
+      <fields>
+        <field name="Field5">https://docs.google.com/spreadsheets/d/1Jilk-2uy84cCa943Y-6oGJJ_ga2VcrH4w3b-y--204Y/edit?gid=0#gid=0</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">2211S-10G (2 de 10)</field>
+      </fields>
+      <libsource lib="Jumper" part="Jumper_2_Small_Open" description="Jumper, 2-pole, small symbol, open"/>
+      <property name="Field5" value="https://docs.google.com/spreadsheets/d/1Jilk-2uy84cCa943Y-6oGJJ_ga2VcrH4w3b-y--204Y/edit?gid=0#gid=0"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <property name="ki_fp_filters" value="Jumper* TestPoint*2Pads* TestPoint*Bridge*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6280bb3-c21e-4de8-bb67-d0fa1f6eef50</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="JP5">
+      <value>Jumper_2_Small_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</footprint>
+      <description>2211S-10G (2 de 10)</description>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">2211S-10G (2 de 10)</field>
+      </fields>
+      <libsource lib="Jumper" part="Jumper_2_Small_Open" description="Jumper, 2-pole, small symbol, open"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <property name="ki_fp_filters" value="Jumper* TestPoint*2Pads* TestPoint*Bridge*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9259f67a-012c-422f-85b5-20e26eb597c5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L1">
+      <value>4.7uH 20%</value>
+      <footprint>AS1115-BSST:IFSC2020DEER4R7M01</footprint>
+      <description>IFSC2020DEER4R7M01Copiado</description>
+      <fields>
+        <field name="Link">https://es.farnell.com/vishay/ifsc2020deer4r7m01/power-inductor-4-7uh-3a-semishield/dp/4350988</field>
+        <field name="Footprint">AS1115-BSST:IFSC2020DEER4R7M01</field>
+        <field name="Datasheet"/>
+        <field name="Description">IFSC2020DEER4R7M01Copiado</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Link" value="https://es.farnell.com/vishay/ifsc2020deer4r7m01/power-inductor-4-7uh-3a-semishield/dp/4350988"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6902a488-9f04-44a0-8196-0a17d136866e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L2">
+      <value>L_Ferrite_Coupled_1243</value>
+      <footprint>Inductor_THT:Choke_EPCOS_B82722A</footprint>
+      <description>Coupled inductor with ferrite core</description>
+      <fields>
+        <field name="Footprint">Inductor_THT:Choke_EPCOS_B82722A</field>
+        <field name="Datasheet"/>
+        <field name="Description">Coupled inductor with ferrite core</field>
+      </fields>
+      <libsource lib="Device" part="L_Ferrite_Coupled_1243" description="Coupled inductor with ferrite core"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic coupled"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a84f4b0c-1156-4f1b-b014-6a8108a2b2f7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="LS1">
+      <value>CEM-1205-IC</value>
+      <footprint>CEM1205IC</footprint>
+      <datasheet>https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf</datasheet>
+      <description>12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer</description>
+      <fields>
+        <field name="Height">10</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">Same Sky</field>
+        <field name="Manufacturer_Part_Number">CEM-1205-IC</field>
+        <field name="LINK">https://es.farnell.com/same-sky/cem-1205-ic/transudct-zumb-mag-92dba-3-6v/dp/4814135#anchorTechnicalDOCS</field>
+        <field name="Footprint">CEM1205IC</field>
+        <field name="Datasheet">https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf</field>
+        <field name="Description">12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer</field>
+      </fields>
+      <libsource lib="CEM-1205-IC" part="CEM-1205-IC" description="12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer"/>
+      <property name="Height" value="10"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Same Sky"/>
+      <property name="Manufacturer_Part_Number" value="CEM-1205-IC"/>
+      <property name="LINK" value="https://es.farnell.com/same-sky/cem-1205-ic/transudct-zumb-mag-92dba-3-6v/dp/4814135#anchorTechnicalDOCS"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03a2a25f-d3e1-488e-a5ac-682a06a4e04a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q1">
+      <value>~</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23_HandSoldering</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4773516.pdf?_gl=1*orgvz8*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MMFTP3160</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/diotec/mmftp3160/mosfet-canal-p-30v-2a-sot-23/dp/4936455</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23_HandSoldering</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4773516.pdf?_gl=1*orgvz8*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MMFTP3160</field>
+      </fields>
+      <libsource lib="COMPONENTES_SCH" part="MMFTP3160" description="MMFTP3160"/>
+      <property name="LINK" value="https://es.farnell.com/diotec/mmftp3160/mosfet-canal-p-30v-2a-sot-23/dp/4936455"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca169a08-e048-482f-ad63-8cff2416ec5f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23_Handsoldering</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <description>Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability.</description>
+      <fields>
+        <field name="Height">1.2</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">2N7002</field>
+        <field name="LINK">https://es.farnell.com/onsemi/2n7002/mosfet-n-ch-60v-115ma-to-263ab/dp/2323152</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23_Handsoldering</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</field>
+        <field name="Description">Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability.</field>
+      </fields>
+      <libsource lib="2N7002" part="2N7002" description="Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability."/>
+      <property name="Height" value="1.2"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="2N7002"/>
+      <property name="LINK" value="https://es.farnell.com/onsemi/2n7002/mosfet-n-ch-60v-115ma-to-263ab/dp/2323152"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70a8069f-4b4d-4c8a-b070-d19d757508a8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MCPWR06FTEQ1002A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MCPWR06FTEQ1002A</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>230f0afa-a93d-4497-9cef-419551290cbf</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>NORPS-12</value>
+      <footprint>OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical</footprint>
+      <description>Photoresistor</description>
+      <fields>
+        <field name="LINK"/>
+        <field name="Footprint">OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Photoresistor</field>
+      </fields>
+      <libsource lib="Device" part="R_Photo" description="Photoresistor"/>
+      <property name="LINK" value=""/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="resistor variable light sensitive opto LDR"/>
+      <property name="ki_fp_filters" value="*LDR* R?LDR*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>550a02be-b78f-475d-9e61-3cba181474f2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MCPWR06FTEQ1002A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MCPWR06FTEQ1002A</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7499936b-2a9f-4f7e-a382-1ef27cc8b8e6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MCPWR06FTEQ1002A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MCPWR06FTEQ1002A</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ede1b99-ec77-40e6-863d-c6394ca68644</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R5">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://4donline.ihs.com/images/VipMasterIC/IC/BOUR/BOUR-S-A0013945159/BOUR-S-A0013955106-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0</datasheet>
+      <description>CRM1206-FX-1000ELF.</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/bourns/crm1206-fx-1000elf/res-100r-1-0-5w-1206-thick-film/dp/4014415</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://4donline.ihs.com/images/VipMasterIC/IC/BOUR/BOUR-S-A0013945159/BOUR-S-A0013955106-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0</field>
+        <field name="Description">CRM1206-FX-1000ELF.</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/bourns/crm1206-fx-1000elf/res-100r-1-0-5w-1206-thick-film/dp/4014415"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0526a1f-e183-4670-8abb-33c236f25471</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MCPWR06FTEQ1002A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MCPWR06FTEQ1002A</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2865e199-4859-47fa-ad4d-7afb7a16f2ae</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R7">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://yageogroup.com/component-documentation/download/specsheet/RC1206FR-073KL</datasheet>
+      <description>RC1206FR-073KL</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/yageo/rc1206fr-073kl/resis-3k-1-0-25w-1206-pel-c-gruesa/dp/3496236</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://yageogroup.com/component-documentation/download/specsheet/RC1206FR-073KL</field>
+        <field name="Description">RC1206FR-073KL</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/yageo/rc1206fr-073kl/resis-3k-1-0-25w-1206-pel-c-gruesa/dp/3496236"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2e548e7-929a-48df-94f0-29775514a125</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R8">
+      <value>1K3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf</datasheet>
+      <description>ERJ8GEYJ132V</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/panasonic/erj8geyj132v/res-1k3-5-0-25w-1206-pel-c-gruesa/dp/2057838</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf</field>
+        <field name="Description">ERJ8GEYJ132V</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/panasonic/erj8geyj132v/res-1k3-5-0-25w-1206-pel-c-gruesa/dp/2057838"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4670dac6-2fca-409b-8ecd-1cba30821042</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R9">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3928835.pdf</datasheet>
+      <description>CHP1206AFX-4701ELF.</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/bourns/chp1206afx-4701elf/res-aec-q200-4-7k-1-0-75w-1206/dp/3464680</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3928835.pdf</field>
+        <field name="Description">CHP1206AFX-4701ELF.</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/bourns/chp1206afx-4701elf/res-aec-q200-4-7k-1-0-75w-1206/dp/3464680"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72b98d87-7ddf-4c55-abdb-6faff4d10ff9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R10">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3928835.pdf</datasheet>
+      <description>CHP1206AFX-4701ELF.</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/bourns/chp1206afx-4701elf/res-aec-q200-4-7k-1-0-75w-1206/dp/3464680</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3928835.pdf</field>
+        <field name="Description">CHP1206AFX-4701ELF.</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/bourns/chp1206afx-4701elf/res-aec-q200-4-7k-1-0-75w-1206/dp/3464680"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cd47ec1-bb3a-475f-9ade-685c879e205e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R11">
+      <value>27k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/2111203.pdf?_gl=1*7u43ju*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>CRCW120625K5FKEA</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/vishay/crcw120625k5fkea/res-thick-film-25k5-1-0-25w-1206/dp/1152857</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/2111203.pdf?_gl=1*7u43ju*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">CRCW120625K5FKEA</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/vishay/crcw120625k5fkea/res-thick-film-25k5-1-0-25w-1206/dp/1152857"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>211f21dd-b0ed-4973-b5dc-8f174290f4f6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R12">
+      <value>220R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4409000.pdf?_gl=1*104oijb*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MCPWR06FTEQ2200A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mcpwr06fteq2200a/res-220r-1-thick-film-1206/dp/4538683</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4409000.pdf?_gl=1*104oijb*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MCPWR06FTEQ2200A</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mcpwr06fteq2200a/res-220r-1-thick-film-1206/dp/4538683"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afddbad3-71b7-480a-896a-c35376fb20cd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MCPWR06FTEQ1002A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MCPWR06FTEQ1002A</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd450827-d29b-4303-99e2-16491beddd1e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MCPWR06FTEQ1002A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MCPWR06FTEQ1002A</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72356e69-f2fc-475a-b4e4-b5002677c09a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R15">
+      <value>~</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</datasheet>
+      <description>MCPWR06FTEQ1002A</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MCPWR06FTEQ1002A</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LINK" value="https://es.farnell.com/multicomp-pro/mcpwr06fteq1002a/res-10k-1-thick-film-1206/dp/4538674"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f2aec62-ce14-4910-99f0-c53f544641ef</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="S1">
+      <value>SEN0137</value>
+      <footprint>LIB_HUELLAS_MITP:CONECTOR_0137</footprint>
+      <description>Sensor de temperatura y humedad</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/dfrobot/sen0137/kit-desarr-sensor-humedadtemp/dp/3517874</field>
+        <field name="Footprint">LIB_HUELLAS_MITP:CONECTOR_0137</field>
+        <field name="Datasheet"/>
+        <field name="Description">Sensor de temperatura y humedad</field>
+      </fields>
+      <libsource lib="COMPONENTES_SCH" part="SEN0137" description="Sensor de temperatura y humedad"/>
+      <property name="LINK" value="https://es.farnell.com/dfrobot/sen0137/kit-desarr-sensor-humedadtemp/dp/3517874"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db0f561f-1a31-40c8-bb7a-da01ea4cc3d1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="0"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="S2">
+      <value>SEN0251</value>
+      <footprint>LIB_HUELLAS_MITP:CONECTOR_0251</footprint>
+      <datasheet>https://wiki.dfrobot.com/sen0251/#tech_specs</datasheet>
+      <description>Barómetro</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/dfrobot/sen0251/barometric-pressure-sensors-module/dp/3879705</field>
+        <field name="Footprint">LIB_HUELLAS_MITP:CONECTOR_0251</field>
+        <field name="Datasheet">https://wiki.dfrobot.com/sen0251/#tech_specs</field>
+        <field name="Description">Barómetro</field>
+      </fields>
+      <libsource lib="COMPONENTES_SCH" part="SEN0251" description="Barómetro"/>
+      <property name="LINK" value="https://es.farnell.com/dfrobot/sen0251/barometric-pressure-sensors-module/dp/3879705"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cc2a62e-e8a1-44a7-924f-67a56d1290c0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="0"/>
+            <pin num="3"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="S3">
+      <value>1825232-1</value>
+      <footprint>18252321</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1825232&amp;DocType=Customer%20Drawing&amp;DocLang=English&amp;DocFormat=pdf&amp;PartCntxt=1825232-1</datasheet>
+      <description>Body Features: Actuator Travel .079 INCH | Actuator Orientation Side | Actuator Material Nylon | Actuator Travel 2 MM | Actuator Color Black | Actuator Profile Extended | Product Orientation Right Angle | Configuration Features: Configuration (Pole-Throw) Single Pole - Double Throw | Operating Function On None On | Number of Actuators Single | Number of Positions 2 | Contact Features: Switch Contact Plating Material Silver | Contact Current Rating .2 AMP | Contact Base Material Copper Alloy | Dimensions: Pr</description>
+      <fields>
+        <field name="Height">3.7</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">1825232-1</field>
+        <field name="LINK">https://es.farnell.com/te-connectivity/1825232-1/slide-switch-spdt-0-2a-30vdc-solder/dp/2772069</field>
+        <field name="Footprint">18252321</field>
+        <field name="Datasheet">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1825232&amp;DocType=Customer%20Drawing&amp;DocLang=English&amp;DocFormat=pdf&amp;PartCntxt=1825232-1</field>
+        <field name="Description">Body Features: Actuator Travel .079 INCH | Actuator Orientation Side | Actuator Material Nylon | Actuator Travel 2 MM | Actuator Color Black | Actuator Profile Extended | Product Orientation Right Angle | Configuration Features: Configuration (Pole-Throw) Single Pole - Double Throw | Operating Function On None On | Number of Actuators Single | Number of Positions 2 | Contact Features: Switch Contact Plating Material Silver | Contact Current Rating .2 AMP | Contact Base Material Copper Alloy | Dimensions: Pr</field>
+      </fields>
+      <libsource lib="1825232-1" part="1825232-1" description="Body Features: Actuator Travel .079 INCH | Actuator Orientation Side | Actuator Material Nylon | Actuator Travel 2 MM | Actuator Color Black | Actuator Profile Extended | Product Orientation Right Angle | Configuration Features: Configuration (Pole-Throw) Single Pole - Double Throw | Operating Function On None On | Number of Actuators Single | Number of Positions 2 | Contact Features: Switch Contact Plating Material Silver | Contact Current Rating .2 AMP | Contact Base Material Copper Alloy | Dimensions: Pr"/>
+      <property name="Height" value="3.7"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="1825232-1"/>
+      <property name="LINK" value="https://es.farnell.com/te-connectivity/1825232-1/slide-switch-spdt-0-2a-30vdc-solder/dp/2772069"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcc62a11-eddc-4ad4-93b7-bd94417ae652</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="MH1"/>
+            <pin num="MH2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_MEC_5E</value>
+      <footprint>TL3305AF160QG:TL3305AF160QG</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4386879.pdf</datasheet>
+      <description>TL3305AF160QG</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/e-switch/tl3305af160qg/int-t-ctil-0-05a-12vdc-160gf-smd/dp/4051103</field>
+        <field name="Footprint">TL3305AF160QG:TL3305AF160QG</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4386879.pdf</field>
+        <field name="Description">TL3305AF160QG</field>
+      </fields>
+      <libsource lib="Switch" part="SW_MEC_5E" description="MEC 5E single pole normally-open tactile switch"/>
+      <property name="LINK" value="https://es.farnell.com/e-switch/tl3305af160qg/int-t-ctil-0-05a-12vdc-160gf-smd/dp/4051103"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <property name="ki_fp_filters" value="SW*MEC*5G*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a974b80-7f00-4578-b8f9-8e68e6ed4745</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_MEC_5E</value>
+      <footprint>TL3305AF160QG:TL3305AF160QG</footprint>
+      <datasheet>https://www.farnell.com/datasheets/4386879.pdf</datasheet>
+      <description>TL3305AF160QG</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/e-switch/tl3305af160qg/int-t-ctil-0-05a-12vdc-160gf-smd/dp/4051103</field>
+        <field name="Footprint">TL3305AF160QG:TL3305AF160QG</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4386879.pdf</field>
+        <field name="Description">TL3305AF160QG</field>
+      </fields>
+      <libsource lib="Switch" part="SW_MEC_5E" description="MEC 5E single pole normally-open tactile switch"/>
+      <property name="LINK" value="https://es.farnell.com/e-switch/tl3305af160qg/int-t-ctil-0-05a-12vdc-160gf-smd/dp/4051103"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <property name="ki_fp_filters" value="SW*MEC*5G*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cbde946-a6aa-413c-8d4e-75ee78a85226</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP1">
+      <value>TEST_VBUS</value>
+      <footprint>TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc454ab2-7d81-4fdf-8f3b-bafc5010c488</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP2">
+      <value>TEST_VCC</value>
+      <footprint>TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb9ed822-9eb5-47b6-8417-d58a83099c22</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP3">
+      <value>TEST_5V</value>
+      <footprint>TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72ec1078-9940-4fd5-acc0-a90bbb105142</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP4">
+      <value>TEST_3V3</value>
+      <footprint>TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e9bc43d-6f4e-43c7-a255-01a0aaa8cbd0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP5">
+      <value>TEST_GND</value>
+      <footprint>TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>404cccdd-45bf-4a5e-9725-62d7af514c9f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP6">
+      <value>TEST_SDA</value>
+      <footprint>TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>980d235e-3c7f-48c9-932a-7ca726ff5e6c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP7">
+      <value>TEST_SCL</value>
+      <footprint>TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>590e2639-3d3a-4e27-9cdb-07d8c875724d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>AP63205WU</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23-6</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf</datasheet>
+      <description>2A, 1.1MHz Buck DC/DC Converter, fixed 5.0V output voltage, TSOT-23-6</description>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23-6</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf</field>
+        <field name="Description">2A, 1.1MHz Buck DC/DC Converter, fixed 5.0V output voltage, TSOT-23-6</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="AP63205WU" description="2A, 1.1MHz Buck DC/DC Converter, fixed 5.0V output voltage, TSOT-23-6"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="2A Buck DC/DC"/>
+      <property name="ki_fp_filters" value="TSOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c8ca26a-943d-4e70-a20f-b968765bab0b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U2">
+      <value>AS1115-BSST</value>
+      <footprint>Package_SO:QSOP-24_3.9x8.7mm_P0.635mm</footprint>
+      <datasheet>https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f</datasheet>
+      <description>64 LEDs, I2C Interfaced LED Driver with Keyscan, QSOP-24</description>
+      <fields>
+        <field name="LINK">https://es.farnell.com/ams-osram-group/as1115-bsst/display-driver-40-to-125deg-c/dp/4328186RL</field>
+        <field name="Footprint">Package_SO:QSOP-24_3.9x8.7mm_P0.635mm</field>
+        <field name="Datasheet">https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f</field>
+        <field name="Description">64 LEDs, I2C Interfaced LED Driver with Keyscan, QSOP-24</field>
+      </fields>
+      <libsource lib="Interface_Expansion" part="AS1115-BSST" description="64 LEDs, I2C Interfaced LED Driver with Keyscan, QSOP-24"/>
+      <property name="LINK" value="https://es.farnell.com/ams-osram-group/as1115-bsst/display-driver-40-to-125deg-c/dp/4328186RL"/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <property name="ki_keywords" value="led driver i2c"/>
+      <property name="ki_fp_filters" value="QSOP*3.9x8.7m*P0.635mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d805f43f-c79c-4bc3-80b4-0286ba841bd9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="13"/>
+            <pin num="14"/>
+            <pin num="1"/>
+            <pin num="24"/>
+            <pin num="19"/>
+            <pin num="6"/>
+            <pin num="15"/>
+            <pin num="17"/>
+            <pin num="20"/>
+            <pin num="23"/>
+            <pin num="21"/>
+            <pin num="16"/>
+            <pin num="18"/>
+            <pin num="22"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="UC1">
+      <value>~</value>
+      <footprint>ESP32_TOOLS_DIEGO:ESP32_WROOM32_SHIELD_V01</footprint>
+      <fields>
+        <field name="LINK"/>
+        <field name="Footprint">ESP32_TOOLS_DIEGO:ESP32_WROOM32_SHIELD_V01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ESP32_TOOLS_DIEGO" part="ESP32_WROOM32_SHIELD_V01" description=""/>
+      <property name="LINK" value=""/>
+      <property name="Sheetname" value="MOUNTAIN_IN_THE_POCKET"/>
+      <property name="Sheetfile" value="MOUNTAIN_IN_THE_POCKET.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dc0a58d-2fb2-4ad0-ad06-7442f4325d82</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="1"/>
+            <pin num="14"/>
+            <pin num="20"/>
+            <pin num="19"/>
+            <pin num="26"/>
+            <pin num="21"/>
+            <pin num="22"/>
+            <pin num="23"/>
+            <pin num="24"/>
+            <pin num="25"/>
+            <pin num="27"/>
+            <pin num="28"/>
+            <pin num="29"/>
+            <pin num="30"/>
+            <pin num="31"/>
+            <pin num="32"/>
+            <pin num="33"/>
+            <pin num="34"/>
+            <pin num="35"/>
+            <pin num="36"/>
+            <pin num="37"/>
+            <pin num="38"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="C_Small_1">
+      <description>Unpolarized capacitor, small symbol</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="1825232-1" part="1825232-1">
+      <description>Body Features: Actuator Travel .079 INCH | Actuator Orientation Side | Actuator Material Nylon | Actuator Travel 2 MM | Actuator Color Black | Actuator Profile Extended | Product Orientation Right Angle | Configuration Features: Configuration (Pole-Throw) Single Pole - Double Throw | Operating Function On None On | Number of Actuators Single | Number of Positions 2 | Contact Features: Switch Contact Plating Material Silver | Contact Current Rating .2 AMP | Contact Base Material Copper Alloy | Dimensions: Pr</description>
+      <docs>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1308111-1_SWITCHES_CORE_PROGRAM_CATALOG&amp;DocType=Catalog%20Section&amp;DocLang=English&amp;PartCntxt=1825232-1&amp;DocFormat=pdf</docs>
+      <fields>
+        <field name="Reference">S3</field>
+        <field name="Value">1825232-1</field>
+        <field name="Footprint">18252321</field>
+        <field name="Datasheet">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1308111-1_SWITCHES_CORE_PROGRAM_CATALOG&amp;DocType=Catalog%20Section&amp;DocLang=English&amp;PartCntxt=1825232-1&amp;DocFormat=pdf</field>
+        <field name="Description">Body Features: Actuator Travel .079 INCH | Actuator Orientation Side | Actuator Material Nylon | Actuator Travel 2 MM | Actuator Color Black | Actuator Profile Extended | Product Orientation Right Angle | Configuration Features: Configuration (Pole-Throw) Single Pole - Double Throw | Operating Function On None On | Number of Actuators Single | Number of Positions 2 | Contact Features: Switch Contact Plating Material Silver | Contact Current Rating .2 AMP | Contact Base Material Copper Alloy | Dimensions: Pr</field>
+        <field name="Height">3.7</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">1825232-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="2N7002" part="2N7002">
+      <description>Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability.</description>
+      <docs>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002</field>
+        <field name="Footprint">SOT96P240X120-3N</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</field>
+        <field name="Description">Voltage controlled small signal switch.; High density cell design for extremely low RDS(ON).; Rugged and Reliable.; High saturation current capability.</field>
+        <field name="Height">1.2</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">2N7002</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="865230343004" part="865230343004">
+      <description>WCAP-AS5H Aluminum Electrolytic Capacitors ASDD055470M016DVCTBE000; SMT V-Chip; 47 F +/- 20%; 16 V(DC); 5000 h; -40C / +105C; size DxL 6.3 x 5.5; Max. Iripple 50 mA @120 Hz; LC 7.52 A; DF 22 %</description>
+      <docs>https://www.we-online.com/components/products/datasheet/865230343004.pdf</docs>
+      <fields>
+        <field name="Reference">C9</field>
+        <field name="Value">865230343004</field>
+        <field name="Footprint">CAPAE660X570N</field>
+        <field name="Datasheet">https://www.we-online.com/components/products/datasheet/865230343004.pdf</field>
+        <field name="Description">WCAP-AS5H Aluminum Electrolytic Capacitors ASDD055470M016DVCTBE000; SMT V-Chip; 47 F +/- 20%; 16 V(DC); 5000 h; -40C / +105C; size DxL 6.3 x 5.5; Max. Iripple 50 mA @120 Hz; LC 7.52 A; DF 22 %</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">865230343004</field>
+        <field name="LINK">https://es.farnell.com/wurth-elektronik/865230343004/conden-47-f-16v-smd/dp/2466421</field>
+        <field name="Height">5.7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="AZ1117CH-3_3TRG1" part="AZ1117CH-3.3TRG1">
+      <description>1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223</description>
+      <docs>https://www.diodes.com//assets/Datasheets/AZ1117C.pdf</docs>
+      <fields>
+        <field name="Reference">IC1</field>
+        <field name="Value">AZ1117CH-3.3TRG1</field>
+        <field name="Footprint">SOT230P700X180-4N</field>
+        <field name="Datasheet">https://www.diodes.com//assets/Datasheets/AZ1117C.pdf</field>
+        <field name="Description">1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223</field>
+        <field name="Height">1.8</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">AZ1117CH-3.3TRG1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ/GND" type="passive"/>
+        <pin num="2" name="OUTPUT" type="passive"/>
+        <pin num="3" name="INPUT" type="passive"/>
+        <pin num="4" name="VOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CEM-1205-IC" part="CEM-1205-IC">
+      <description>12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer</description>
+      <docs>https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf</docs>
+      <fields>
+        <field name="Reference">LS1</field>
+        <field name="Value">CEM-1205-IC</field>
+        <field name="Footprint">CEM1205IC</field>
+        <field name="Datasheet">https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf</field>
+        <field name="Description">12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer</field>
+        <field name="Height">10</field>
+        <field name="Farnell Part Number"/>
+        <field name="Farnell Price/Stock"/>
+        <field name="Manufacturer_Name">Same Sky</field>
+        <field name="Manufacturer_Part_Number">CEM-1205-IC</field>
+        <field name="LINK">https://es.farnell.com/same-sky/cem-1205-ic/transudct-zumb-mag-92dba-3-6v/dp/4814135#anchorTechnicalDOCS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="COMPONENTES_SCH" part="MMFTP3160">
+      <description>MMFTP3160</description>
+      <docs>https://www.farnell.com/datasheets/4773516.pdf?_gl=1*orgvz8*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</docs>
+      <fields>
+        <field name="Reference">Q3</field>
+        <field name="Value"/>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23_HandSoldering</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/4773516.pdf?_gl=1*orgvz8*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz</field>
+        <field name="Description">MMFTP3160</field>
+        <field name="LINK">https://es.farnell.com/diotec/mmftp3160/mosfet-canal-p-30v-2a-sot-23/dp/4936455</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="COMPONENTES_SCH" part="SEN0137">
+      <description>Sensor de temperatura y humedad</description>
+      <fields>
+        <field name="Reference">S1</field>
+        <field name="Value">SEN0137</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Sensor de temperatura y humedad</field>
+        <field name="LINK">https://es.farnell.com/dfrobot/sen0137/kit-desarr-sensor-humedadtemp/dp/3517874</field>
+      </fields>
+      <pins>
+        <pin num="0" name="GND" type="input"/>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="DATA" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="COMPONENTES_SCH" part="SEN0251">
+      <description>Barómetro</description>
+      <docs>https://wiki.dfrobot.com/sen0251/#tech_specs</docs>
+      <fields>
+        <field name="Reference">S2</field>
+        <field name="Value">SEN0251</field>
+        <field name="Footprint">LIB_HUELLAS_MITP:CONECTOR_0251</field>
+        <field name="Datasheet">https://wiki.dfrobot.com/sen0251/#tech_specs</field>
+        <field name="Description">Barómetro</field>
+        <field name="LINK">https://es.farnell.com/dfrobot/sen0251/barometric-pressure-sensors-module/dp/3879705</field>
+      </fields>
+      <pins>
+        <pin num="0" name="GND" type="input"/>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="SDA" type="input"/>
+        <pin num="3" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Diode</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Ferrite_Coupled_1243">
+      <description>Coupled inductor with ferrite core</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Ferrite_Coupled_1243</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Coupled inductor with ferrite core</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Photo">
+      <description>Photoresistor</description>
+      <footprints>
+        <fp>*LDR*</fp>
+        <fp>R?LDR*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Photo</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Photoresistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Display7Segment_Wurth_WL-T7DS" part="14.2mm_157142S12703">
+      <description>7 Segments Display Single Digit</description>
+      <docs>https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</docs>
+      <footprints>
+        <fp>*WL-T7DS*14.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">14.2mm_157142S12703</field>
+        <field name="Footprint">Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm</field>
+        <field name="Datasheet">https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki</field>
+        <field name="Description">7 Segments Display Single Digit</field>
+        <field name="Manufacturer">Wurth Elektronik</field>
+        <field name="Manufacturer URL">https://www.we-online.com</field>
+        <field name="Created Date">20260323</field>
+        <field name="Series">WL-T7DS</field>
+        <field name="Part Number">157142S12703</field>
+        <field name="Size">14.2mm</field>
+        <field name="Mounting Technology">THT</field>
+        <field name="Emitting Color">Super Red</field>
+        <field name="IV typ.(mcd)">38 mcd</field>
+        <field name="VF typ.(V)">2 V</field>
+        <field name="L(mm)">19 mm</field>
+        <field name="W(mm)">12.6 mm</field>
+        <field name="H(mm)">8 mm</field>
+        <field name="Circuitry">Common Cathode</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="C" type="passive"/>
+        <pin num="5" name="DP" type="passive"/>
+        <pin num="6" name="B" type="passive"/>
+        <pin num="7" name="A" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="F" type="passive"/>
+        <pin num="10" name="G" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32_TOOLS_DIEGO" part="ESP32_WROOM32_SHIELD_V01">
+      <fields>
+        <field name="Reference">UC</field>
+        <field name="Value"/>
+        <field name="Footprint">ESP32_TOOLS_DIEGO:ESP32_WROOM32_SHIELD_V01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="bidirectional"/>
+        <pin num="2" name="EN" type="bidirectional"/>
+        <pin num="3" name="GPIO36" type="input"/>
+        <pin num="4" name="GPIO39" type="input"/>
+        <pin num="5" name="GPIO34" type="input"/>
+        <pin num="6" name="GPIO35" type="input"/>
+        <pin num="7" name="GPIO32" type="bidirectional"/>
+        <pin num="8" name="GPIO33" type="bidirectional"/>
+        <pin num="9" name="GPIO25" type="bidirectional"/>
+        <pin num="10" name="GPIO26" type="bidirectional"/>
+        <pin num="11" name="GPIO27" type="bidirectional"/>
+        <pin num="12" name="GPIO14" type="bidirectional"/>
+        <pin num="13" name="GPIO12" type="bidirectional"/>
+        <pin num="14" name="GND" type="bidirectional"/>
+        <pin num="15" name="GPIO13" type="bidirectional"/>
+        <pin num="16" name="GPIO09" type="no_connect"/>
+        <pin num="17" name="GPIO10" type="no_connect"/>
+        <pin num="18" name="GPIO11" type="no_connect"/>
+        <pin num="19" name="5V" type="bidirectional"/>
+        <pin num="20" name="GND" type="bidirectional"/>
+        <pin num="21" name="GPIO23" type="bidirectional"/>
+        <pin num="22" name="GPIO22" type="bidirectional"/>
+        <pin num="23" name="GPIO01" type="bidirectional"/>
+        <pin num="24" name="GPIO03" type="bidirectional"/>
+        <pin num="25" name="GPIO21" type="bidirectional"/>
+        <pin num="26" name="GND" type="bidirectional"/>
+        <pin num="27" name="GPIO19" type="bidirectional"/>
+        <pin num="28" name="GPIO18" type="bidirectional"/>
+        <pin num="29" name="GPIO05" type="bidirectional"/>
+        <pin num="30" name="GPIO17" type="bidirectional"/>
+        <pin num="31" name="GPIO16" type="bidirectional"/>
+        <pin num="32" name="GPIO04" type="bidirectional"/>
+        <pin num="33" name="GPIO00" type="bidirectional"/>
+        <pin num="34" name="GPIO02" type="bidirectional"/>
+        <pin num="35" name="GPIO15" type="bidirectional"/>
+        <pin num="36" name="GPIO08" type="no_connect"/>
+        <pin num="37" name="GPIO07" type="no_connect"/>
+        <pin num="38" name="GPIO06" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="AS1115-BSST">
+      <description>64 LEDs, I2C Interfaced LED Driver with Keyscan, QSOP-24</description>
+      <docs>https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f</docs>
+      <footprints>
+        <fp>QSOP*3.9x8.7m*P0.635mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AS1115-BSST</field>
+        <field name="Footprint">Package_SO:QSOP-24_3.9x8.7mm_P0.635mm</field>
+        <field name="Datasheet">https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f</field>
+        <field name="Description">64 LEDs, I2C Interfaced LED Driver with Keyscan, QSOP-24</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="bidirectional"/>
+        <pin num="2" name="DIG0" type="open_collector"/>
+        <pin num="3" name="DIG1" type="open_collector"/>
+        <pin num="4" name="DIG2" type="open_collector"/>
+        <pin num="5" name="DIG3" type="open_collector"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="DIG4" type="open_collector"/>
+        <pin num="8" name="DIG5" type="open_collector"/>
+        <pin num="9" name="DIG6" type="open_collector"/>
+        <pin num="10" name="DIG7" type="open_collector"/>
+        <pin num="11" name="KEYA" type="open_collector"/>
+        <pin num="12" name="KEYB" type="open_collector"/>
+        <pin num="13" name="ISET" type="passive"/>
+        <pin num="14" name="SCL" type="input"/>
+        <pin num="15" name="SEGA" type="output"/>
+        <pin num="16" name="SEGF" type="output"/>
+        <pin num="17" name="SEGB" type="output"/>
+        <pin num="18" name="SEGG" type="output"/>
+        <pin num="19" name="VDD" type="power_in"/>
+        <pin num="20" name="SEGC" type="output"/>
+        <pin num="21" name="SEGE" type="output"/>
+        <pin num="22" name="SEGDP" type="output"/>
+        <pin num="23" name="SEGD" type="output"/>
+        <pin num="24" name="IRQ" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Jumper, 2-pole, open</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Small_Open">
+      <description>Jumper, 2-pole, small symbol, open</description>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Small_Open</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Jumper, 2-pole, small symbol, open</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="AP63205WU">
+      <description>2A, 1.1MHz Buck DC/DC Converter, fixed 5.0V output voltage, TSOT-23-6</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf</docs>
+      <footprints>
+        <fp>TSOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP63205WU</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23-6</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf</field>
+        <field name="Description">2A, 1.1MHz Buck DC/DC Converter, fixed 5.0V output voltage, TSOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="FB" type="input"/>
+        <pin num="2" name="EN" type="input"/>
+        <pin num="3" name="IN" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SW" type="output"/>
+        <pin num="6" name="BST" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_MEC_5E">
+      <description>MEC 5E single pole normally-open tactile switch</description>
+      <docs>https://www.apem.com/medias/download/MEC_switches_serie_MULTIMEC5E.pdf</docs>
+      <footprints>
+        <fp>SW*MEC*5G*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_MEC_5E</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.apem.com/medias/download/MEC_switches_serie_MULTIMEC5E.pdf</field>
+        <field name="Description">MEC 5E single pole normally-open tactile switch</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+        <pin num="4" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="CEM-1205-IC">
+      <uri>${KIPRJMOD}/componentes/LIB_CEM-1205-IC/CEM-1205-IC/KiCad/CEM-1205-IC.kicad_sym</uri>
+    </library>
+    <library logical="COMPONENTES_SCH">
+      <uri>${KIPRJMOD}/COMPONENTES_SCH.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>${KICAD10_SYMBOL_DIR}/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>${KICAD10_SYMBOL_DIR}/Device.kicad_sym</uri>
+    </library>
+    <library logical="Display7Segment_Wurth_WL-T7DS">
+      <uri>${KIPRJMOD}/componentes/KiCad_WL-T7DS (rev26a)/symbols/Display7Segment_Wurth_WL-T7DS.kicad_sym</uri>
+    </library>
+    <library logical="ESP32_TOOLS_DIEGO">
+      <uri>C:/Users/diego/Documents/KiCad/9.0/symbols/ESP32_TOOLS_DIEGO.kicad_sym</uri>
+    </library>
+    <library logical="Interface_Expansion">
+      <uri>${KICAD10_SYMBOL_DIR}/Interface_Expansion.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>${KICAD10_SYMBOL_DIR}/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>${KICAD10_SYMBOL_DIR}/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>${KICAD10_SYMBOL_DIR}/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>${KICAD10_SYMBOL_DIR}/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="OUTPUT_2" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="VOUT_4" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="S2" pin="1" pinfunction="VCC_1" pintype="input"/>
+      <node ref="TP4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="VDD_19" pintype="power_in"/>
+      <node ref="UC1" pin="1" pinfunction="3V3_1" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="+5V" class="Default">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="INPUT_3" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="LS1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="VCC_1" pintype="input"/>
+      <node ref="TP3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="FB_1" pintype="input"/>
+      <node ref="UC1" pin="19" pinfunction="5V_19" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/DIG_0" class="Default">
+      <node ref="D5" pin="3" pinfunction="3_3" pintype="passive"/>
+      <node ref="D5" pin="8" pinfunction="8_8" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="DIG0_2" pintype="open_collector"/>
+    </net>
+    <net code="4" name="/DIG_1" class="Default">
+      <node ref="D7" pin="3" pinfunction="3_3" pintype="passive"/>
+      <node ref="D7" pin="8" pinfunction="8_8" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="DIG1_3" pintype="open_collector"/>
+    </net>
+    <net code="5" name="/DIG_2" class="Default">
+      <node ref="D6" pin="3" pinfunction="3_3" pintype="passive"/>
+      <node ref="D6" pin="8" pinfunction="8_8" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="DIG2_4" pintype="open_collector"/>
+    </net>
+    <net code="6" name="/DIG_3" class="Default">
+      <node ref="D8" pin="3" pinfunction="3_3" pintype="passive"/>
+      <node ref="D8" pin="8" pinfunction="8_8" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="DIG3_5" pintype="open_collector"/>
+    </net>
+    <net code="7" name="/PIN_BUTTON_1" class="Default">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="K_3" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="A_4" pintype="passive"/>
+      <node ref="UC1" pin="27" pinfunction="GPIO19_27" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/PIN_BUTTON_2" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="K_3" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="A_4" pintype="passive"/>
+      <node ref="UC1" pin="28" pinfunction="GPIO18_28" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/PIN_BUZZER" class="Default">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="UC1" pin="30" pinfunction="GPIO17_30" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/PIN_LDR" class="Default">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="UC1" pin="8" pinfunction="GPIO33_8" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/PIN_SEN0137" class="Default">
+      <node ref="S1" pin="2" pinfunction="DATA_2" pintype="input"/>
+      <node ref="UC1" pin="21" pinfunction="GPIO23_21" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/SCL" class="Default">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="S2" pin="3" pinfunction="SCL_3" pintype="input"/>
+      <node ref="TP7" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="SCL_14" pintype="input"/>
+      <node ref="UC1" pin="22" pinfunction="GPIO22_22" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/SDA" class="Default">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="S2" pin="2" pinfunction="SDA_2" pintype="input"/>
+      <node ref="TP6" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="SDA_1" pintype="bidirectional"/>
+      <node ref="UC1" pin="25" pinfunction="GPIO21_25" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/SEG_A" class="Default">
+      <node ref="D5" pin="7" pinfunction="A_7" pintype="passive"/>
+      <node ref="D6" pin="7" pinfunction="A_7" pintype="passive"/>
+      <node ref="D7" pin="7" pinfunction="A_7" pintype="passive"/>
+      <node ref="D8" pin="7" pinfunction="A_7" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="SEGA_15" pintype="output"/>
+    </net>
+    <net code="15" name="/SEG_B" class="Default">
+      <node ref="D5" pin="6" pinfunction="B_6" pintype="passive"/>
+      <node ref="D6" pin="6" pinfunction="B_6" pintype="passive"/>
+      <node ref="D7" pin="6" pinfunction="B_6" pintype="passive"/>
+      <node ref="D8" pin="6" pinfunction="B_6" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="SEGB_17" pintype="output"/>
+    </net>
+    <net code="16" name="/SEG_C" class="Default">
+      <node ref="D5" pin="4" pinfunction="C_4" pintype="passive"/>
+      <node ref="D6" pin="4" pinfunction="C_4" pintype="passive"/>
+      <node ref="D7" pin="4" pinfunction="C_4" pintype="passive"/>
+      <node ref="D8" pin="4" pinfunction="C_4" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="SEGC_20" pintype="output"/>
+    </net>
+    <net code="17" name="/SEG_D" class="Default">
+      <node ref="D5" pin="2" pinfunction="D_2" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="D_2" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="D_2" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="D_2" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="SEGD_23" pintype="output"/>
+    </net>
+    <net code="18" name="/SEG_DP" class="Default">
+      <node ref="D5" pin="5" pinfunction="DP_5" pintype="passive"/>
+      <node ref="D6" pin="5" pinfunction="DP_5" pintype="passive"/>
+      <node ref="D7" pin="5" pinfunction="DP_5" pintype="passive"/>
+      <node ref="D8" pin="5" pinfunction="DP_5" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="SEGDP_22" pintype="output"/>
+    </net>
+    <net code="19" name="/SEG_E" class="Default">
+      <node ref="D5" pin="1" pinfunction="E_1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="E_1" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="E_1" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="E_1" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="SEGE_21" pintype="output"/>
+    </net>
+    <net code="20" name="/SEG_F" class="Default">
+      <node ref="D5" pin="9" pinfunction="F_9" pintype="passive"/>
+      <node ref="D6" pin="9" pinfunction="F_9" pintype="passive"/>
+      <node ref="D7" pin="9" pinfunction="F_9" pintype="passive"/>
+      <node ref="D8" pin="9" pinfunction="F_9" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="SEGF_16" pintype="output"/>
+    </net>
+    <net code="21" name="/SEG_G" class="Default">
+      <node ref="D5" pin="10" pinfunction="G_10" pintype="passive"/>
+      <node ref="D6" pin="10" pinfunction="G_10" pintype="passive"/>
+      <node ref="D7" pin="10" pinfunction="G_10" pintype="passive"/>
+      <node ref="D8" pin="10" pinfunction="G_10" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="SEGG_18" pintype="output"/>
+    </net>
+    <net code="22" name="/SWN" class="Default">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SW_5" pintype="output"/>
+    </net>
+    <net code="23" name="GND" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="ADJ/GND_1" pintype="passive"/>
+      <node ref="JP5" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="L2" pin="3" pinfunction="3_3" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="S1" pin="0" pinfunction="GND_0" pintype="input"/>
+      <node ref="S2" pin="0" pinfunction="GND_0" pintype="input"/>
+      <node ref="S3" pin="3" pinfunction="3_3" pintype="passive"/>
+      <node ref="S3" pin="MH1" pinfunction="MH1_MH1" pintype="passive"/>
+      <node ref="S3" pin="MH2" pinfunction="MH2_MH2" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND_4" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="GND_6" pintype="power_in"/>
+      <node ref="UC1" pin="14" pinfunction="GND_14" pintype="bidirectional"/>
+      <node ref="UC1" pin="20" pinfunction="GND_20" pintype="bidirectional"/>
+      <node ref="UC1" pin="26" pinfunction="GND_26" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(D1-K)" class="Default">
+      <node ref="D1" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D2-K)" class="Default">
+      <node ref="D2" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D3-K)" class="Default">
+      <node ref="D3" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D4-A)" class="Default">
+      <node ref="D4" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="LS1" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D_3" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D9-K)" class="Default">
+      <node ref="D9" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J1-Pin_1)" class="Default">
+      <node ref="J1" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="L2" pin="4" pinfunction="4_4" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J1-Pin_2)" class="Default">
+      <node ref="CX18" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(JP4-B)" class="Default">
+      <node ref="CX18" pin="2" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="B_2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(JP5-B)" class="Default">
+      <node ref="CX17" pin="2" pintype="passive"/>
+      <node ref="JP5" pin="2" pinfunction="B_2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(Q1-G)" class="Default">
+      <node ref="Q1" pin="1" pinfunction="G_1" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(Q2-G)" class="Default">
+      <node ref="Q2" pin="1" pinfunction="G_1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(R1-Pad2)" class="Default">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(R3-Pad2)" class="Default">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(R5-Pad2)" class="Default">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="S3" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(U1-BST)" class="Default">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="BST_6" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(U2-ISET)" class="Default">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="ISET_13" pintype="passive"/>
+    </net>
+    <net code="40" name="VBUS" class="Default">
+      <node ref="CX17" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="B_2" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="41" name="VCC" class="Default">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="B_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D_3" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="EN_2" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="IN_3" pintype="power_in"/>
+    </net>
+    <net code="42" name="unconnected-(S3-Pad1)" class="Default">
+      <node ref="S3" pin="1" pinfunction="1_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U2-DIG4-Pad7)" class="Default">
+      <node ref="U2" pin="7" pinfunction="DIG4_7" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U2-DIG5-Pad8)" class="Default">
+      <node ref="U2" pin="8" pinfunction="DIG5_8" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U2-DIG6-Pad9)" class="Default">
+      <node ref="U2" pin="9" pinfunction="DIG6_9" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U2-DIG7-Pad10)" class="Default">
+      <node ref="U2" pin="10" pinfunction="DIG7_10" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U2-IRQ-Pad24)" class="Default">
+      <node ref="U2" pin="24" pinfunction="IRQ_24" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U2-KEYA-Pad11)" class="Default">
+      <node ref="U2" pin="11" pinfunction="KEYA_11" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U2-KEYB-Pad12)" class="Default">
+      <node ref="U2" pin="12" pinfunction="KEYB_12" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(UC1-EN-Pad2)" class="Default">
+      <node ref="UC1" pin="2" pinfunction="EN_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(UC1-GPIO00-Pad33)" class="Default">
+      <node ref="UC1" pin="33" pinfunction="GPIO00_33" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(UC1-GPIO01-Pad23)" class="Default">
+      <node ref="UC1" pin="23" pinfunction="GPIO01_23" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(UC1-GPIO02-Pad34)" class="Default">
+      <node ref="UC1" pin="34" pinfunction="GPIO02_34" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(UC1-GPIO03-Pad24)" class="Default">
+      <node ref="UC1" pin="24" pinfunction="GPIO03_24" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(UC1-GPIO04-Pad32)" class="Default">
+      <node ref="UC1" pin="32" pinfunction="GPIO04_32" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(UC1-GPIO05-Pad29)" class="Default">
+      <node ref="UC1" pin="29" pinfunction="GPIO05_29" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(UC1-GPIO06-Pad38)" class="Default">
+      <node ref="UC1" pin="38" pinfunction="GPIO06_38" pintype="no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(UC1-GPIO07-Pad37)" class="Default">
+      <node ref="UC1" pin="37" pinfunction="GPIO07_37" pintype="no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(UC1-GPIO08-Pad36)" class="Default">
+      <node ref="UC1" pin="36" pinfunction="GPIO08_36" pintype="no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(UC1-GPIO09-Pad16)" class="Default">
+      <node ref="UC1" pin="16" pinfunction="GPIO09_16" pintype="no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(UC1-GPIO10-Pad17)" class="Default">
+      <node ref="UC1" pin="17" pinfunction="GPIO10_17" pintype="no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(UC1-GPIO11-Pad18)" class="Default">
+      <node ref="UC1" pin="18" pinfunction="GPIO11_18" pintype="no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(UC1-GPIO12-Pad13)" class="Default">
+      <node ref="UC1" pin="13" pinfunction="GPIO12_13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(UC1-GPIO13-Pad15)" class="Default">
+      <node ref="UC1" pin="15" pinfunction="GPIO13_15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(UC1-GPIO14-Pad12)" class="Default">
+      <node ref="UC1" pin="12" pinfunction="GPIO14_12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(UC1-GPIO15-Pad35)" class="Default">
+      <node ref="UC1" pin="35" pinfunction="GPIO15_35" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(UC1-GPIO16-Pad31)" class="Default">
+      <node ref="UC1" pin="31" pinfunction="GPIO16_31" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(UC1-GPIO25-Pad9)" class="Default">
+      <node ref="UC1" pin="9" pinfunction="GPIO25_9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(UC1-GPIO26-Pad10)" class="Default">
+      <node ref="UC1" pin="10" pinfunction="GPIO26_10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(UC1-GPIO27-Pad11)" class="Default">
+      <node ref="UC1" pin="11" pinfunction="GPIO27_11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(UC1-GPIO32-Pad7)" class="Default">
+      <node ref="UC1" pin="7" pinfunction="GPIO32_7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(UC1-GPIO34-Pad5)" class="Default">
+      <node ref="UC1" pin="5" pinfunction="GPIO34_5" pintype="input+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(UC1-GPIO35-Pad6)" class="Default">
+      <node ref="UC1" pin="6" pinfunction="GPIO35_6" pintype="input+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(UC1-GPIO36-Pad3)" class="Default">
+      <node ref="UC1" pin="3" pinfunction="GPIO36_3" pintype="input+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(UC1-GPIO39-Pad4)" class="Default">
+      <node ref="UC1" pin="4" pinfunction="GPIO39_4" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,43 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+C1,C2,C3,C4,C5,C7,C9,C10,C14,C16	10	0.1uF 50V				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	https://www.farnell.com/datasheets/3978277.pdf?_gl=1*1v0npkv*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+C6	1	10uF 50V				Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder	https://www.farnell.com/datasheets/3820115.pdf
+C11,C12,C15	3	22uF 10V				Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder	https://www.farnell.com/datasheets/4788294.pdf
+C13	1	10 uF 16V				Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder	https://www.farnell.com/datasheets/2860632.pdf
+CX17,CX18	2	C				Capacitor_THT:C_Rect_L41.5mm_W40.0mm_P37.50mm_MKS4	
+D1,D9	2	RED				LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder	https://www.farnell.com/datasheets/269320.pdf?_gl=1*1b68cze*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+D2	1	GREEN				LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder	https://www.farnell.com/datasheets/217574.pdf?_gl=1*ps5wy5*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+D3	1	YELLOW				LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder	https://www.farnell.com/datasheets/181188.pdf?_gl=1*1i2ni1s*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+D4	1	D				Diode_SMD:D_SMA_Handsoldering	
+D5,D6,D7,D8	4	14.2mm_157142S12703				Display7Segment_THT_Wurth:D_Wurth_WL-T7DS-14.2mm	https://www.we-online.com/catalog/datasheet/157142S12703.pdf?ki
+IC1	1	AZ1117CH-3.3TRG1				SOT230P700X180-4N	https://www.diodes.com//assets/Datasheets/AZ1117C.pdf
+J1	1	CON_ALIM				TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal	
+JP2,JP3	2	Jumper_2_Open				Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical	
+JP4,JP5	2	Jumper_2_Small_Open				Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical	
+L1	1	4.7uH 20%				AS1115-BSST:IFSC2020DEER4R7M01	
+L2	1	L_Ferrite_Coupled_1243				Inductor_THT:Choke_EPCOS_B82722A	
+LS1	1	CEM-1205-IC				CEM1205IC	https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf
+Q1	1					Package_TO_SOT_SMD:TSOT-23_HandSoldering	https://www.farnell.com/datasheets/4773516.pdf?_gl=1*orgvz8*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+Q2	1	2N7002				Package_TO_SOT_SMD:SOT-23_Handsoldering	https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+R1,R3,R4,R6,R13,R14	6	10k				Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+R2	1	NORPS-12				OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical	
+R5	1	100R				Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	https://4donline.ihs.com/images/VipMasterIC/IC/BOUR/BOUR-S-A0013945159/BOUR-S-A0013955106-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0
+R7	1	3k				Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	https://yageogroup.com/component-documentation/download/specsheet/RC1206FR-073KL
+R8	1	1K3				Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf
+R9,R10	2	4k7	DNP			Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	https://www.farnell.com/datasheets/3928835.pdf
+R11	1	27k				Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	https://www.farnell.com/datasheets/2111203.pdf?_gl=1*7u43ju*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+R12	1	220R				Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	https://www.farnell.com/datasheets/4409000.pdf?_gl=1*104oijb*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+R15	1					Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	https://www.farnell.com/datasheets/4409000.pdf?_gl=1*1mnpxu4*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz
+S1	1	SEN0137				LIB_HUELLAS_MITP:CONECTOR_0137	
+S2	1	SEN0251				LIB_HUELLAS_MITP:CONECTOR_0251	https://wiki.dfrobot.com/sen0251/#tech_specs
+S3	1	1825232-1				18252321	https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825232&DocType=Customer%20Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1825232-1
+SW1,SW2	2	SW_MEC_5E				TL3305AF160QG:TL3305AF160QG	https://www.farnell.com/datasheets/4386879.pdf
+TP1	1	TEST_VBUS				TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm	
+TP2	1	TEST_VCC				TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm	
+TP3	1	TEST_5V				TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm	
+TP4	1	TEST_3V3				TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm	
+TP5	1	TEST_GND				TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm	
+TP6	1	TEST_SDA				TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm	
+TP7	1	TEST_SCL				TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm	
+U1	1	AP63205WU				Package_TO_SOT_SMD:TSOT-23-6	https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf
+U2	1	AS1115-BSST				Package_SO:QSOP-24_3.9x8.7mm_P0.635mm	https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f
+UC1	1					ESP32_TOOLS_DIEGO:ESP32_WROOM32_SHIELD_V01	

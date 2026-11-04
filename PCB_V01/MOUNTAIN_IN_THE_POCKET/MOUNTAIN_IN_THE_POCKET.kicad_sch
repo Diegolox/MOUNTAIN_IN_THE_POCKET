@@ -12475,6 +12475,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "4814135"
+			(at 349.25 105.41 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ad09b34f-2780-47e1-b3ac-a8dd2661bbc1")
 		)
@@ -12786,6 +12795,15 @@
 				(justify right bottom)
 			)
 		)
+		(property "CODE FARNELL" "2466421"
+			(at 210.82 109.22 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7037977c-66d6-4ed2-a6e5-7d6a944a5c8b")
 		)
@@ -12916,7 +12934,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 uF"
+		(property "Value" "10 uF 16V"
 			(at 332.74 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12938,7 +12956,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/4520405.pdf?_gl=1*1kxskge*_gcl_au*MTQxNTk5MzQwNi4xNzkwMzUwMDk4LjE0MTI2NjkxNDguMTc5MDM1NTMxMi4xNzkwMzU1NDgzLjE2MDIxNjE0MjAuMTc5MDM1NTMxMi4xNzkwMzU1NDgz"
+		(property "Datasheet" "https://www.farnell.com/datasheets/2860632.pdf"
 			(at 328.93 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -12949,7 +12967,7 @@
 				)
 			)
 		)
-		(property "Description" "C3216X7R1C106K160AC"
+		(property "Description" "MC1206X106K160CT"
 			(at 328.93 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -12960,11 +12978,20 @@
 				)
 			)
 		)
-		(property "LINK" "https://es.farnell.com/tdk/c3216x7r1c106k160ac/conden-10-f-16v-10-x7r-1206/dp/1907353"
+		(property "LINK" "https://es.farnell.com/multicomp-pro/mc1206x106k160ct/conden-10-f-16v-10-x5r-1206/dp/2320922 "
 			(at 328.93 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "2320922"
+			(at 328.93 38.1 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13282,6 +13309,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "1593417"
+			(at 148.59 30.48 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13717,6 +13753,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "499687"
+			(at 224.79 114.3 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6ade29b2-7c53-4ac9-a118-4c3bc29c046b")
 		)
@@ -14055,6 +14100,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "4051103"
+			(at 95.25 106.68 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d3c5292e-a755-4dca-8af2-8bde10b33746")
 		)
@@ -14147,6 +14201,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "3879705"
+			(at 43.18 204.47 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14505,6 +14568,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4439900"
+			(at 341.63 105.41 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15379,6 +15451,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "499687"
+			(at 369.57 111.76 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "20dcf554-357a-42a9-b369-1bafc92b81f0")
 		)
@@ -15563,6 +15644,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "499687"
+			(at 256.54 33.02 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "11c16ca8-44cc-46c8-a295-cda97b450d50")
 		)
@@ -15648,6 +15738,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "499687"
+			(at 105.41 106.68 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16135,6 +16234,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "327700"
+			(at 33.02 231.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c2ea386e-49a9-4f4e-a197-2bcce785ac35")
 		)
@@ -16392,6 +16500,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "3779167"
+			(at 391.16 219.71 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17348,6 +17465,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "9845313"
+			(at 340.36 121.92 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "da7fcfee-533e-486f-a832-383716b4c9aa")
 		)
@@ -18029,6 +18155,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "499687"
+			(at 304.8 161.29 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc1090f7-adc4-49cf-a88a-f4d391142e80")
 		)
@@ -18116,6 +18251,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "5109712"
+			(at 276.86 38.1 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18353,6 +18497,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "3483073"
+			(at 354.33 33.02 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9e831916-334b-430c-b0e3-858ba452789f")
 		)
@@ -18528,6 +18681,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "4051103"
+			(at 41.91 106.68 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f95615dc-6f15-4b7e-a502-443b4a8099eb")
 		)
@@ -18697,6 +18859,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "1593417"
+			(at 62.23 34.29 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19014,6 +19185,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "1593417"
+			(at 81.28 54.61 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19581,6 +19761,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "499687"
+			(at 52.07 106.68 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bbc07cd3-5ea6-440f-8e57-ded26979fa61")
 		)
@@ -19745,6 +19934,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "499687"
+			(at 27.94 147.32 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20269,6 +20467,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "3779167"
+			(at 358.14 219.71 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "62f7af77-d8fd-4f76-ace7-bf4cba91016f")
 		)
@@ -20653,6 +20860,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "1593417"
+			(at 41.91 54.61 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21301,6 +21517,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "3779167"
+			(at 358.14 172.72 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "2fea0afd-ae17-483d-a305-4c7d877bdf1a")
 		)
@@ -21492,6 +21717,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4936455"
+			(at 140.97 34.29 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21999,6 +22233,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "4328186"
+			(at 316.23 198.12 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f0f80da9-23b9-425d-9271-29cbacb9f2e4")
 		)
@@ -22158,6 +22401,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "5109712"
+			(at 293.37 38.1 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "72a79510-fd2e-47fa-9a96-676e56121aa9")
 		)
@@ -22245,6 +22497,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "5109712"
+			(at 382.27 38.1 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22421,6 +22682,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "3517874"
+			(at 41.91 162.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6fa0e876-5936-47ff-af7c-5c04c941a766")
 		)
@@ -22484,7 +22754,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/TAIY/TAIY-S-A0014554820/TAIY-S-A0014554210-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0"
+		(property "Datasheet" "https://www.farnell.com/datasheets/3820115.pdf"
 			(at 208.28 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -22495,7 +22765,7 @@
 				)
 			)
 		)
-		(property "Description" "UMK325AB7106MM-T"
+		(property "Description" "MP1206X106M500CT"
 			(at 208.28 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -22506,11 +22776,20 @@
 				)
 			)
 		)
-		(property "LINK" "https://es.farnell.com/taiyo-yuden/umk325ab7106mm-t/condens-mlcc-10uf-50vdc-x7r/dp/4666697"
+		(property "LINK" "https://es.farnell.com/multicomp-pro/mp1206x106m500ct/cond-10uf-50v-mlcc-1206/dp/4130288 "
 			(at 208.28 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4130288"
+			(at 208.28 38.1 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22944,6 +23223,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "3779167"
+			(at 391.16 172.72 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23635,6 +23923,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "499687"
+			(at 27.94 190.5 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "13a168ce-e188-40d5-a37e-b4adc1defed0")
 		)
@@ -23882,6 +24179,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "499687"
+			(at 17.78 238.76 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b1a9c44-b472-4c5f-b7f3-3ae2dd5bb64e")
 		)
@@ -24116,6 +24422,15 @@
 				)
 			)
 		)
+		(property "CODE FARNELL" "2772069"
+			(at 151.13 53.34 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a937038f-ec18-4804-9c8f-97a2d6fc96ea")
 		)
@@ -24210,6 +24525,15 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "499687"
+			(at 224.79 40.64 0)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
