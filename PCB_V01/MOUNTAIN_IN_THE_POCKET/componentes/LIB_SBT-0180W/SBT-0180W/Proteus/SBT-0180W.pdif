@@ -1,0 +1,128 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SBT-0180W"
+   (description "MULTICOMP - SBT-0180W - CHOKE, COMMON MODE, 2X80UH")
+   (family "IND")
+   (package "DIPS508W60P254L640H800Q4N")
+   (attribute "Datasheet Link" "https://www.digikey.com/en/products/detail/kemet/SBT-0180W/9744594")
+   (attribute "Geometry.Height" "8mm")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "Multicomp Pro")
+   (attribute "Manufacturer_Part_Number" "SBT-0180W")
+   (gate
+    (symbol "SBT-0180W")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "4" 4 PS)
+    (pin "3" 3 PS)
+   )
+  )
+  (symbol "SBT-0180W"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "DIPS508W60P254L640H800Q4N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.46 2.18)
+      (pt 6.54 2.18)
+      (pt 6.54 -4.72)
+      (pt -1.46 -4.72)
+      (pt -1.46 2.18))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.21 1.93)
+      (pt 6.29 1.93)
+      (pt 6.29 -4.47)
+      (pt -1.21 -4.47)
+      (pt -1.21 1.93))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.21 0.66)
+      (pt 0.06 1.93))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.21 -4.47)
+      (pt 6.29 -4.47))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 6.29 1.93)
+      (pt -1.21 1.93)
+      (pt -1.21 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 0 -2.54) (padstack 0))
+   (leg 3 (pt 5.08 -2.54) (padstack 0))
+   (leg 4 (pt 5.08 0) (padstack 0))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.2))
+    (pad (layer INNER) (round 1.2))
+    (pad (layer BCOP) (round 1.2))
+   )
+   (padstack 1
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (square 1.2))
+    (pad (layer INNER) (round 1.2))
+    (pad (layer BCOP) (square 1.2))
+   )
+   (model "SBT-0180W.stp"
+    (euler 0 0 0)
+    (offset 2.5399999618530273 -1.2999999523162842 0.6399999856948853)
+   )
+  )
+ )
+)

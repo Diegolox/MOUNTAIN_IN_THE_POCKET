@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=SU9VF-05030
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=5.4
+Released=2020-10-25 12:15:46
+Downloaded=2026-11-06 19:57:34
+3D=Y

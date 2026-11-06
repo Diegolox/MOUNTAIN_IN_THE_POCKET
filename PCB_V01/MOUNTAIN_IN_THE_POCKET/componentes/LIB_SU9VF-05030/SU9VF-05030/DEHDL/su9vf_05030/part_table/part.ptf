@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SU9VF_05030'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "SU9VF-05030" (!) = "", "SU9VF05030", "Other", "", "", "Common Mode Filter", "https://www.yageogroup.com/content/datasheet/asset/file/KEM_LF0017_SU9VF-9HF", "17 mm"
+END_PART
+
+END.

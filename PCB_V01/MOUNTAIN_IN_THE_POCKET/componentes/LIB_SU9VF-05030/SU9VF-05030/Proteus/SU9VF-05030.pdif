@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SU9VF-05030"
+   (description "Common Mode Filter")
+   (family "ANA")
+   (package "SU9VF05030")
+   (attribute "Datasheet Link" "https://www.yageogroup.com/content/datasheet/asset/file/KEM_LF0017_SU9VF-9HF")
+   (attribute "Geometry.Height" "17mm")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "Yageo Group")
+   (attribute "Manufacturer_Part_Number" "SU9VF-05030")
+   (gate
+    (symbol "SU9VF-05030")
+    (pin "PRI+" 1 PS)
+    (pin "PRI-" 2 PS)
+    (pin "SEC-" 3 PS)
+    (pin "SEC+" 4 PS)
+   )
+  )
+  (symbol "SU9VF-05030"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SU9VF05030"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -4.5 2)
+      (pt 12.5 2)
+      (pt 12.5 -9)
+      (pt -4.5 -9)
+      (pt -4.5 2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.5 2)
+      (pt 12.5 2)
+      (pt 12.5 -9)
+      (pt -4.5 -9)
+      (pt -4.5 2))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.5 3)
+      (pt 13.5 3)
+      (pt 13.5 -10)
+      (pt -5.5 -10)
+      (pt -5.5 3))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 0.000 -7.000) (padstack 0))
+   (leg 3 (pt 8.000 -7.000) (padstack 0))
+   (leg 4 (pt 8.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 1
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (square 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (square 1.300))
+   )
+   (model "SU9VF-05030.stp"
+    (euler 90 0 0)
+    (offset 4.019999980926514 -3.5 2.5199999809265137)
+   )
+  )
+ )
+)

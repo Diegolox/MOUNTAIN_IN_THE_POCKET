@@ -1,0 +1,16 @@
+.SU9VF-05030 :1 ;Common Mode Filter
+SU9VF05030
+*STM FL
+*NGS
+*PLB 1="PRI+" 2="PRI-" 3="SEC-" 4="SEC+"
+*MXP 4
+*DFN SU9VF-05030
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Yageo Group)
+~!Manufacturer_Part_Number (SU9VF-05030)
+~!Link Datasheet (https://www.yageogroup.com/content/datasheet/asset/file/KEM_LF0017_SU9VF-9HF)
+~!Height (17mm)
+~!3D_Model (SU9VF-05030)
+SU9VF-05030
+1.1!U 2.1!U 3.1!U 4.1!U 

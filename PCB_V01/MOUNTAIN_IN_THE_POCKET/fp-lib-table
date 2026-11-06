@@ -11,4 +11,6 @@
 	(lib (name "CAPAE660X570N") (type "KiCad") (uri "${KIPRJMOD}/componentes/LIB_865230343004/865230343004/KiCad/CAPAE660X570N.pretty") (options "") (descr ""))
 	(lib (name "2N7002") (type "KiCad") (uri "${KIPRJMOD}/componentes/LIB_2N7002/2N7002/KiCad/2N7002.pretty") (options "") (descr ""))
 	(lib (name "ESP32_TOOLS_DIEGO") (type "KiCad") (uri "${KIPRJMOD}/componentes/HUELLAS/ESP32_TOOLS_DIEGO.pretty") (options "") (descr ""))
+	(lib (name "KiCad") (type "KiCad") (uri "${KIPRJMOD}/componentes/LIB_SBT-0180W/SBT-0180W/KiCad.pretty") (options "") (descr ""))
+	(lib (name "☆Huellas importadas") (type "KiCad") (uri "${KIPRJMOD}/☆Huellas importadas.pretty") (options "") (descr ""))
 )

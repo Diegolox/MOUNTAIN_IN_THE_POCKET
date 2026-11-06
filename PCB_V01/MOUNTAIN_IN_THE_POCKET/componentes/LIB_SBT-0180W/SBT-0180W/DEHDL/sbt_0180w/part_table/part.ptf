@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SBT_0180W'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Multicomp Pro", "SBT-0180W" (!) = "", "DIPS508W60P254L640H800Q4N", "Dual-In-Line Sockets", "", "", "MULTICOMP - SBT-0180W - CHOKE, COMMON MODE, 2X80UH", "https://www.digikey.com/en/products/detail/kemet/SBT-0180W/9744594", "8 mm"
+END_PART
+
+END.

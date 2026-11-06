@@ -1,0 +1,9 @@
+Manufacturer=Multicomp Pro
+PartNumber=SBT-0180W
+PartCategory=Inductor
+PackageCategory=Dual-In-Line Sockets
+PinCount=4
+Version=1.1
+Released=2017-09-12 13:05:37
+Downloaded=2026-11-06 19:30:33
+3D=Y

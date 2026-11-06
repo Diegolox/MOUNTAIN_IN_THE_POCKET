@@ -1,0 +1,16 @@
+.SBT-0180W :1 ;MULTICOMP - SBT-0180W - CHOKE, COMMON MODE, 2X80UH
+DIPS508W60P254L640H800Q4N
+*STM L
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN SBT-0180W
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Multicomp Pro)
+~!Manufacturer_Part_Number (SBT-0180W)
+~!Link Datasheet (https://www.digikey.com/en/products/detail/kemet/SBT-0180W/9744594)
+~!Height (8mm)
+~!3D_Model (SBT-0180W)
+SBT-0180W
+1.1!U 2.1!U 4.1!U 3.1!U 
