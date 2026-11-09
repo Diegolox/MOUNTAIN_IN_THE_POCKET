@@ -17887,8 +17887,19 @@
 				)
 			)
 		)
-		(property "Description" "IFSC2020DEER4R7M01Copiado"
+		(property "Description" "IFSC2020DEER4R7M01"
 			(at 267.97 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "CODE FARNELL" "4350988"
+			(at 267.97 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
