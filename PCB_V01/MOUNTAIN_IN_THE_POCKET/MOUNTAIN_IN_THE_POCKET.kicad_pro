@@ -557,7 +557,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "..\\..\\doc\\boom\\BOOM6.csv",
+    "bom_export_filename": "..\\..\\doc\\boom\\BOOM7.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": "\t",
