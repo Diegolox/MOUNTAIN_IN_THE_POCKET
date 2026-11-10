@@ -13017,7 +13017,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CEM-1205-IC"
+		(property "Value" "MCKPX-G1205A-3700"
 			(at 356.616 114.046 0)
 			(hide yes)
 			(show_name no)
@@ -13041,7 +13041,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf"
+		(property "Datasheet" "https://www.farnell.com/datasheets/1498156.pdf"
 			(at 360.68 307.95 0)
 			(hide yes)
 			(show_name no)
@@ -13053,7 +13053,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "12 mm, 5 Vdc, 92 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer"
+		(property "Description" "Magnetic buzzer, 5 Vdc nominal, 30 mA max, 85 dB min at 10 cm, 2.3 kHz, through hole, 7.6 mm pin pitch"
 			(at 349.25 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -13076,7 +13076,7 @@
 				(justify left top)
 			)
 		)
-		(property "Farnell Part Number" ""
+		(property "Farnell Part Number" "2135914"
 			(at 360.68 607.95 0)
 			(hide yes)
 			(show_name no)
@@ -13100,7 +13100,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Same Sky"
+		(property "Manufacturer_Name" "Multicomp Pro"
 			(at 360.68 807.95 0)
 			(hide yes)
 			(show_name no)
@@ -13112,7 +13112,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CEM-1205-IC"
+		(property "Manufacturer_Part_Number" "MCKPX-G1205A-3700"
 			(at 360.68 907.95 0)
 			(hide yes)
 			(show_name no)
@@ -13124,7 +13124,7 @@
 				(justify left top)
 			)
 		)
-		(property "LINK" "https://es.farnell.com/same-sky/cem-1205-ic/transudct-zumb-mag-92dba-3-6v/dp/4814135#anchorTechnicalDOCS"
+		(property "LINK" "https://es.farnell.com/multicomp-pro/mckpx-g1205a-3700/funci-n-del-transductor-zumbador/dp/2135914"
 			(at 349.25 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -13135,7 +13135,7 @@
 				)
 			)
 		)
-		(property "CODE FARNELL" "4814135"
+		(property "CODE FARNELL" "2135914"
 			(at 349.25 105.41 0)
 			(hide yes)
 			(show_name no)
