@@ -1,0 +1,83 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,84.0375,-45.0,180.0,top
+C10,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,83.75,-87.25,-90.0,top
+C11,22uF 10V,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,96.5,-90.7,-90.0,top
+C12,22uF 10V,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,93.9,-90.7,-90.0,top
+C13,10 uF 16V,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,98.0,-62.45,-90.0,top
+C14,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,155.63875,-40.6575,-90.0,top
+C15,22uF 10V,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,102.9,-57.2,90.0,top
+C16,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,119.95,-75.4,180.0,top
+C17,10uF 50V,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,72.4,-90.65,-90.0,top
+C2,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,123.0,-45.0,0.0,top
+C3,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,139.2,-40.2,90.0,top
+C4,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,118.8,-54.4,-90.0,top
+C5,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,121.9,-58.8,0.0,top
+C6,10uF 50V,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,74.8,-90.65,-90.0,top
+C7,1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,74.8,-86.05,90.0,top
+C9,0.1uF 50V,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,93.25,-82.27,90.0,top
+CX21,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,66.645,-47.9,180.0,top
+CX22,2.2uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,66.245,-45.6,180.0,top
+CX23,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,62.8,-72.1725,180.0,top
+CX24,2.2uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,63.0,-69.7725,180.0,top
+CX25,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,80.1,-77.5625,90.0,top
+CX26,2.2uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,82.4,-77.0,90.0,top
+D1,RED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,80.5,-71.1,180.0,top
+D3,YELLOW,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,134.2,-51.6,90.0,top
+D4,D,D_SMA_Handsoldering,126.8,-75.2,0.0,top
+D5,14.2mm_157142S12703,D_Wurth_WL-T7DS-14.2mm,149.94,-91.8,180.0,top
+D6,14.2mm_157142S12703,D_Wurth_WL-T7DS-14.2mm,149.94,-64.2,180.0,top
+D7,14.2mm_157142S12703,D_Wurth_WL-T7DS-14.2mm,149.94,-78.0,180.0,top
+D8,14.2mm_157142S12703,D_Wurth_WL-T7DS-14.2mm,149.94,-50.4,180.0,top
+D9,RED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,78.5,-91.45,180.0,top
+H1,MountingHole,MountingHole_3.2mm_M3,166.4,-94.8,0.0,top
+H2,MountingHole,MountingHole_3.2mm_M3,160.4,-40.0,0.0,top
+H3,MountingHole,MountingHole_3.2mm_M3,81.6,-38.2,0.0,top
+H4,MountingHole,MountingHole_3.2mm_M3,80.5,-65.7,0.0,top
+IC1,AZ1117CH-3.3TRG1,SOT230P700X180-4N,103.0,-64.2,-90.0,top
+J1,CON_ALIM,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",68.605,-38.5275,180.0,top
+JP2,Jumper_2_Open,PinHeader_2x01_P2.54mm_Vertical,70.6075,-84.0,0.0,top
+JP3,Jumper_2_Open,PinHeader_2x01_P2.54mm_Vertical,74.895,-71.2725,0.0,top
+JP4,Jumper_2_Small_Open,PinHeader_2x01_P2.54mm_Vertical,68.63,-71.2725,0.0,top
+JP5,Jumper_2_Small_Open,PinHeader_2x01_P2.54mm_Vertical,77.2,-77.005,90.0,top
+JP6,Jumper_2_Open,PinHeader_2x01_P2.54mm_Vertical,63.295,-78.5,0.0,top
+JP7,Jumper_2_Open,PinHeader_2x01_P2.54mm_Vertical,77.8,-58.7675,-90.0,top
+JP8,Jumper_2_Open,PinHeader_2x01_P2.54mm_Vertical,60.8,-58.7775,90.0,top
+JP9,Jumper_2_Small_Open,PinHeader_2x01_P2.54mm_Vertical,71.875,-46.8,0.0,top
+L1,22uH 20%,IFSC2020DEER4R7M01,88.8,-89.6,0.0,top
+L2,L_Ferrite_Coupled_1423,DIPS508W60P254L640H800Q4N,70.7,-76.8,0.0,top
+L3,L_Ferrite_Coupled_1423,SU9VF05030,69.3,-58.7375,-90.0,top
+LS1,CEM-1205-IC,CEM1205IC,125.8,-85.6,-90.0,top
+Q1,~,TSOT-23_HandSoldering,69.1125,-89.0,-90.0,top
+Q2,2N7002,SOT-23_Handsoldering,127.7,-70.2,0.0,top
+R1,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,130.8,-54.8,90.0,top
+R10,4k7,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,141.4,-36.15,-90.0,top
+R11,27k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,144.0,-40.2,-90.0,top
+R12,220R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,122.95,-66.65,180.0,top
+R13,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,123.45,-70.9,90.0,top
+R14,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,83.05,-91.4,180.0,top
+R15,~,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,86.0,-57.2,90.0,top
+R16,52.3k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,82.1,-83.45,180.0,top
+R17,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,79.25,-82.35,90.0,top
+R2,NORPS-12,R_LDR_5.1x4.3mm_P3.4mm_Vertical,82.8,-50.3,-90.0,top
+R3,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,130.6035,-62.85,90.0,top
+R4,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,65.9,-85.0,90.0,top
+R5,100R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,65.9,-90.0,-90.0,top
+R6,10k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,85.7,-71.1,180.0,top
+R8,1K3,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,134.2,-56.8,90.0,top
+R9,4k7,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,141.4,-41.2,90.0,top
+S1,SEN0137,CONECTOR_0137,121.86,-42.0,90.0,top
+S2,SEN0251,CONECTOR_0251,132.5625,-42.185,90.0,top
+S3,1825232-1,18252321,61.4,-88.0,-90.0,top
+SW1,SW_MEC_5E,TL3305AF160QG,124.4,-54.8,180.0,top
+SW2,SW_MEC_5E,TL3305AF160QG,124.4,-62.8,180.0,top
+TP1,TEST_VBUS,TestPoint_THTPad_D1.0mm_Drill0.5mm,80.8,-73.4,0.0,top
+TP2,TEST_VCC,TestPoint_THTPad_D1.0mm_Drill0.5mm,75.2,-82.4,0.0,top
+TP3,TEST_5V,TestPoint_THTPad_D1.0mm_Drill0.5mm,86.475,-82.2,0.0,top
+TP4,TEST_3V3,TestPoint_THTPad_D1.0mm_Drill0.5mm,131.8,-48.4,0.0,top
+TP5,TEST_GND,TestPoint_THTPad_D1.0mm_Drill0.5mm,99.5,-90.4,0.0,top
+TP6,TEST_SDA,TestPoint_THTPad_D1.0mm_Drill0.5mm,126.4,-47.4,0.0,top
+TP7,TEST_SCL,TestPoint_THTPad_D1.0mm_Drill0.5mm,136.6,-48.0,0.0,top
+TP8,TEST_GND,TestPoint_THTPad_D1.0mm_Drill0.5mm,144.25,-30.35,0.0,top
+U2,AS1115-BSST,QSOP-24_3.9x8.7mm_P0.635mm,150.015,-38.1625,-90.0,top
+U3,MCP16311x-xMS,MSOP-8_3x3mm_P0.65mm,79.2,-88.0,0.0,top
+UC1,~,ESP32_WROOM32_SHIELD_V01,101.5,-60.33,0.0,top

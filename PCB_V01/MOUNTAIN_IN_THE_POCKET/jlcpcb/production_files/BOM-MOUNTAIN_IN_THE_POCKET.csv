@@ -1,0 +1,64 @@
+Comment,Designator,Footprint,LCSC,Quantity
+10k,R13,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+22uF 10V,C12,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+Jumper_2_Small_Open,JP4,PinHeader_2x01_P2.54mm_Vertical,,1
+2.2uF,CX26,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+~,R15,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+10k,R14,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+SW_MEC_5E,SW1,TL3305AF160QG,,1
+SEN0137,S1,CONECTOR_0137,,1
+14.2mm_157142S12703,D7,D_Wurth_WL-T7DS-14.2mm,,1
+SEN0251,S2,CONECTOR_0251,,1
+D,D4,D_SMA_Handsoldering,,1
+1825232-1,S3,18252321,,1
+0.1uF 50V,C10,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+0.1uF 50V,C16,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+10k,R3,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+10 uF 16V,C13,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+14.2mm_157142S12703,D8,D_Wurth_WL-T7DS-14.2mm,,1
+100nF,CX23,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+1K3,R8,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+27k,R11,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+L_Ferrite_Coupled_1423,L3,SU9VF05030,,1
+~,Q1,TSOT-23_HandSoldering,,1
+14.2mm_157142S12703,D5,D_Wurth_WL-T7DS-14.2mm,,1
+0.1uF 50V,C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+RED,D1,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,,1
+0.1uF 50V,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+2N7002,Q2,SOT-23_Handsoldering,,1
+SW_MEC_5E,SW2,TL3305AF160QG,,1
+10k,R17,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+AZ1117CH-3.3TRG1,IC1,SOT230P700X180-4N,,1
+22uF 10V,C15,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+Jumper_2_Small_Open,JP9,PinHeader_2x01_P2.54mm_Vertical,,1
+0.1uF 50V,C5,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+100R,R5,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+0.1uF 50V,C14,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+L_Ferrite_Coupled_1423,L2,DIPS508W60P254L640H800Q4N,,1
+22uF 10V,C11,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+Jumper_2_Small_Open,JP5,PinHeader_2x01_P2.54mm_Vertical,,1
+RED,D9,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,,1
+MCP16311x-xMS,U3,MSOP-8_3x3mm_P0.65mm,,1
+4k7,,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,0
+2.2uF,CX24,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+10uF 50V,C17,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+100nF,CX25,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+Jumper_2_Open,JP2,PinHeader_2x01_P2.54mm_Vertical,,1
+14.2mm_157142S12703,D6,D_Wurth_WL-T7DS-14.2mm,,1
+2.2uF,CX22,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+10k,R4,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+100nF,CX21,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+10k,R1,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+0.1uF 50V,C3,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+YELLOW,D3,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,,1
+CEM-1205-IC,LS1,CEM1205IC,,1
+0.1uF 50V,C9,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+22uH 20%,L1,IFSC2020DEER4R7M01,,1
+220R,R12,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+10uF 50V,C6,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,,1
+AS1115-BSST,U2,QSOP-24_3.9x8.7mm_P0.635mm,,1
+10k,R6,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,1
+0.1uF 50V,C4,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+52.3k,R16,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,1
+4k7,,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,0
+1uF 50V,C7,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
